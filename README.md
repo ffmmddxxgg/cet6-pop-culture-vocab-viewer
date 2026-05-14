@@ -4,9 +4,9 @@
 
 这个项目的定位很明确：**只负责展示已经生成好的词汇卡 JSON 数据**。它不生成词卡、不联网搜索、不调用 AI、不爬取字幕、不读取 PDF，也不做 NLP 匹配。你可以把它理解成一个“本地词汇资料浏览器”：外部脚本或 AI 负责生产数据，本项目负责把这些数据用更适合复习的方式展示出来。
 
-![CET-6 Pop Culture Vocabulary Card Viewer 效果演示](docs/demo-screenshot.svg)
+![CET-6 Pop Culture Vocabulary Card Viewer 效果演示](demo-screenshot.svg)
 
-> 如果上方图片没有显示，请确认仓库中存在 `docs/demo-screenshot.svg`。
+> 如果上方图片没有显示，请确认仓库中存在 `demo-screenshot.svg`。
 
 ## 项目特点
 
