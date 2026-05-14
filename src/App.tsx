@@ -1,8 +1,12 @@
 import { useEffect, useMemo, useState } from "react";
+import type { ReactNode } from "react";
 
 type Card = Record<string, any> & {
   word?: string;
   lemma?: string;
+  phonetic?: string;
+  ipa?: string;
+  phonetics?: { us?: string; uk?: string; american?: string; british?: string };
   status?: "A" | "B" | "C" | string;
   cet6_meaning_cn?: string[] | string;
   core_meaning_en?: string;
@@ -94,7 +98,7 @@ export default function App() {
     const needle = query.trim().toLowerCase();
     return cards
       .map((card, originalIndex) => ({ card, originalIndex }))
-      .filter(({ card, originalIndex }) => {
+      .filter(({ card }) => {
         if (category !== "all" && card.__category !== category) return false;
         if (status !== "all" && card.status !== status) return false;
         if (!needle) return true;
@@ -251,6 +255,6 @@ function Stat({ label, value }: { label: string; value: number }) {
   return <div className="stat"><strong>{value}</strong><span>{label}</span></div>;
 }
 
-function Block({ title, children }: { title: string; children: React.ReactNode }) {
+function Block({ title, children }: { title: string; children: ReactNode }) {
   return <section className="block"><h3>{title}</h3>{children}</section>;
 }
