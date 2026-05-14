@@ -8,8 +8,7 @@ echo.
 
 powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0start-windows.ps1"
 
-if errorlevel 1 (
-  echo.
-  echo Launch failed. Please check the message above.
-  pause
-)
+echo.
+echo Launcher finished. If the browser did not open, check the messages above.
+echo You can also open http://127.0.0.1:5173 manually while the dev server is running.
+pause
