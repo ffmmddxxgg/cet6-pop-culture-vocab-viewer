@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
 const dataDir = join(process.cwd(), "public", "data");
@@ -23,6 +23,7 @@ async function isCardsFile(filename) {
   }
 }
 
+await mkdir(dataDir, { recursive: true });
 const files = (await readdir(dataDir)).sort();
 const cardFiles = [];
 
