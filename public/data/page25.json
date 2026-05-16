@@ -40,16 +40,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "sneeze 可联想到动物城市中不同动物的身体反应和喜剧小细节。",
-      "association_en": "sneeze 可联想到动物城市中不同动物的身体反应和喜剧小细节。",
-      "example_sentence": "A tiny animal sneeze interrupts the serious meeting.",
-      "example_sentence_cn": "一只小动物的喷嚏打断了严肃会议。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用小动物在花粉中打喷嚏来记 sneeze。它表示打喷嚏。",
+      "association_en": "",
+      "example_sentence": "Judy tries not to sneeze when the flower dust covers her nose.",
+      "example_sentence_cn": "花粉落满鼻子时，Judy 努力忍住不打喷嚏。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "sneeze = 打喷嚏。画面是鼻子受刺激后突然喷气。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“打喷嚏”。"
     },
     "memory_anchor": {
       "one_sentence": "sneeze 可联想到动物城市中不同动物的身体反应和喜剧小细节。",
@@ -136,20 +137,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "241 on one warhead was three quarters of a kilo lighter.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “241 on one warhead was three quarters of a kilo lighter.”，判断 lighter 在句中对应“打火机 / 较轻的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "241 on one warhead was three quarters of a kilo lighter.",
         "title": "Tenet 2020",
         "work_id": "subtitle_tenet_2020_1080p_hdrip_x264_aac2_0_shitbox_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “241 on one warhead was three quarters of a kilo lighter.” 把 lighter 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“打火机 / 较轻的”。"
+          "context": "整句翻译：241 号那枚弹头轻了四分之三公斤。\n词义定位：lighter 在这里是 light 的比较级，表示“更轻的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “241 on one warhead was three quarters of a kilo lighter.”，判断 lighter 在句中对应“打火机 / 较轻的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -162,16 +163,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "lighter 可联想到末世中点火、照明和求生物资。",
-      "association_en": "lighter 可联想到末世中点火、照明和求生物资。",
-      "example_sentence": "A lighter becomes a small tool for survival in the dark.",
-      "example_sentence_cn": "打火机成了黑暗中求生的小工具。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用打火机点燃微弱火光来记 lighter。它可指打火机，也可表示更轻的。",
+      "association_en": "",
+      "example_sentence": "Ellie flicks the lighter under the shelf and sees spores drifting in the air.",
+      "example_sentence_cn": "Ellie 在架子下点亮打火机，看见孢子在空气中漂浮。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "lighter = 打火机/更轻的。末世场景先记打火机。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“打火机 / 较轻的”。"
     },
     "memory_anchor": {
       "one_sentence": "lighter 可联想到末世中点火、照明和求生物资。",
@@ -258,20 +260,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Oh, man. Can she snore.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Oh, man. Can she snore.”，判断 snore 在句中对应“打鼾 / 鼾声”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Oh, man. Can she snore.",
         "title": "The Owl House S01E10",
         "work_id": "subtitle_the_owl_house_s01e10_1080p_dsnp_web_dl_aac2_0_h_264_lazy_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Oh, man. Can she snore.” 把 snore 放在句末，往往是在补充结果、态度或关键信息。它在句中更像动作或行为，复习时重点抓“打鼾 / 鼾声”这个动作感。"
+          "context": "整句翻译：天啊，她可真会打鼾。\n词义定位：snore 在这里作动词，表示“打鼾”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Oh, man. Can she snore.”，判断 snore 在句中对应“打鼾 / 鼾声”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -284,16 +286,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "snore 可联想到 Po 吃饱后呼呼大睡的喜剧感。",
-      "association_en": "snore 可联想到 Po 吃饱后呼呼大睡的喜剧感。",
-      "example_sentence": "The panda begins to snore after a huge bowl of noodles.",
-      "example_sentence_cn": "熊猫吃完一大碗面后开始打鼾。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用阿宝训练后累到打鼾来记 snore。它表示打鼾、鼾声。",
+      "association_en": "",
+      "example_sentence": "Po begins to snore before Shifu even finishes explaining the next exercise.",
+      "example_sentence_cn": "师父还没讲完下一个练习，阿宝就开始打鼾。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "snore = 打鼾。画面是睡觉时发出低沉鼻音。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“打鼾 / 鼾声”。"
     },
     "memory_anchor": {
       "one_sentence": "snore 可联想到 Po 吃饱后呼呼大睡的喜剧感。",
@@ -457,20 +460,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "- The forge! - The what?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “- The forge! - The what?”，判断 forge 在句中对应“锻造 / 伪造 / 铁匠铺”里的哪一层意思。",
+        "note_cn": "",
         "quote": "- The forge! - The what?",
         "title": "The Bad Guys 2 2025",
         "work_id": "subtitle_the_bad_guys_2_2025_1080p_10bit_bluray_8ch_x265_hevc_psa_0_eng_us_itunes",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “- The forge! - The what?” 带有明显情绪爆发，说明 forge 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“锻造 / 伪造 / 铁匠铺”。"
+          "context": "整句翻译：锻造炉！什么？\n词义定位：forge 在这里是名词，表示“锻炉、铁匠铺”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “- The forge! - The what?”，判断 forge 在句中对应“锻造 / 伪造 / 铁匠铺”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -487,20 +490,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I forge my own path!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I forge my own path!”，判断 forge 在句中对应“锻造 / 伪造 / 铁匠铺”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I forge my own path!",
         "title": "The Owl House S01E16",
         "work_id": "subtitle_the_owl_house_s01e16_1080p_dsnp_web_dl_aac2_0_h_264_lazy_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “I forge my own path!” 带有明显情绪爆发，说明 forge 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“锻造 / 伪造 / 铁匠铺”。"
+          "context": "整句翻译：我开辟自己的道路！\n词义定位：forge 在 forge my own path 中表示“开创、艰难推进”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I forge my own path!”，判断 forge 在句中对应“锻造 / 伪造 / 铁匠铺”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -513,16 +516,17 @@
       "tier": 1,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "forge 可联想到 Minecraft 中熔炉、铁匠和打造装备。",
-      "association_en": "forge 可联想到 Minecraft 中熔炉、铁匠和打造装备。",
-      "example_sentence": "The player uses a forge-like furnace to prepare gear.",
-      "example_sentence_cn": "玩家用类似锻炉的熔炉准备装备。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用铁匠铺锻造装备来记 forge。它表示锻造、伪造、铁匠铺。",
+      "association_en": "",
+      "example_sentence": "The player uses the forge to shape iron into a new pickaxe before entering the cave.",
+      "example_sentence_cn": "玩家进入洞穴前，用铁匠炉把铁锻造成新镐子。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "forge = 锻造/伪造。金属语境是用火和锤子制造。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“锻造 / 伪造 / 铁匠铺”。"
     },
     "memory_anchor": {
       "one_sentence": "forge 可联想到 Minecraft 中熔炉、铁匠和打造装备。",
@@ -608,20 +612,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "passport, beefjerky, very expensive over there.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “passport, beefjerky, very expensive over there.”，判断 passport 在句中对应“护照 / 通行证”里的哪一层意思。",
+        "note_cn": "",
         "quote": "passport, beefjerky, very expensive over there.",
         "title": "Toy Story 2 (1999",
         "work_id": "subtitle_toy_story_2_1999_1080p_toy_story_2_1999_1080p_brrip_x264_yify",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “passport, beefjerky, very expensive over there.” 把 passport 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这句能给 passport 一个真实使用场景，复习时把它和“护照 / 通行证”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：护照、牛肉干，那边很贵。\n词义定位：passport 表示出入境用的“护照”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “passport, beefjerky, very expensive over there.”，判断 passport 在句中对应“护照 / 通行证”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -635,16 +639,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "passport 可联想到跨区域进入不同动物城区的身份与通行。",
-      "association_en": "passport 可联想到跨区域进入不同动物城区的身份与通行。",
-      "example_sentence": "The traveler needs a passport to cross into another district.",
-      "example_sentence_cn": "旅行者需要护照才能进入另一个区域。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用跨区旅行证件来记 passport。它表示护照、通行证。",
+      "association_en": "",
+      "example_sentence": "Nick's fake passport almost works until Judy notices the wrong district stamp.",
+      "example_sentence_cn": "Nick 的假护照差点蒙混过关，直到 Judy 注意到错误城区印章。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "passport = 护照/通行证。重点是允许跨边界旅行的证件。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“护照 / 通行证”。"
     },
     "memory_anchor": {
       "one_sentence": "passport 可联想到跨区域进入不同动物城区的身份与通行。",
@@ -726,16 +731,17 @@
       "tier": 2,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "inaccessible 可联想到 Death Stranding 中难以抵达的山区和配送路线。",
-      "association_en": "inaccessible 可联想到 Death Stranding 中难以抵达的山区和配送路线。",
-      "example_sentence": "The mountain shelter is almost inaccessible after the storm.",
-      "example_sentence_cn": "风暴后山中避难所几乎无法抵达。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用难以到达的山顶避难所来记 inaccessible。它表示难以到达的、不可接近的。",
+      "association_en": "",
+      "example_sentence": "The shelter is inaccessible by truck, so Sam climbs the cliff with cargo on his back.",
+      "example_sentence_cn": "卡车无法到达那个避难所，所以 Sam 背着货物爬上悬崖。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "inaccessible = 难以到达的/不可接近的。in- 是否定。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“难以到达的 / 不可接近的”。"
     },
     "memory_anchor": {
       "one_sentence": "inaccessible 可联想到 Death Stranding 中难以抵达的山区和配送路线。",
@@ -821,20 +827,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Chief among them the latent condescension.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Chief among them the latent condescension.”，判断 latent 在句中对应“潜在的 / 潜伏的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Chief among them the latent condescension.",
         "title": "Severance S01E01",
         "work_id": "subtitle_severance_s01e01_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Chief among them the latent condescension.” 这句里，latent 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“潜在的 / 潜伏的”这类形容感绑定。"
+          "context": "整句翻译：其中最主要的是潜藏的居高临下感。\n词义定位：latent 表示“潜在的、隐藏未显露的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Chief among them the latent condescension.”，判断 latent 在句中对应“潜在的 / 潜伏的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -847,16 +853,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "latent 可联想到家族成员潜藏的能力和未被理解的自我价值。",
-      "association_en": "latent 可联想到家族成员潜藏的能力和未被理解的自我价值。",
-      "example_sentence": "A latent gift waits to be recognized.",
-      "example_sentence_cn": "潜在天赋等待被发现。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用隐藏未显现的能力来记 latent。它表示潜在的、潜伏的。",
+      "association_en": "",
+      "example_sentence": "Mirabel's latent strength appears only when the family stops measuring gifts.",
+      "example_sentence_cn": "当家人停止用天赋衡量彼此时，Mirabel 潜在的力量才显现出来。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "latent = 潜在的/潜伏的。重点是存在但还未显现。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“潜在的 / 潜伏的”。"
     },
     "memory_anchor": {
       "one_sentence": "latent 可联想到家族成员潜藏的能力和未被理解的自我价值。",
@@ -938,16 +945,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "frustrate 可联想到 Judy 在警局被低估时的挫败感。",
-      "association_en": "frustrate 可联想到 Judy 在警局被低估时的挫败感。",
-      "example_sentence": "Being underestimated frustrates the young officer.",
-      "example_sentence_cn": "被低估让年轻警官感到挫败。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用线索被官僚程序阻挠来记 frustrate。它表示使沮丧、阻挠。",
+      "association_en": "",
+      "example_sentence": "The missing file frustrates Judy just when she is close to proving the case.",
+      "example_sentence_cn": "就在 Judy 快要证明案件时，失踪文件让她沮丧不已。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "frustrate = 使沮丧/阻挠。重点是目标被挡住。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“使沮丧 / 阻挠”。"
     },
     "memory_anchor": {
       "one_sentence": "frustrate 可联想到 Judy 在警局被低估时的挫败感。",
@@ -1033,20 +1041,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Now, here's a kindly, frail grandma.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Now, here's a kindly, frail grandma.”，判断 frail 在句中对应“虚弱的 / 脆弱的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Now, here's a kindly, frail grandma.",
         "title": "Subs British",
         "work_id": "subtitle_subs_british_sdh_eng_hi",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Now, here's a kindly, frail grandma.” 这句里，frail 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“虚弱的 / 脆弱的”这类形容感绑定。"
+          "context": "整句翻译：现在，这里有一位和蔼而虚弱的奶奶。\n词义定位：frail 形容人身体“虚弱的、脆弱的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Now, here's a kindly, frail grandma.”，判断 frail 在句中对应“虚弱的 / 脆弱的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1063,20 +1071,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Now, here's a kindly, frail grandma.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Now, here's a kindly, frail grandma.”，判断 frail 在句中对应“虚弱的 / 脆弱的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Now, here's a kindly, frail grandma.",
         "title": "The Bad Guys (2022",
         "work_id": "subtitle_the_bad_guys_2022_1080p_webrip_5_1_yts_mx_the_bad_guys_2022_1080p_webrip_x264_aa",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Now, here's a kindly, frail grandma.” 这句里，frail 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“虚弱的 / 脆弱的”这类形容感绑定。"
+          "context": "整句翻译：现在，这里有一位善良但虚弱的奶奶。\n词义定位：frail 在这里表示年老体弱。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Now, here's a kindly, frail grandma.”，判断 frail 在句中对应“虚弱的 / 脆弱的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1090,16 +1098,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "frail 可联想到年迈家人、记忆和亲情的脆弱感。",
-      "association_en": "frail 可联想到年迈家人、记忆和亲情的脆弱感。",
-      "example_sentence": "A frail elder holds the family's memory.",
-      "example_sentence_cn": "虚弱的长辈守着家族记忆。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用年迈亲人虚弱但珍贵的记忆来记 frail。它表示虚弱的、脆弱的。",
+      "association_en": "",
+      "example_sentence": "The frail grandmother holds the photograph as if it weighs more than the guitar.",
+      "example_sentence_cn": "虚弱的祖母握着照片，仿佛它比吉他还沉。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "frail = 虚弱的/脆弱的。常形容身体衰弱。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“虚弱的 / 脆弱的”。"
     },
     "memory_anchor": {
       "one_sentence": "frail 可联想到年迈家人、记忆和亲情的脆弱感。",
@@ -1185,20 +1194,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "It's kind of fragile. You don't want to break it.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “It's kind of fragile. You don't want to break it.”，判断 fragile 在句中对应“易碎的 / 脆弱的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "It's kind of fragile. You don't want to break it.",
         "title": "Star vs the Forces of Evil S01E17 E18 Freeze…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e17_e18_freeze_day_royal_pain_1080p_amzn_webrip_dd",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “It's kind of fragile. You don't want to break it.” 这句里，fragile 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“易碎的 / 脆弱的”这类形容感绑定。"
+          "context": "整句翻译：它有点脆弱。你可不想把它弄坏。\n词义定位：fragile 表示“易碎的、脆弱的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “It's kind of fragile. You don't want to break it.”，判断 fragile 在句中对应“易碎的 / 脆弱的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1215,20 +1224,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "too powerful for that fragile little instrument.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “too powerful for that fragile little instrument.”，判断 fragile 在句中对应“易碎的 / 脆弱的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "too powerful for that fragile little instrument.",
         "title": "Subs British",
         "work_id": "subtitle_subs_british_sdh_eng_hi",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “too powerful for that fragile little instrument.” 这句里，fragile 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“易碎的 / 脆弱的”这类形容感绑定。"
+          "context": "整句翻译：对那件脆弱的小乐器来说太强大了。\n词义定位：fragile 修饰 instrument，表示容易受损。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “too powerful for that fragile little instrument.”，判断 fragile 在句中对应“易碎的 / 脆弱的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1242,16 +1251,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "fragile 可联想到魔法房子的裂缝和家庭关系的脆弱。",
-      "association_en": "fragile 可联想到魔法房子的裂缝和家庭关系的脆弱。",
-      "example_sentence": "The magical house feels fragile when cracks appear.",
-      "example_sentence_cn": "裂缝出现时，魔法房子显得脆弱。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用易碎的瓷砖和脆弱的家庭关系来记 fragile。它表示易碎的、脆弱的。",
+      "association_en": "",
+      "example_sentence": "The fragile tile cracks under Mirabel's foot before anyone believes her warning.",
+      "example_sentence_cn": "在任何人相信 Mirabel 的警告前，脆弱的瓷砖在她脚下裂开。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "fragile = 易碎的/脆弱的。重点是容易损坏。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“易碎的 / 脆弱的”。"
     },
     "memory_anchor": {
       "one_sentence": "fragile 可联想到魔法房子的裂缝和家庭关系的脆弱。",
@@ -1333,16 +1343,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "catalyst 可联想到一个事件触发情绪和成长变化。",
-      "association_en": "catalyst 可联想到一个事件触发情绪和成长变化。",
-      "example_sentence": "One painful memory becomes a catalyst for growth.",
-      "example_sentence_cn": "一段痛苦记忆成为成长的催化剂。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用一个小事件触发情绪变化来记 catalyst。它表示催化剂、促成因素。",
+      "association_en": "",
+      "example_sentence": "One lost memory becomes the catalyst that forces Joy to understand Sadness.",
+      "example_sentence_cn": "一段丢失记忆成了促使 Joy 理解 Sadness 的催化剂。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "catalyst = 催化剂/促成因素。重点是让变化开始或加速。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“催化剂 / 促成因素”。"
     },
     "memory_anchor": {
       "one_sentence": "catalyst 可联想到一个事件触发情绪和成长变化。",
@@ -1426,16 +1437,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "crisp 可联想到冰雪清晨清爽寒冷的空气。",
-      "association_en": "crisp 可联想到冰雪清晨清爽寒冷的空气。",
-      "example_sentence": "The crisp winter air fills the snowy valley.",
-      "example_sentence_cn": "清爽的冬日空气充满雪谷。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用清爽寒冷的空气来记 crisp。它表示脆的、清爽的。",
+      "association_en": "",
+      "example_sentence": "The crisp morning air makes every breath look like silver smoke.",
+      "example_sentence_cn": "清爽寒冷的晨空气让每次呼吸都像银色烟雾。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "crisp = 脆的/清爽的。食物是脆，空气是清冽。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“脆的 / 清爽的 / 薯片”。"
     },
     "memory_anchor": {
       "one_sentence": "crisp 可联想到冰雪清晨清爽寒冷的空气。",
@@ -1522,20 +1534,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "We'd like to offer you a promotion.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “We'd like to offer you a promotion.”，判断 promotion 在句中对应“晋升 / 促销 / 促进”里的哪一层意思。",
+        "note_cn": "",
         "quote": "We'd like to offer you a promotion.",
         "title": "Severance S02E02 Goodbye Mrs Selvig",
         "work_id": "subtitle_severance_s02e02_goodbye_mrs_selvig_1080p_webrip_10bit_ddp5_1_x265_hodl_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “We'd like to offer you a promotion.” 把 promotion 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“晋升 / 促销 / 促进”。"
+          "context": "整句翻译：我们想给你升职。\n词义定位：promotion 在这里表示工作上的“晋升”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “We'd like to offer you a promotion.”，判断 promotion 在句中对应“晋升 / 促销 / 促进”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1551,20 +1563,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "and right before her promotion.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “and right before her promotion.”，判断 promotion 在句中对应“晋升 / 促销 / 促进”里的哪一层意思。",
+        "note_cn": "",
         "quote": "and right before her promotion.",
         "title": "The Owl House S02E11",
         "work_id": "subtitle_the_owl_house_s02e11_1080p_hulu_web_dl_aac2_0_h_264_lazy_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “and right before her promotion.” 把 promotion 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“晋升 / 促销 / 促进”。"
+          "context": "整句翻译：就在她升职之前。\n词义定位：promotion 指职位提升。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “and right before her promotion.”，判断 promotion 在句中对应“晋升 / 促销 / 促进”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1657,20 +1669,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Hayes was considered something of a reckless young phenomenon,",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Hayes was considered something of a reckless young phenomenon,”，判断 reckless 在句中对应“鲁莽的 / 不顾后果的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Hayes was considered something of a reckless young phenomenon,",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Hayes was considered something of a reckless young phenomenon,” 这句里，reckless 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“鲁莽的 / 不顾后果的”这类形容感绑定。"
+          "context": "整句翻译：Hayes 曾被认为是有些鲁莽的年轻奇才。\n词义定位：reckless 表示“不顾后果的、鲁莽的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Hayes was considered something of a reckless young phenomenon,”，判断 reckless 在句中对应“鲁莽的 / 不顾后果的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1687,20 +1699,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Seen by some as reckless, it nevertheless served him well",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Seen by some as reckless, it nevertheless served him well”，判断 reckless 在句中对应“鲁莽的 / 不顾后果的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Seen by some as reckless, it nevertheless served him well",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Seen by some as reckless, it nevertheless served him well” 这句里，reckless 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“鲁莽的 / 不顾后果的”这类形容感绑定。"
+          "context": "整句翻译：有人认为这很鲁莽，但它仍然帮了他大忙。\n词义定位：reckless 描述行为冒险、不谨慎。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Seen by some as reckless, it nevertheless served him well”，判断 reckless 在句中对应“鲁莽的 / 不顾后果的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1714,16 +1726,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "reckless 可联想到海上冒险中不顾风险的冲动选择。",
-      "association_en": "reckless 可联想到海上冒险中不顾风险的冲动选择。",
-      "example_sentence": "Sailing into unknown waters can look reckless.",
-      "example_sentence_cn": "驶向未知海域可能显得鲁莽。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用不顾后果冲向大海来记 reckless。它表示鲁莽的。",
+      "association_en": "",
+      "example_sentence": "Moana's reckless turn into the storm nearly flips the canoe.",
+      "example_sentence_cn": "Moana 鲁莽地转向风暴，差点让独木舟翻掉。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "reckless = 鲁莽的。重点是不考虑危险后果。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“鲁莽的 / 不顾后果的”。"
     },
     "memory_anchor": {
       "one_sentence": "reckless 可联想到海上冒险中不顾风险的冲动选择。",
@@ -1810,20 +1823,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "You want me to redesign so you can follow closer?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “You want me to redesign so you can follow closer?”，判断 follow 在句中对应“跟随 / 遵循 / 理解”里的哪一层意思。",
+        "note_cn": "",
         "quote": "You want me to redesign so you can follow closer?",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “You want me to redesign so you can follow closer?” 出现在提问里，说明 follow 可以嵌在真实对话的追问/确认中。这里是祈使语气，表示“跟着/跟随”，动作指令很明确。"
+          "context": "整句翻译：你想让我重新设计，好让你跟得更近？\n词义定位：follow 在这里表示“跟随、跟车”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “You want me to redesign so you can follow closer?”，判断 follow 在句中对应“跟随 / 遵循 / 理解”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1840,20 +1853,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Follow that cat.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Follow that cat.”，判断 follow 在句中对应“跟随 / 遵循 / 理解”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Follow that cat.",
         "title": "Baymax S01E06",
         "work_id": "subtitle_baymax_s01e06_1080p_web_h264_salt_0_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Follow that cat.” 把 follow 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这里是祈使语气，表示“跟着/跟随”，动作指令很明确。"
+          "context": "整句翻译：跟着那只猫。\n词义定位：follow 作动词，表示“跟随”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Follow that cat.”，判断 follow 在句中对应“跟随 / 遵循 / 理解”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2023,20 +2036,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "But I've still got the lid on So it doesn't overflow",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “But I've still got the lid on So it doesn't overflow”，判断 overflow 在句中对应“溢出 / 泛滥”里的哪一层意思。",
+        "note_cn": "",
         "quote": "But I've still got the lid on So it doesn't overflow",
         "title": "Wish 2023",
         "work_id": "subtitle_wish_2023_1080p_webrip_ddp5_1_x265_10bit_galaxyrg265_0_eng_galaxyrg256_wish_2023",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “But I've still got the lid on So it doesn't overflow” 这句里，overflow 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“溢出 / 泛滥”。"
+          "context": "整句翻译：但我仍然盖着盖子，所以它不会溢出来。\n词义定位：overflow 表示液体或情绪“溢出、泛滥”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “But I've still got the lid on So it doesn't overflow”，判断 overflow 在句中对应“溢出 / 泛滥”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2049,16 +2062,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "overflow 可联想到海水、浪潮和岛屿边缘的水流。",
-      "association_en": "overflow 可联想到海水、浪潮和岛屿边缘的水流。",
-      "example_sentence": "The waves overflow the edge of the boat.",
-      "example_sentence_cn": "海浪漫过船边。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用海水漫过船边来记 overflow。它表示溢出、泛滥。",
+      "association_en": "",
+      "example_sentence": "Rainwater begins to overflow the canoe while Moana bails with both hands.",
+      "example_sentence_cn": "雨水开始溢满独木舟，Moana 用双手往外舀水。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "overflow = 溢出/泛滥。重点是超过容器边界。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“溢出 / 泛滥”。"
     },
     "memory_anchor": {
       "one_sentence": "overflow 可联想到海水、浪潮和岛屿边缘的水流。",
@@ -2144,20 +2158,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "but with the BMW at the head of this pack, he's got a massive job ahead of him.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “but with the BMW at the head of this pack, he's got a massive job ahead of him.”，判断 massive 在句中对应“巨大的 / 大量的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "but with the BMW at the head of this pack, he's got a massive job ahead of him.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “but with the BMW at the head of this pack, he's got a massive job ahead of him.” 这句里，massive 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“巨大的 / 大量的”这类形容感绑定。"
+          "context": "整句翻译：但 BMW 领跑这一车群时，他前面有个巨大的任务。\n词义定位：massive 表示“巨大的、艰巨的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “but with the BMW at the head of this pack, he's got a massive job ahead of him.”，判断 massive 在句中对应“巨大的 / 大量的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2174,20 +2188,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Oh, look. Here comes the new wing. This is a massive job.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Oh, look. Here comes the new wing. This is a massive job.”，判断 massive 在句中对应“巨大的 / 大量的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Oh, look. Here comes the new wing. This is a massive job.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Oh, look. Here comes the new wing. This is a massive job.” 这句里，massive 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“巨大的 / 大量的”这类形容感绑定。"
+          "context": "整句翻译：哦，看，新翼来了。这是个大工程。\n词义定位：massive 修饰 job，表示规模很大。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Oh, look. Here comes the new wing. This is a massive job.”，判断 massive 在句中对应“巨大的 / 大量的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2201,16 +2215,17 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "massive 可联想到巨大的星球、黑洞和宇宙尺度。",
-      "association_en": "massive 可联想到巨大的星球、黑洞和宇宙尺度。",
-      "example_sentence": "A massive planet fills the window of the spacecraft.",
-      "example_sentence_cn": "巨大的行星填满飞船窗户。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用巨大黑洞来记 massive。它表示巨大的、大量的。",
+      "association_en": "",
+      "example_sentence": "The massive black hole bends light into a ring around itself.",
+      "example_sentence_cn": "巨大的黑洞把光弯成围绕自身的环。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "massive = 巨大的。也可指质量很大。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“巨大的 / 大量的”。"
     },
     "memory_anchor": {
       "one_sentence": "massive 可联想到巨大的星球、黑洞和宇宙尺度。",
@@ -2298,20 +2313,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ It's smart to pick the path of least resistance ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ It's smart to pick the path of least resistance ♪”，判断 smart 在句中对应“聪明的 / 时髦的 / 刺痛”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ It's smart to pick the path of least resistance ♪",
         "title": "Hazbin Hotel S01E05",
         "work_id": "subtitle_hazbin_hotel_2024_s01e05_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ It's smart to pick the path of least resistance ♪” 这句里，smart 不是孤立出现，而是嵌在一段真实对白中。它在句中更像动作或行为，复习时重点抓“聪明的 / 时髦的 / 刺痛”这个动作感。"
+          "context": "整句翻译：选择阻力最小的路是明智的。\n词义定位：smart 在这里表示“聪明的、明智的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ It's smart to pick the path of least resistance ♪”，判断 smart 在句中对应“聪明的 / 时髦的 / 刺痛”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2328,20 +2343,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[gentle music] Adam, you seem like a smart--",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[gentle music] Adam, you seem like a smart--”，判断 smart 在句中对应“聪明的 / 时髦的 / 刺痛”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[gentle music] Adam, you seem like a smart--",
         "title": "Hazbin Hotel S01E01",
         "work_id": "subtitle_hazbin_hotel_2024_s01e01_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_1_eng_s",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[gentle music] Adam, you seem like a smart--” 这句里，smart 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“聪明的 / 时髦的 / 刺痛”这类形容感绑定。"
+          "context": "整句翻译：轻柔音乐中：Adam，你看起来像个聪明的……\n词义定位：smart 形容人“聪明的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[gentle music] Adam, you seem like a smart--”，判断 smart 在句中对应“聪明的 / 时髦的 / 刺痛”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2355,16 +2370,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "smart 可联想到 Nick 和 Judy 的机智破案。",
-      "association_en": "smart 可联想到 Nick 和 Judy 的机智破案。",
-      "example_sentence": "A smart clue changes the whole investigation.",
-      "example_sentence_cn": "一个聪明线索改变了整个调查。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Judy 聪明破案来记 smart。它表示聪明的，也可表示时髦或刺痛。",
+      "association_en": "",
+      "example_sentence": "Judy is smart enough to notice the one clue hidden in a joke.",
+      "example_sentence_cn": "Judy 聪明到能注意到藏在玩笑里的唯一线索。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "smart = 聪明的/时髦的/刺痛。这里先记聪明。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“聪明的 / 时髦的 / 刺痛”。"
     },
     "memory_anchor": {
       "one_sentence": "smart 可联想到 Nick 和 Judy 的机智破案。",
@@ -2451,20 +2467,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "That may have come out a little harsh.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “That may have come out a little harsh.”，判断 harsh 在句中对应“严酷的 / 刺耳的 / 苛刻的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "That may have come out a little harsh.",
         "title": "Baymax S01E06",
         "work_id": "subtitle_baymax_s01e06_1080p_web_h264_salt_0_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “That may have come out a little harsh.” 把 harsh 放在句末，往往是在补充结果、态度或关键信息。它在句中多半用来描述状态或性质，适合把它和“严酷的 / 刺耳的 / 苛刻的”这类形容感绑定。"
+          "context": "整句翻译：那话可能听起来有点严厉。\n词义定位：harsh 表示语气“严厉的、刺耳的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “That may have come out a little harsh.”，判断 harsh 在句中对应“严酷的 / 刺耳的 / 苛刻的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2480,20 +2496,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "\"and they face harsh punishment.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “\"and they face harsh punishment.”，判断 harsh 在句中对应“严酷的 / 刺耳的 / 苛刻的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "\"and they face harsh punishment.",
         "title": "The Owl House S01E19",
         "work_id": "subtitle_the_owl_house_s01e19_1080p_dsnp_web_dl_aac2_0_h_264_lazy_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “\"and they face harsh punishment.” 这句里，harsh 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“严酷的 / 刺耳的 / 苛刻的”这类形容感绑定。"
+          "context": "整句翻译：他们会面临严厉的惩罚。\n词义定位：harsh 修饰 punishment，表示“严酷的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “\"and they face harsh punishment.”，判断 harsh 在句中对应“严酷的 / 刺耳的 / 苛刻的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2506,16 +2522,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "harsh 可联想到严酷冬天、暴风雪和冰封王国。",
-      "association_en": "harsh 可联想到严酷冬天、暴风雪和冰封王国。",
-      "example_sentence": "The harsh winter covers the kingdom in snow.",
-      "example_sentence_cn": "严酷冬天让王国被雪覆盖。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用严酷寒风来记 harsh。它表示严酷的、刺耳的、苛刻的。",
+      "association_en": "",
+      "example_sentence": "The harsh wind cuts across the fjord before Anna reaches the mountain path.",
+      "example_sentence_cn": "Anna 到达山路前，严酷寒风横扫峡湾。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "harsh = 严酷的/刺耳的。重点是让人不舒服、难承受。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“严酷的 / 刺耳的 / 苛刻的”。"
     },
     "memory_anchor": {
       "one_sentence": "harsh 可联想到严酷冬天、暴风雪和冰封王国。",
@@ -2677,20 +2694,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[in English] 150 million dollar jungle gym.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[in English] 150 million dollar jungle gym.”，判断 jungle 在句中对应“丛林 / 密林”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[in English] 150 million dollar jungle gym.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_1_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[in English] 150 million dollar jungle gym.” 这句里，jungle 不是孤立出现，而是嵌在一段真实对白中。这句能给 jungle 一个真实使用场景，复习时把它和“丛林 / 密林”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：一亿五千万美元的丛林健身架。\n词义定位：jungle 在 jungle gym 中是儿童攀爬架名称的一部分。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[in English] 150 million dollar jungle gym.”，判断 jungle 在句中对应“丛林 / 密林”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2707,20 +2724,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ In the concrete jungle where my home is ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ In the concrete jungle where my home is ♪”，判断 jungle 在句中对应“丛林 / 密林”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ In the concrete jungle where my home is ♪",
         "title": "Spider Man Across The Spider Verse 2023",
         "work_id": "subtitle_spider_man_across_the_spider_verse_2023_1080p_web_dl_ddp5_1_atmos_x264_aoc_tgx_s",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ In the concrete jungle where my home is ♪” 这句里，jungle 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“丛林 / 密林”。"
+          "context": "整句翻译：在我家所在的混凝土丛林里。\n词义定位：jungle 在 concrete jungle 中比喻城市环境。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ In the concrete jungle where my home is ♪”，判断 jungle 在句中对应“丛林 / 密林”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2734,16 +2751,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "jungle 可直接联想到 Tarzan 的丛林成长环境。",
-      "association_en": "jungle 可直接联想到 Tarzan 的丛林成长环境。",
-      "example_sentence": "The jungle becomes the boy's first home.",
-      "example_sentence_cn": "丛林成了男孩最初的家。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用藤蔓、树冠和动物声记 jungle。它表示丛林、密林。",
+      "association_en": "",
+      "example_sentence": "Tarzan swings through the jungle while birds scatter above the river.",
+      "example_sentence_cn": "Tarzan 穿过丛林荡行，鸟群在河上方四散。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "jungle = 丛林。画面是热带密林、藤蔓、动物。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“丛林 / 密林”。"
     },
     "memory_anchor": {
       "one_sentence": "jungle 可直接联想到 Tarzan 的丛林成长环境。",
@@ -2831,20 +2849,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "You swan into our garage like some entitled prick.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “You swan into our garage like some entitled prick.”，判断 prick 在句中对应“刺 / 戳 / 刺痛”里的哪一层意思。",
+        "note_cn": "",
         "quote": "You swan into our garage like some entitled prick.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “You swan into our garage like some entitled prick.” 把 prick 放在句末，往往是在补充结果、态度或关键信息。这句能给 prick 一个真实使用场景，复习时把它和“刺 / 戳 / 刺痛”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：你像个自以为是的混蛋一样大摇大摆进我们的车库。\n词义定位：prick 在这里是粗鲁骂人话，指讨厌的人。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “You swan into our garage like some entitled prick.”，判断 prick 在句中对应“刺 / 戳 / 刺痛”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2861,20 +2879,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ You old timey prick ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ You old timey prick ♪”，判断 prick 在句中对应“刺 / 戳 / 刺痛”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ You old timey prick ♪",
         "title": "Hazbin Hotel S01E02",
         "work_id": "subtitle_hazbin_hotel_2024_s01e02_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ You old timey prick ♪” 这句里，prick 不是孤立出现，而是嵌在一段真实对白中。这句能给 prick 一个真实使用场景，复习时把它和“刺 / 戳 / 刺痛”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：你这个老派混蛋。\n词义定位：prick 是贬义名词，用来骂人。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ You old timey prick ♪”，判断 prick 在句中对应“刺 / 戳 / 刺痛”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2888,16 +2906,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "prick 可联想到童话中被纺锤刺破手指的经典意象。",
-      "association_en": "prick 可联想到童话中被纺锤刺破手指的经典意象。",
-      "example_sentence": "A tiny prick changes the princess's fate.",
-      "example_sentence_cn": "小小一刺改变了公主命运。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用纺锤刺破手指来记 prick。它表示刺、戳、刺痛。",
+      "association_en": "",
+      "example_sentence": "The princess feels one small prick from the spindle, and the whole castle falls silent.",
+      "example_sentence_cn": "公主被纺锤轻轻一刺，整座城堡陷入寂静。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "prick = 刺/戳。重点是尖东西造成的小刺痛。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“刺 / 戳 / 刺痛”。"
     },
     "memory_anchor": {
       "one_sentence": "prick 可联想到童话中被纺锤刺破手指的经典意象。",
@@ -2980,16 +2999,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "porcelain 可联想到城堡里精致的茶具角色。",
-      "association_en": "porcelain 可联想到城堡里精致的茶具角色。",
-      "example_sentence": "A porcelain cup seems almost alive in the enchanted castle.",
-      "example_sentence_cn": "魔法城堡里的瓷杯仿佛有生命。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用精致瓷器茶具来记 porcelain。它表示瓷器、瓷制的。",
+      "association_en": "",
+      "example_sentence": "The porcelain cup trembles on the tray as the enchanted castle begins to sing.",
+      "example_sentence_cn": "被施咒的城堡开始歌唱时，托盘上的瓷杯颤动起来。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "porcelain = 瓷器。画面是白、硬、精致、易碎。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“瓷器 / 瓷制的”。"
     },
     "memory_anchor": {
       "one_sentence": "porcelain 可联想到城堡里精致的茶具角色。",
@@ -3148,16 +3168,17 @@
       "tier": 1,
       "medium": "game/tech",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "magnetism 可联想到红石、矿物和技术机关中的物理吸引力记忆。",
-      "association_en": "magnetism 可联想到红石、矿物和技术机关中的物理吸引力记忆。",
-      "example_sentence": "Magnetism feels like an invisible force inside a machine.",
-      "example_sentence_cn": "磁性像机器里的无形力量。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用磁力吸引金属方块来记 magnetism。它表示磁性、吸引力。",
+      "association_en": "",
+      "example_sentence": "The redstone machine uses magnetism to pull the iron block into place.",
+      "example_sentence_cn": "红石机器用磁力把铁块拉到位。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "magnetism = 磁性/吸引力。科学上是磁场作用。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“磁性 / 吸引力”。"
     },
     "memory_anchor": {
       "one_sentence": "magnetism 可联想到红石、矿物和技术机关中的物理吸引力记忆。",
@@ -3242,20 +3263,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Isn't there a glossary in this thing?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Isn't there a glossary in this thing?”，判断 glossary 在句中对应“术语表”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Isn't there a glossary in this thing?",
         "title": "Star vs the Forces of Evil S01E11 E12 Mewbert…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e11_e12_mewberty_pixtopia_1080p_amzn_webrip_ddp_2_",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Isn't there a glossary in this thing?” 出现在提问里，说明 glossary 可以嵌在真实对话的追问/确认中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“术语表”。"
+          "context": "整句翻译：这东西里不是有术语表吗？\n词义定位：glossary 表示书末或资料中的“术语表”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Isn't there a glossary in this thing?”，判断 glossary 在句中对应“术语表”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3345,16 +3366,17 @@
       "tier": 2,
       "medium": "study",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "vocabulary 与你的 CET-6 词卡系统直接相关。",
-      "association_en": "vocabulary 与你的 CET-6 词卡系统直接相关。",
-      "example_sentence": "A good vocabulary card connects meaning, memory, and usage.",
-      "example_sentence_cn": "好词卡连接意义、记忆和用法。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用你的英语词卡系统来记 vocabulary。它表示词汇、词汇量。",
+      "association_en": "",
+      "example_sentence": "A strong vocabulary lets you understand the subtitle before checking the Chinese translation.",
+      "example_sentence_cn": "强大的词汇量让你在看中文翻译前就理解字幕。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "vocabulary = 词汇/词汇量。重点是你掌握的一组词。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“词汇 / 词汇量”。"
     },
     "memory_anchor": {
       "one_sentence": "vocabulary 与你的 CET-6 词卡系统直接相关。",
@@ -3438,16 +3460,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "sheer 可联想到雪山陡峭的冰壁。",
-      "association_en": "sheer 可联想到雪山陡峭的冰壁。",
-      "example_sentence": "A sheer wall of ice rises above the path.",
-      "example_sentence_cn": "一面陡峭冰壁矗立在路上方。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用陡峭冰壁和纯粹恐惧来记 sheer。它表示陡峭的、纯粹的、完全地。",
+      "association_en": "",
+      "example_sentence": "Anna stops at the sheer ice wall, wondering how anyone could climb it.",
+      "example_sentence_cn": "Anna 停在陡峭冰壁前，不知道有谁能爬上去。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "sheer = 陡峭的/纯粹的。地形语境是几乎垂直。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“纯粹的 / 陡峭的 / 完全地”。"
     },
     "memory_anchor": {
       "one_sentence": "sheer 可联想到雪山陡峭的冰壁。",
@@ -3532,16 +3555,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "stem 可联想到 WALL-E 发现的小植物茎，象征地球恢复希望。",
-      "association_en": "stem 可联想到 WALL-E 发现的小植物茎，象征地球恢复希望。",
-      "example_sentence": "A tiny green stem becomes a sign of hope.",
-      "example_sentence_cn": "一根小绿茎成了希望的象征。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用小植物的茎来记 stem。它表示茎、词干，也可表示阻止、源于。",
+      "association_en": "",
+      "example_sentence": "WALL-E gently brushes dust from the plant's thin green stem.",
+      "example_sentence_cn": "WALL-E 轻轻刷掉那株植物细绿茎上的灰尘。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "stem = 茎/词干。植物语境是支撑叶子的部分。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“茎 / 词干 / 阻止”。"
     },
     "memory_anchor": {
       "one_sentence": "stem 可联想到 WALL-E 发现的小植物茎，象征地球恢复希望。",
@@ -3624,16 +3648,17 @@
       "tier": 1,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "perpendicular 可联想到方块世界中直角结构和建筑几何。",
-      "association_en": "perpendicular 可联想到方块世界中直角结构和建筑几何。",
-      "example_sentence": "Two block walls meet at a perpendicular angle.",
-      "example_sentence_cn": "两面方块墙以直角相交。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用方块建筑中互相垂直的墙来记 perpendicular。它表示垂直的。",
+      "association_en": "",
+      "example_sentence": "The builder places a perpendicular wall to make the redstone corridor turn sharply.",
+      "example_sentence_cn": "建造者放置一面垂直墙，让红石走廊急转弯。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "perpendicular = 垂直的。数学上是 90 度相交。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“垂直的 / 垂线”。"
     },
     "memory_anchor": {
       "one_sentence": "perpendicular 可联想到方块世界中直角结构和建筑几何。",
@@ -3721,20 +3746,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "‐♪ With a poke ♪ ‐Go! Go!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “‐♪ With a poke ♪ ‐Go! Go!”，判断 poke 在句中对应“戳 / 捅 / 探出”里的哪一层意思。",
+        "note_cn": "",
         "quote": "‐♪ With a poke ♪ ‐Go! Go!",
         "title": "The Ghost And Molly McGee S01E03E04",
         "work_id": "subtitle_the_ghost_and_molly_mcgee_s01e03e04_720p_hulu_webrip_x264_galaxytv_0_eng_galaxyt",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “‐♪ With a poke ♪ ‐Go! Go!” 带有明显情绪爆发，说明 poke 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“戳 / 捅 / 探出”。"
+          "context": "整句翻译：轻轻一戳。走！走！\n词义定位：poke 表示“戳、捅”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “‐♪ With a poke ♪ ‐Go! Go!”，判断 poke 在句中对应“戳 / 捅 / 探出”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3751,20 +3776,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Just poke around first. Use the arrows.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Just poke around first. Use the arrows.”，判断 poke 在句中对应“戳 / 捅 / 探出”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Just poke around first. Use the arrows.",
         "title": "Severance S01E02",
         "work_id": "subtitle_severance_s01e02_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Just poke around first. Use the arrows.” 这句里，poke 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“戳 / 捅 / 探出”。"
+          "context": "整句翻译：先到处点点看。用方向键。\n词义定位：poke around 表示试探性地查看、摸索。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Just poke around first. Use the arrows.”，判断 poke 在句中对应“戳 / 捅 / 探出”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3777,16 +3802,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "poke 可联想到训练中的轻戳、搞笑动作和身体反应。",
-      "association_en": "poke 可联想到训练中的轻戳、搞笑动作和身体反应。",
-      "example_sentence": "The master pokes the student to correct his stance.",
-      "example_sentence_cn": "师父戳了戳学生以纠正站姿。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用阿宝用手指戳训练假人来记 poke。它表示戳、捅。",
+      "association_en": "",
+      "example_sentence": "Po pokes the training dummy once, and it swings back into his face.",
+      "example_sentence_cn": "阿宝戳了一下训练假人，结果它荡回来打到他的脸。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "poke = 戳/捅。重点是用手指或尖物轻推。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“戳 / 捅 / 探出”。"
     },
     "memory_anchor": {
       "one_sentence": "poke 可联想到训练中的轻戳、搞笑动作和身体反应。",
@@ -3873,20 +3899,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "\"'Destiny'. An acrostic poem experience by the author, Ricken Hale.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “\"'Destiny'. An acrostic poem experience by the author, Ricken Hale.\"”，判断 author 在句中对应“作者 / 创作”里的哪一层意思。",
+        "note_cn": "",
         "quote": "\"'Destiny'. An acrostic poem experience by the author, Ricken Hale.\"",
         "title": "Severance S01E04",
         "work_id": "subtitle_severance_s01e04_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “\"'Destiny'. An acrostic poem experience by the author, Ricken Hale.\"” 这句里，author 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“作者 / 创作”。"
+          "context": "整句翻译：《命运》，一首由作者 Ricken Hale 创作的藏头诗体验。\n词义定位：author 表示作品的“作者”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “\"'Destiny'. An acrostic poem experience by the author, Ricken Hale.\"”，判断 author 在句中对应“作者 / 创作”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3902,20 +3928,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "between myself and the visionary author, Ouroboros.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “between myself and the visionary author, Ouroboros.”，判断 author 在句中对应“作者 / 创作”里的哪一层意思。",
+        "note_cn": "",
         "quote": "between myself and the visionary author, Ouroboros.",
         "title": "Loki S02E03 1893",
         "work_id": "subtitle_loki_s02e03_1893_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “between myself and the visionary author, Ouroboros.” 这句里，author 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“作者 / 创作”。"
+          "context": "整句翻译：在我和富有远见的作者 Ouroboros 之间。\n词义定位：author 指写作或创作作品的人。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “between myself and the visionary author, Ouroboros.”，判断 author 在句中对应“作者 / 创作”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3928,16 +3954,17 @@
       "tier": 2,
       "medium": "media",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "author 可联想到你写脚本、做影视解说时的创作者身份。",
-      "association_en": "author 可联想到你写脚本、做影视解说时的创作者身份。",
-      "example_sentence": "The author turns a film into a clear video script.",
-      "example_sentence_cn": "作者把电影整理成清晰视频脚本。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用创作者写故事脚本来记 author。它表示作者、创作。",
+      "association_en": "",
+      "example_sentence": "The author rewrites the scene until the character's voice finally sounds real.",
+      "example_sentence_cn": "作者反复改写那场戏，直到角色声音终于真实。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "author = 作者。也可作动词表示创作、造成。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“作者 / 创作”。"
     },
     "memory_anchor": {
       "one_sentence": "author 可联想到你写脚本、做影视解说时的创作者身份。",
@@ -4018,16 +4045,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "lipstick 可联想到城市动物角色的服装、身份和形象细节。",
-      "association_en": "lipstick 可联想到城市动物角色的服装、身份和形象细节。",
-      "example_sentence": "A bright lipstick mark becomes a tiny clue.",
-      "example_sentence_cn": "一个明亮口红印成了小线索。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用角色补妆时的口红来记 lipstick。它表示口红。",
+      "association_en": "",
+      "example_sentence": "The lipstick mark on the glass tells Judy who was in the room before the meeting.",
+      "example_sentence_cn": "玻璃杯上的口红印告诉 Judy，会前谁进过房间。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "lipstick = 口红。画面是唇色和留下的印迹。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“口红”。"
     },
     "memory_anchor": {
       "one_sentence": "lipstick 可联想到城市动物角色的服装、身份和形象细节。",
@@ -4113,20 +4141,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Well, I'm more interested in experimentation, innovation",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Well, I'm more interested in experimentation, innovation”，判断 innovation 在句中对应“创新 / 革新”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Well, I'm more interested in experimentation, innovation",
         "title": "The Owl House S02E02",
         "work_id": "subtitle_the_owl_house_s02e02_1080p_hulu_web_dl_aac2_0_h_264_welp_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Well, I'm more interested in experimentation, innovation” 这句里，innovation 不是孤立出现，而是嵌在一段真实对白中。这句能给 innovation 一个真实使用场景，复习时把它和“创新 / 革新”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：嗯，我更感兴趣的是实验和创新。\n词义定位：innovation 表示“创新、革新”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Well, I'm more interested in experimentation, innovation”，判断 innovation 在句中对应“创新 / 革新”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4142,20 +4170,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "at the forefront of innovation.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “at the forefront of innovation.”，判断 innovation 在句中对应“创新 / 革新”里的哪一层意思。",
+        "note_cn": "",
         "quote": "at the forefront of innovation.",
         "title": "Hazbin Hotel S01E02",
         "work_id": "subtitle_hazbin_hotel_2024_s01e02_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “at the forefront of innovation.” 把 innovation 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“创新 / 革新”。"
+          "context": "整句翻译：处在创新的最前沿。\n词义定位：innovation 指新方法、新技术或新思想。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “at the forefront of innovation.”，判断 innovation 在句中对应“创新 / 革新”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4169,16 +4197,17 @@
       "tier": 2,
       "medium": "studio",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "innovation 可联想到 Pixar/Disney 动画技术和叙事创新。",
-      "association_en": "innovation 可联想到 Pixar/Disney 动画技术和叙事创新。",
-      "example_sentence": "Animation innovation makes impossible worlds feel alive.",
-      "example_sentence_cn": "动画创新让不可能世界变得鲜活。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用动画技术创新来记 innovation。它表示创新、革新。",
+      "association_en": "",
+      "example_sentence": "The studio's innovation makes the character's fur move like it belongs in real wind.",
+      "example_sentence_cn": "工作室的创新让角色毛发像在真实风中一样运动。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "innovation = 创新。重点是新的方法带来改进。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“创新 / 革新”。"
     },
     "memory_anchor": {
       "one_sentence": "innovation 可联想到 Pixar/Disney 动画技术和叙事创新。",
@@ -4260,16 +4289,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "stainless 可与废土里生锈金属形成反差，帮助记忆不锈钢。",
-      "association_en": "stainless 可与废土里生锈金属形成反差，帮助记忆不锈钢。",
-      "example_sentence": "A stainless panel shines among rusty machines.",
-      "example_sentence_cn": "一块不锈面板在生锈机器中发亮。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用不锈钢零件来记 stainless。它表示不锈的、无污点的。",
+      "association_en": "",
+      "example_sentence": "The stainless panel still shines under the dust after centuries of neglect.",
+      "example_sentence_cn": "被遗弃几个世纪后，那块不锈钢面板在灰尘下仍然发亮。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "stainless = 不锈的/无污点的。常见 stainless steel 不锈钢。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“不锈的 / 无污点的”。"
     },
     "memory_anchor": {
       "one_sentence": "stainless 可与废土里生锈金属形成反差，帮助记忆不锈钢。",
@@ -4355,20 +4385,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "It's a brand-new initiative. You'd be spearheading its formation.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “It's a brand-new initiative. You'd be spearheading its formation.”，判断 initiative 在句中对应“主动性 / 倡议”里的哪一层意思。",
+        "note_cn": "",
         "quote": "It's a brand-new initiative. You'd be spearheading its formation.",
         "title": "Severance S02E02 Goodbye Mrs Selvig",
         "work_id": "subtitle_severance_s02e02_goodbye_mrs_selvig_1080p_webrip_10bit_ddp5_1_x265_hodl_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “It's a brand-new initiative. You'd be spearheading its formation.” 这句里，initiative 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“主动性 / 倡议”。"
+          "context": "整句翻译：这是个全新的倡议。你将负责带头组建它。\n词义定位：initiative 在这里表示“倡议、新项目”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “It's a brand-new initiative. You'd be spearheading its formation.”，判断 initiative 在句中对应“主动性 / 倡议”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4384,20 +4414,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "No, no. Good initiative.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “No, no. Good initiative.”，判断 initiative 在句中对应“主动性 / 倡议”里的哪一层意思。",
+        "note_cn": "",
         "quote": "No, no. Good initiative.",
         "title": "Severance S01E05",
         "work_id": "subtitle_severance_s01e05_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “No, no. Good initiative.” 把 initiative 放在句末，往往是在补充结果、态度或关键信息。这句能给 initiative 一个真实使用场景，复习时把它和“主动性 / 倡议”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：不，不。主动性不错。\n词义定位：initiative 表示主动行动的能力。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “No, no. Good initiative.”，判断 initiative 在句中对应“主动性 / 倡议”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4410,16 +4440,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "initiative 可联想到 Judy 主动争取案件、主动行动。",
-      "association_en": "initiative 可联想到 Judy 主动争取案件、主动行动。",
-      "example_sentence": "The young officer takes initiative instead of waiting.",
-      "example_sentence_cn": "年轻警官主动行动，而不是等待。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Judy 主动调查而不是等待命令来记 initiative。它表示主动性、倡议。",
+      "association_en": "",
+      "example_sentence": "Judy shows initiative by following the clue before anyone gives her permission.",
+      "example_sentence_cn": "Judy 在没人批准前就追踪线索，展现出主动性。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "initiative = 主动性/倡议。重点是自己先开始行动。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“主动性 / 倡议”。"
     },
     "memory_anchor": {
       "one_sentence": "initiative 可联想到 Judy 主动争取案件、主动行动。",
@@ -4507,20 +4538,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Now it's time to huff and puff",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Now it's time to huff and puff”，判断 puff 在句中对应“一阵 / 吹 / 喷出”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Now it's time to huff and puff",
         "title": "Subs British",
         "work_id": "subtitle_subs_british_sdh_eng_hi",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Now it's time to huff and puff” 这句里，puff 不是孤立出现，而是嵌在一段真实对白中。它在句中更像动作或行为，复习时重点抓“一阵 / 吹 / 喷出”这个动作感。"
+          "context": "整句翻译：现在该用力呼气、吹气了。\n词义定位：puff 在 huff and puff 中表示喘气、吹气。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Now it's time to huff and puff”，判断 puff 在句中对应“一阵 / 吹 / 喷出”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4537,20 +4568,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Now it's time to huff and puff",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Now it's time to huff and puff”，判断 puff 在句中对应“一阵 / 吹 / 喷出”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Now it's time to huff and puff",
         "title": "The Bad Guys (2022",
         "work_id": "subtitle_the_bad_guys_2022_1080p_webrip_5_1_yts_mx_the_bad_guys_2022_1080p_webrip_x264_aa",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Now it's time to huff and puff” 这句里，puff 不是孤立出现，而是嵌在一段真实对白中。它在句中更像动作或行为，复习时重点抓“一阵 / 吹 / 喷出”这个动作感。"
+          "context": "整句翻译：现在该呼哧呼哧地吹气了。\n词义定位：puff 表示一阵气或吹气动作。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Now it's time to huff and puff”，判断 puff 在句中对应“一阵 / 吹 / 喷出”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4564,16 +4595,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "puff 可联想到寒冷空气中呼出的白雾。",
-      "association_en": "puff 可联想到寒冷空气中呼出的白雾。",
-      "example_sentence": "A puff of breath turns white in the freezing air.",
-      "example_sentence_cn": "一口呼气在冰冷空气中变白。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用寒冷空气中的一小团白气来记 puff。它表示一阵、吹、喷出。",
+      "association_en": "",
+      "example_sentence": "A puff of white breath escapes Anna's mouth as she climbs through the snow.",
+      "example_sentence_cn": "Anna 在雪中攀爬时，嘴里呼出一团白气。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "puff = 一阵气/喷出。画面是短促的一团烟气。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“一阵 / 吹 / 喷出”。"
     },
     "memory_anchor": {
       "one_sentence": "puff 可联想到寒冷空气中呼出的白雾。",
@@ -4659,20 +4691,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Hooty, your sense of humor is infectious.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Hooty, your sense of humor is infectious.”，判断 infectious 在句中对应“传染的 / 有感染力的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Hooty, your sense of humor is infectious.",
         "title": "The Owl House S02E03",
         "work_id": "subtitle_the_owl_house_s02e03_1080p_hulu_web_dl_aac2_0_h_264_welp_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Hooty, your sense of humor is infectious.” 把 infectious 放在句末，往往是在补充结果、态度或关键信息。它在句中多半用来描述状态或性质，适合把它和“传染的 / 有感染力的”这类形容感绑定。"
+          "context": "整句翻译：Hooty，你的幽默感很有感染力。\n词义定位：infectious 在这里表示情绪或笑点“有感染力的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Hooty, your sense of humor is infectious.”，判断 infectious 在句中对应“传染的 / 有感染力的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4688,20 +4720,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "It's infectious.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “It's infectious.”，判断 infectious 在句中对应“传染的 / 有感染力的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "It's infectious.",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_1_eng_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “It's infectious.” 把 infectious 放在句末，往往是在补充结果、态度或关键信息。它在句中多半用来描述状态或性质，适合把它和“传染的 / 有感染力的”这类形容感绑定。"
+          "context": "整句翻译：它很有感染力。\n词义定位：infectious 可指情绪、笑声等容易感染他人。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “It's infectious.”，判断 infectious 在句中对应“传染的 / 有感染力的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4714,16 +4746,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "infectious 可联想到感染爆发和末世设定。",
-      "association_en": "infectious 可联想到感染爆发和末世设定。",
-      "example_sentence": "An infectious outbreak changes the world overnight.",
-      "example_sentence_cn": "传染性爆发一夜之间改变世界。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用会传播的感染来记 infectious。它表示传染的，也可表示有感染力的。",
+      "association_en": "",
+      "example_sentence": "The bite is infectious, so the guards lock the gate before panic spreads.",
+      "example_sentence_cn": "那处咬伤有传染性，所以守卫在恐慌扩散前锁上大门。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "infectious = 传染的/有感染力的。医学语境是会传播疾病。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“传染的 / 有感染力的”。"
     },
     "memory_anchor": {
       "one_sentence": "infectious 可联想到感染爆发和末世设定。",
@@ -4806,16 +4839,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "shipwreck 可联想到海上冒险、船只失事和岛屿故事。",
-      "association_en": "shipwreck 可联想到海上冒险、船只失事和岛屿故事。",
-      "example_sentence": "A shipwreck leaves the crew near a lonely island.",
-      "example_sentence_cn": "沉船让船员停在孤岛附近。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用船在礁石上失事来记 shipwreck。它表示船只失事、沉船。",
+      "association_en": "",
+      "example_sentence": "Moana finds an old shipwreck half buried in sand beyond the reef.",
+      "example_sentence_cn": "Moana 在礁石外发现一艘半埋在沙中的旧沉船。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "shipwreck = 沉船/船只失事。ship + wreck。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“船只失事 / 沉船”。"
     },
     "memory_anchor": {
       "one_sentence": "shipwreck 可联想到海上冒险、船只失事和岛屿故事。",
@@ -4902,20 +4936,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Looks like Romance is out due to heartburn?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Looks like Romance is out due to heartburn?”，判断 romance 在句中对应“浪漫 / 爱情故事”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Looks like Romance is out due to heartburn?",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_1_eng_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Looks like Romance is out due to heartburn?” 出现在提问里，说明 romance 可以嵌在真实对话的追问/确认中。它在句中更像动作或行为，复习时重点抓“浪漫 / 爱情故事”这个动作感。"
+          "context": "整句翻译：看来 Romance 因为胃灼热出局了？\n词义定位：Romance 在这里像类别/角色名，字面对应“浪漫、爱情”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Looks like Romance is out due to heartburn?”，判断 romance 在句中对应“浪漫 / 爱情故事”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4931,20 +4965,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Romance? My specialty.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Romance? My specialty.”，判断 romance 在句中对应“浪漫 / 爱情故事”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Romance? My specialty.",
         "title": "Hazbin Hotel S01E07",
         "work_id": "subtitle_hazbin_hotel_2024_s01e07_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Romance? My specialty.” 把 romance 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“浪漫 / 爱情故事”。"
+          "context": "整句翻译：浪漫？我的专长。\n词义定位：romance 表示“浪漫、爱情故事”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Romance? My specialty.”，判断 romance 在句中对应“浪漫 / 爱情故事”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4958,16 +4992,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "romance 可联想到 Disney 里爱情叙事，以及 Frozen 对传统 romance 的反转。",
-      "association_en": "romance 可联想到 Disney 里爱情叙事，以及 Frozen 对传统 romance 的反转。",
-      "example_sentence": "The story questions whether romance is always true love.",
-      "example_sentence_cn": "故事质疑浪漫是否总是真爱。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用童话式爱情故事来记 romance。它表示浪漫、爱情故事。",
+      "association_en": "",
+      "example_sentence": "Anna's idea of romance changes after she learns a smile can hide a lie.",
+      "example_sentence_cn": "Anna 明白微笑可以隐藏谎言后，她对浪漫的看法改变了。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "romance = 浪漫/爱情故事。也可指传奇冒险色彩。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“浪漫 / 爱情故事”。"
     },
     "memory_anchor": {
       "one_sentence": "romance 可联想到 Disney 里爱情叙事，以及 Frozen 对传统 romance 的反转。",
@@ -5054,20 +5089,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "MAN: We're on the square. Eye, report back. Report back.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “MAN: We're on the square. Eye, report back. Report back.”，判断 report 在句中对应“报告 / 报道”里的哪一层意思。",
+        "note_cn": "",
         "quote": "MAN: We're on the square. Eye, report back. Report back.",
         "title": "Ballerina 2025",
         "work_id": "subtitle_ballerina_2025_1080p_web_dl_ddp5_1_x265_neonoir_1_eng_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “MAN: We're on the square. Eye, report back. Report back.” 这句里，report 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“报告 / 报道”。"
+          "context": "整句翻译：男人：我们在广场。Eye，回报。回报。\n词义定位：report 在 report back 中作动词，表示“汇报、报告”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “MAN: We're on the square. Eye, report back. Report back.”，判断 report 在句中对应“报告 / 报道”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5083,20 +5118,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "We're on the square. Eye, report back. Report back.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “We're on the square. Eye, report back. Report back.”，判断 report 在句中对应“报告 / 报道”里的哪一层意思。",
+        "note_cn": "",
         "quote": "We're on the square. Eye, report back. Report back.",
         "title": "Ballerina 2025",
         "work_id": "subtitle_ballerina_2025_1080p_web_dl_ddp5_1_x265_neonoir_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “We're on the square. Eye, report back. Report back.” 这句里，report 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“报告 / 报道”。"
+          "context": "整句翻译：我们在广场。Eye，回报。回报。\n词义定位：report back 表示向上级或同伴反馈情况。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “We're on the square. Eye, report back. Report back.”，判断 report 在句中对应“报告 / 报道”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5191,20 +5226,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Father wants you in full dress before the Emperor's herald arrives.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Father wants you in full dress before the Emperor's herald arrives.”，判断 herald 在句中对应“先驱 / 预示 / 宣布”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Father wants you in full dress before the Emperor's herald arrives.",
         "title": "Subs",
         "work_id": "subtitle_subs_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Father wants you in full dress before the Emperor's herald arrives.” 这句里，herald 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“先驱 / 预示 / 宣布”。"
+          "context": "整句翻译：父亲要你在皇帝的传令官到达前穿上全套礼服。\n词义定位：herald 在这里是名词，表示“传令官、使者”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Father wants you in full dress before the Emperor's herald arrives.”，判断 herald 在句中对应“先驱 / 预示 / 宣布”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5221,20 +5256,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I stand before you as Herald of the Change.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I stand before you as Herald of the Change.”，判断 herald 在句中对应“先驱 / 预示 / 宣布”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I stand before you as Herald of the Change.",
         "title": "Subs",
         "work_id": "subtitle_subs_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “I stand before you as Herald of the Change.” 这句里，herald 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“先驱 / 预示 / 宣布”。"
+          "context": "整句翻译：我作为变革的先 herald 站在你们面前。\n词义定位：Herald 在这里表示“先驱、宣告者”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I stand before you as Herald of the Change.”，判断 herald 在句中对应“先驱 / 预示 / 宣布”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5248,16 +5283,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "herald 可联想到王国中新王出生/归来的宣告。",
-      "association_en": "herald 可联想到王国中新王出生/归来的宣告。",
-      "example_sentence": "The sunrise heralds a new king's return.",
-      "example_sentence_cn": "日出预示新王归来。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用号角声宣布王子诞生来记 herald。它表示先驱、预示、宣布。",
+      "association_en": "",
+      "example_sentence": "The sunrise heralds a new day over Pride Rock before the animals gather.",
+      "example_sentence_cn": "动物聚集前，日出预示着荣耀石上的新一天。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "herald = 预示/宣布。像信使一样提前宣告。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“先驱 / 预示 / 宣布”。"
     },
     "memory_anchor": {
       "one_sentence": "herald 可联想到王国中新王出生/归来的宣告。",
@@ -5341,16 +5377,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "circular 可联想到雪花、冰晶和圆形魔法图案。",
-      "association_en": "circular 可联想到雪花、冰晶和圆形魔法图案。",
-      "example_sentence": "A circular ice pattern forms on the floor.",
-      "example_sentence_cn": "圆形冰纹在地板上形成。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用圆形雪花图案来记 circular。它表示圆形的、循环的。",
+      "association_en": "",
+      "example_sentence": "Elsa draws a circular pattern in the air, and snow gathers around her hand.",
+      "example_sentence_cn": "Elsa 在空中画出圆形图案，雪在她手边聚集。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "circular = 圆形的/循环的。circle 的形容词。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“圆形的 / 循环的 / 传单”。"
     },
     "memory_anchor": {
       "one_sentence": "circular 可联想到雪花、冰晶和圆形魔法图案。",
@@ -5432,16 +5469,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "leaflet 可联想到城市宣传单、寻物启事和案件线索。",
-      "association_en": "leaflet 可联想到城市宣传单、寻物启事和案件线索。",
-      "example_sentence": "A leaflet on the street gives the detective a clue.",
-      "example_sentence_cn": "街上的传单给侦探一个线索。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用警方发放的小传单来记 leaflet。它表示传单、小叶。",
+      "association_en": "",
+      "example_sentence": "Judy hands out a leaflet asking witnesses to report the missing otter.",
+      "example_sentence_cn": "Judy 发放传单，请目击者报告失踪水獭线索。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "leaflet = 传单/小叶。宣传语境是薄纸信息单。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“传单 / 小叶”。"
     },
     "memory_anchor": {
       "one_sentence": "leaflet 可联想到城市宣传单、寻物启事和案件线索。",
@@ -5522,16 +5560,17 @@
       "tier": 1,
       "medium": "game/tech",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "sensor 可联想到 Minecraft 的 sculk sensor 和红石检测机制。",
-      "association_en": "sensor 可联想到 Minecraft 的 sculk sensor 和红石检测机制。",
-      "example_sentence": "A sensor detects movement and activates the door.",
-      "example_sentence_cn": "传感器检测运动并启动门。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用红石传感器检测玩家接近来记 sensor。它表示传感器。",
+      "association_en": "",
+      "example_sentence": "The daylight sensor closes the secret door when night reaches the village.",
+      "example_sentence_cn": "当天黑到达村庄时，日光传感器关闭秘密门。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "sensor = 传感器。重点是检测变化并输出信号。",
+      "usage_focus_cn": "sensor 是负责感知外界变化的装置，重点记“检测到变化→触发反应”。"
     },
     "memory_anchor": {
       "one_sentence": "sensor 可联想到 Minecraft 的 sculk sensor 和红石检测机制。",
@@ -5690,16 +5729,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "convey 可联想到颜色、音乐和表情传达情绪。",
-      "association_en": "convey 可联想到颜色、音乐和表情传达情绪。",
-      "example_sentence": "The scene conveys sadness without many words.",
-      "example_sentence_cn": "这个场景不用太多语言也传达悲伤。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用表情传达情绪来记 convey。它表示传达、运输。",
+      "association_en": "",
+      "example_sentence": "Sadness can convey what Riley feels even when Riley cannot find the words.",
+      "example_sentence_cn": "Riley 找不到词时，Sadness 能传达她的感受。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "convey = 传达/运输。语言语境是把意思送到对方心里。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“传达 / 运输”。"
     },
     "memory_anchor": {
       "one_sentence": "convey 可联想到颜色、音乐和表情传达情绪。",
@@ -5785,20 +5825,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "A power source so potent it can pierce through realms.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “A power source so potent it can pierce through realms.”，判断 pierce 在句中对应“刺穿 / 穿透”里的哪一层意思。",
+        "note_cn": "",
         "quote": "A power source so potent it can pierce through realms.",
         "title": "The Owl House S02E09",
         "work_id": "subtitle_the_owl_house_s02e09_1080p_hulu_web_dl_aac2_0_h_264_welp_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “A power source so potent it can pierce through realms.” 里，pierce 和角色要做的动作连在一起，适合用动作画面来记。它在句中更像动作或行为，复习时重点抓“刺穿 / 穿透”这个动作感。"
+          "context": "整句翻译：强大到能够穿透各个领域的能量源。\n词义定位：pierce 表示“刺穿、穿透”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “A power source so potent it can pierce through realms.”，判断 pierce 在句中对应“刺穿 / 穿透”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5811,16 +5851,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "pierce 可联想到尖锐冰刺刺穿空气的视觉意象。",
-      "association_en": "pierce 可联想到尖锐冰刺刺穿空气的视觉意象。",
-      "example_sentence": "An ice spike pierces the dark sky.",
-      "example_sentence_cn": "一道冰刺刺向黑暗天空。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用冰刺穿过布料来记 pierce。它表示刺穿、穿透。",
+      "association_en": "",
+      "example_sentence": "A shard of ice pierces the wooden door and stops inches from Anna's face.",
+      "example_sentence_cn": "一片冰刺穿木门，停在离 Anna 脸只有几英寸的地方。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "pierce = 刺穿/穿透。重点是尖东西穿过表面。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“刺穿 / 穿透”。"
     },
     "memory_anchor": {
       "one_sentence": "pierce 可联想到尖锐冰刺刺穿空气的视觉意象。",
@@ -5903,16 +5944,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "penetration 可联想到武器、墙体和危险穿透的紧张感。",
-      "association_en": "penetration 可联想到武器、墙体和危险穿透的紧张感。",
-      "example_sentence": "The shot has enough penetration to pass through the door.",
-      "example_sentence_cn": "这一枪有足够穿透力穿过门。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用子弹或感染深入内部来记 penetration。它表示穿透、渗透。",
+      "association_en": "",
+      "example_sentence": "The armor stops the first shot, but the second shows deeper penetration.",
+      "example_sentence_cn": "护甲挡住第一枪，但第二枪显示出更深穿透。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "penetration = 穿透/渗透。名词，强调进入内部的程度。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“穿透 / 渗透 / 洞察力”。"
     },
     "memory_anchor": {
       "one_sentence": "penetration 可联想到武器、墙体和危险穿透的紧张感。",
@@ -5994,16 +6036,17 @@
       "tier": 2,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "antenna 可联想到连接网络、远程通信和荒野据点。",
-      "association_en": "antenna 可联想到连接网络、远程通信和荒野据点。",
-      "example_sentence": "An antenna connects the shelter to the wider network.",
-      "example_sentence_cn": "天线把避难所连接到更广网络。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用天线接收远处信号来记 antenna。它表示天线、触角。",
+      "association_en": "",
+      "example_sentence": "Sam raises the antenna until the shelter's weak signal becomes clear.",
+      "example_sentence_cn": "Sam 升起天线，直到避难所微弱信号变清晰。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "antenna = 天线/触角。核心是接收或发送信号。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“天线 / 触角”。"
     },
     "memory_anchor": {
       "one_sentence": "antenna 可联想到连接网络、远程通信和荒野据点。",
@@ -6090,20 +6133,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "He has to let Bottas pass, or face a five-second penalty.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “He has to let Bottas pass, or face a five-second penalty.”，判断 penalty 在句中对应“处罚 / 罚金 / 点球”里的哪一层意思。",
+        "note_cn": "",
         "quote": "He has to let Bottas pass, or face a five-second penalty.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “He has to let Bottas pass, or face a five-second penalty.” 把 penalty 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“处罚 / 罚金 / 点球”。"
+          "context": "整句翻译：他必须让 Bottas 通过，否则会面临五秒处罚。\n词义定位：penalty 在赛车规则中表示“处罚”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “He has to let Bottas pass, or face a five-second penalty.”，判断 penalty 在句中对应“处罚 / 罚金 / 点球”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6120,20 +6163,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Come on, that's clearly a penalty.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Come on, that's clearly a penalty.”，判断 penalty 在句中对应“处罚 / 罚金 / 点球”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Come on, that's clearly a penalty.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Come on, that's clearly a penalty.” 把 penalty 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“处罚 / 罚金 / 点球”。"
+          "context": "整句翻译：拜托，那显然是个犯规处罚。\n词义定位：penalty 表示比赛中的判罚。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Come on, that's clearly a penalty.”，判断 penalty 在句中对应“处罚 / 罚金 / 点球”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6147,16 +6190,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "penalty 可联想到法律、违规和城市执法。",
-      "association_en": "penalty 可联想到法律、违规和城市执法。",
-      "example_sentence": "Breaking the law brings a penalty in the animal city.",
-      "example_sentence_cn": "违法会在动物城市受到处罚。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用违规后的处罚来记 penalty。它表示处罚、罚金。",
+      "association_en": "",
+      "example_sentence": "The parking penalty looks small, but Judy writes it with absolute seriousness.",
+      "example_sentence_cn": "停车罚单看起来小事一桩，但 Judy 写得非常认真。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "penalty = 处罚/罚金。重点是违反规则后的代价。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“处罚 / 罚金 / 点球”。"
     },
     "memory_anchor": {
       "one_sentence": "penalty 可联想到法律、违规和城市执法。",
@@ -6238,16 +6282,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "transaction 可联想到城市商业、买卖和线索交易。",
-      "association_en": "transaction 可联想到城市商业、买卖和线索交易。",
-      "example_sentence": "A small transaction at the market becomes suspicious.",
-      "example_sentence_cn": "市场上的一次小交易变得可疑。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用秘密交易记录来记 transaction。它表示交易、业务。",
+      "association_en": "",
+      "example_sentence": "Judy finds a hidden transaction between the dealer and a city official.",
+      "example_sentence_cn": "Judy 发现那个贩子和市政府官员之间的一笔隐藏交易。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "transaction = 交易/业务。重点是钱、物或信息的交换记录。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“交易 / 业务”。"
     },
     "memory_anchor": {
       "one_sentence": "transaction 可联想到城市商业、买卖和线索交易。",
@@ -6335,20 +6380,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "\"The light of discovery shines truer upon a virgin meadow than a beaten path.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “\"The light of discovery shines truer upon a virgin meadow than a beaten path.\"”，判断 virgin 在句中对应“处女 / 未开发的 / 原始的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "\"The light of discovery shines truer upon a virgin meadow than a beaten path.\"",
         "title": "Severance S01E05",
         "work_id": "subtitle_severance_s01e05_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “\"The light of discovery shines truer upon a virgin meadow than a beaten path.\"” 这句里，virgin 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“处女 / 未开发的 / 原始的”。"
+          "context": "整句翻译：发现之光照在未被踏足的草地上，比照在旧路上更真实。\n词义定位：virgin 在 virgin meadow 中表示“未开发的、未被触碰的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “\"The light of discovery shines truer upon a virgin meadow than a beaten path.\"”，判断 virgin 在句中对应“处女 / 未开发的 / 原始的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6443,20 +6488,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Oh! An exclusive invitation. [chuckles]",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Oh! An exclusive invitation. [chuckles]”，判断 exclusive 在句中对应“独有的 / 排外的 / 独家报道”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Oh! An exclusive invitation. [chuckles]",
         "title": "Inside Out 2",
         "work_id": "subtitle_inside_out_2_2024_1080p_webrip_ddp5_1_x265_10bit_galaxyrg265_1_eng_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Oh! An exclusive invitation. [chuckles]” 带有明显情绪爆发，说明 exclusive 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“独有的 / 排外的 / 独家报道”。"
+          "context": "整句翻译：哦！一份专属邀请。\n词义定位：exclusive 表示“独有的、专属的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Oh! An exclusive invitation. [chuckles]”，判断 exclusive 在句中对应“独有的 / 排外的 / 独家报道”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6473,20 +6518,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "at the fanciest, most exclusive relaxation resort in Korea.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “at the fanciest, most exclusive relaxation resort in Korea.”，判断 exclusive 在句中对应“独有的 / 排外的 / 独家报道”里的哪一层意思。",
+        "note_cn": "",
         "quote": "at the fanciest, most exclusive relaxation resort in Korea.",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_1_eng_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “at the fanciest, most exclusive relaxation resort in Korea.” 这句里，exclusive 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“独有的 / 排外的 / 独家报道”。"
+          "context": "整句翻译：在韩国最豪华、最高端排他的休闲度假村。\n词义定位：exclusive 表示只对少数人开放的“高端、排他的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “at the fanciest, most exclusive relaxation resort in Korea.”，判断 exclusive 在句中对应“独有的 / 排外的 / 独家报道”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6578,20 +6623,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "The notorious bandit known as the Crimson Paw",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “The notorious bandit known as the Crimson Paw”，判断 notorious 在句中对应“臭名昭著的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "The notorious bandit known as the Crimson Paw",
         "title": "Subs British",
         "work_id": "subtitle_subs_british_sdh_eng_hi",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “The notorious bandit known as the Crimson Paw” 这句里，notorious 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“臭名昭著的”这类形容感绑定。"
+          "context": "整句翻译：那个臭名昭著、名叫 Crimson Paw 的强盗。\n词义定位：notorious 表示“臭名昭著的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “The notorious bandit known as the Crimson Paw”，判断 notorious 在句中对应“臭名昭著的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6608,20 +6653,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "The notorious bandit known as the Crimson Paw",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “The notorious bandit known as the Crimson Paw”，判断 notorious 在句中对应“臭名昭著的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "The notorious bandit known as the Crimson Paw",
         "title": "The Bad Guys (2022",
         "work_id": "subtitle_the_bad_guys_2022_1080p_webrip_5_1_yts_mx_the_bad_guys_2022_1080p_webrip_x264_aa",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “The notorious bandit known as the Crimson Paw” 这句里，notorious 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“臭名昭著的”这类形容感绑定。"
+          "context": "整句翻译：那个臭名昭著、名叫 Crimson Paw 的强盗。\n词义定位：notorious 用于负面名声很大的对象。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “The notorious bandit known as the Crimson Paw”，判断 notorious 在句中对应“臭名昭著的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6635,16 +6680,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "notorious 可联想到黑帮式角色和臭名昭著的犯罪者。",
-      "association_en": "notorious 可联想到黑帮式角色和臭名昭著的犯罪者。",
-      "example_sentence": "A tiny boss becomes notorious in the underworld.",
-      "example_sentence_cn": "一个小老大在地下世界臭名昭著。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用臭名昭著的骗子来记 notorious。它表示臭名昭著的。",
+      "association_en": "",
+      "example_sentence": "The notorious weasel is known for stealing anything smaller than his backpack.",
+      "example_sentence_cn": "那个臭名昭著的黄鼠狼以偷任何小过背包的东西出名。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "notorious = 臭名昭著的。只能用于坏名声。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“臭名昭著的”。"
     },
     "memory_anchor": {
       "one_sentence": "notorious 可联想到黑帮式角色和臭名昭著的犯罪者。",
@@ -6730,20 +6776,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Whew. Talk about a scandal.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Whew. Talk about a scandal.”，判断 scandal 在句中对应“丑闻 / 丢脸的事”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Whew. Talk about a scandal.",
         "title": "The Bad Guys 2 2025",
         "work_id": "subtitle_the_bad_guys_2_2025_1080p_10bit_bluray_8ch_x265_hevc_psa_1_eng_us_cc_itunes",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Whew. Talk about a scandal.” 把 scandal 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“丑闻 / 丢脸的事”。"
+          "context": "整句翻译：哇，这可真是个丑闻。\n词义定位：scandal 表示“丑闻、丢脸的事”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Whew. Talk about a scandal.”，判断 scandal 在句中对应“丑闻 / 丢脸的事”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6760,20 +6806,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Talk about a scandal.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Talk about a scandal.”，判断 scandal 在句中对应“丑闻 / 丢脸的事”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Talk about a scandal.",
         "title": "The Bad Guys 2 2025",
         "work_id": "subtitle_the_bad_guys_2_2025_1080p_10bit_bluray_8ch_x265_hevc_psa_0_eng_us_itunes",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Talk about a scandal.” 把 scandal 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“丑闻 / 丢脸的事”。"
+          "context": "整句翻译：这可真叫丑闻。\n词义定位：scandal 指引发震惊或不体面的事件。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Talk about a scandal.”，判断 scandal 在句中对应“丑闻 / 丢脸的事”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6787,16 +6833,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "scandal 可联想到城市政治危机和公众信任崩塌。",
-      "association_en": "scandal 可联想到城市政治危机和公众信任崩塌。",
-      "example_sentence": "The scandal shakes public trust in the city.",
-      "example_sentence_cn": "丑闻动摇了城市公众信任。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用市政丑闻来记 scandal。它表示丑闻。",
+      "association_en": "",
+      "example_sentence": "The cover-up becomes a scandal as soon as Judy shows the files to the press.",
+      "example_sentence_cn": "Judy 把文件交给媒体后，掩盖行为立刻变成丑闻。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "scandal = 丑闻。重点是公开后损害名誉的坏事。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“丑闻 / 丢脸的事”。"
     },
     "memory_anchor": {
       "one_sentence": "scandal 可联想到城市政治危机和公众信任崩塌。",
@@ -6882,20 +6929,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[Valentino] Mm! Lovely specimen!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[Valentino] Mm! Lovely specimen!”，判断 specimen 在句中对应“标本 / 样本”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[Valentino] Mm! Lovely specimen!",
         "title": "Hazbin Hotel S01E04",
         "work_id": "subtitle_hazbin_hotel_2024_s01e04_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_1_eng_s",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “[Valentino] Mm! Lovely specimen!” 把 specimen 放在句末，往往是在补充结果、态度或关键信息。这句能给 specimen 一个真实使用场景，复习时把它和“标本 / 样本”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：Valentino：嗯！可爱的标本！\n词义定位：specimen 表示用于观察或研究的“标本、样本”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[Valentino] Mm! Lovely specimen!”，判断 specimen 在句中对应“标本 / 样本”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6912,20 +6959,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Is the specimen ready for cleaning?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Is the specimen ready for cleaning?”，判断 specimen 在句中对应“标本 / 样本”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Is the specimen ready for cleaning?",
         "title": "Toy Story 2 (1999",
         "work_id": "subtitle_toy_story_2_1999_1080p_toy_story_2_1999_1080p_brrip_x264_yify",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Is the specimen ready for cleaning?” 出现在提问里，说明 specimen 可以嵌在真实对话的追问/确认中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“标本 / 样本”。"
+          "context": "整句翻译：标本准备好清洗了吗？\n词义定位：specimen 在这里指待处理的样本/标本。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Is the specimen ready for cleaning?”，判断 specimen 在句中对应“标本 / 样本”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6939,16 +6986,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "specimen 可联想到感染样本、医学研究和实验室。",
-      "association_en": "specimen 可联想到感染样本、医学研究和实验室。",
-      "example_sentence": "The lab studies a dangerous specimen.",
-      "example_sentence_cn": "实验室研究一个危险样本。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用实验室样本来记 specimen。它表示标本、样本。",
+      "association_en": "",
+      "example_sentence": "The doctor labels the blood specimen before locking it in the cold box.",
+      "example_sentence_cn": "医生给血液样本贴上标签，然后把它锁进冷藏箱。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "specimen = 样本/标本。科学或医学语境常用。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“标本 / 样本”。"
     },
     "memory_anchor": {
       "one_sentence": "specimen 可联想到感染样本、医学研究和实验室。",
@@ -7031,16 +7079,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "extraction 可联想到从危险区域撤离或提取样本。",
-      "association_en": "extraction 可联想到从危险区域撤离或提取样本。",
-      "example_sentence": "The team plans an extraction before nightfall.",
-      "example_sentence_cn": "小队计划在夜幕前撤离。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用从危险区域撤出人员或提取样本来记 extraction。它表示提取、撤离、拔出。",
+      "association_en": "",
+      "example_sentence": "The extraction team reaches Ellie just before the infected break through the stairwell.",
+      "example_sentence_cn": "感染者冲破楼梯间前，撤离小队赶到 Ellie 身边。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "extraction = 提取/撤离。行动语境是把人从危险处带出。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“提取 / 拔出 / 出身”。"
     },
     "memory_anchor": {
       "one_sentence": "extraction 可联想到从危险区域撤离或提取样本。",
@@ -7125,20 +7174,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "The Equator?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “The Equator?”，判断 equator 在句中对应“赤道”里的哪一层意思。",
+        "note_cn": "",
         "quote": "The Equator?",
         "title": "Severance S02E10 Cold Harbor",
         "work_id": "subtitle_severance_s02e10_cold_harbor_1080p_webrip_10bit_ddp5_1_x265_hodl_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “The Equator?” 把 equator 放在句末，往往是在补充结果、态度或关键信息。这句能给 equator 一个真实使用场景，复习时把它和“赤道”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：赤道？\n词义定位：Equator 表示地球的“赤道”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “The Equator?”，判断 equator 在句中对应“赤道”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7154,20 +7203,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "See you at the Equator.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “See you at the Equator.”，判断 equator 在句中对应“赤道”里的哪一层意思。",
+        "note_cn": "",
         "quote": "See you at the Equator.",
         "title": "Severance S02E10 Cold Harbor",
         "work_id": "subtitle_severance_s02e10_cold_harbor_1080p_webrip_10bit_ddp5_1_x265_hodl_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “See you at the Equator.” 把 equator 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“赤道”。"
+          "context": "整句翻译：赤道见。\n词义定位：Equator 是地理名词“赤道”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “See you at the Equator.”，判断 equator 在句中对应“赤道”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7180,16 +7229,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "equator 可联想到热带海洋、岛屿和航海。",
-      "association_en": "equator 可联想到热带海洋、岛屿和航海。",
-      "example_sentence": "Near the equator, the sea feels warm and bright.",
-      "example_sentence_cn": "赤道附近，海水显得温暖明亮。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用航海图上的赤道线来记 equator。它表示赤道。",
+      "association_en": "",
+      "example_sentence": "Moana traces the equator on the star map before choosing the southern current.",
+      "example_sentence_cn": "Moana 在星图上描过赤道线，然后选择南方洋流。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "equator = 赤道。地球中间的假想线。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“赤道”。"
     },
     "memory_anchor": {
       "one_sentence": "equator 可联想到热带海洋、岛屿和航海。",
@@ -7276,20 +7326,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Look, you're constantly surrounded by people that adore you.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Look, you're constantly surrounded by people that adore you.”，判断 adore 在句中对应“崇拜 / 爱慕 / 非常喜欢”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Look, you're constantly surrounded by people that adore you.",
         "title": "Your Friendly Neighborhood Spider Man S01E07",
         "work_id": "subtitle_your_friendly_neighborhood_spider_man_s01e07_1080p_x265_elite_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Look, you're constantly surrounded by people that adore you.” 这句里，adore 不是孤立出现，而是嵌在一段真实对白中。这句能给 adore 一个真实使用场景，复习时把它和“崇拜 / 爱慕 / 非常喜欢”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：听着，你身边总是围着崇拜你的人。\n词义定位：adore 表示“崇拜、非常喜欢”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Look, you're constantly surrounded by people that adore you.”，判断 adore 在句中对应“崇拜 / 爱慕 / 非常喜欢”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7306,20 +7356,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ I'll shelter and adore you more than anything ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ I'll shelter and adore you more than anything ♪”，判断 adore 在句中对应“崇拜 / 爱慕 / 非常喜欢”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ I'll shelter and adore you more than anything ♪",
         "title": "Hazbin Hotel S01E05",
         "work_id": "subtitle_hazbin_hotel_2024_s01e05_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ I'll shelter and adore you more than anything ♪” 这句里，adore 不是孤立出现，而是嵌在一段真实对白中。这句能给 adore 一个真实使用场景，复习时把它和“崇拜 / 爱慕 / 非常喜欢”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：我会庇护你，并比任何事都更爱你。\n词义定位：adore 在这里表示深深喜爱、爱慕。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ I'll shelter and adore you more than anything ♪”，判断 adore 在句中对应“崇拜 / 爱慕 / 非常喜欢”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7333,16 +7383,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "adore 可联想到家人之间深厚的爱与敬重。",
-      "association_en": "adore 可联想到家人之间深厚的爱与敬重。",
-      "example_sentence": "He adores the song that connects him to family.",
-      "example_sentence_cn": "他深爱那首连接家人的歌。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Miguel 热爱音乐来记 adore。它表示崇拜、非常喜欢。",
+      "association_en": "",
+      "example_sentence": "Miguel adores the guitar so much that he practices even when the house is asleep.",
+      "example_sentence_cn": "Miguel 非常热爱吉他，家里人睡着后仍练习。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "adore = 非常喜欢/崇拜。比 like 更强烈、更有感情。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“崇拜 / 爱慕 / 非常喜欢”。"
     },
     "memory_anchor": {
       "one_sentence": "adore 可联想到家人之间深厚的爱与敬重。",
@@ -7430,20 +7481,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "From others, I mostly prefer praise, flattery, hero worship,",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “From others, I mostly prefer praise, flattery, hero worship,”，判断 worship 在句中对应“崇拜 / 敬奉 / 礼拜”里的哪一层意思。",
+        "note_cn": "",
         "quote": "From others, I mostly prefer praise, flattery, hero worship,",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “From others, I mostly prefer praise, flattery, hero worship,” 这句里，worship 不是孤立出现，而是嵌在一段真实对白中。这句能给 worship 一个真实使用场景，复习时把它和“崇拜 / 敬奉 / 礼拜”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：从别人那里，我更喜欢赞美、奉承和英雄崇拜。\n词义定位：worship 在 hero worship 中表示“崇拜”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “From others, I mostly prefer praise, flattery, hero worship,”，判断 worship 在句中对应“崇拜 / 敬奉 / 礼拜”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7460,20 +7511,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Yeah, turns out they worship me here.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Yeah, turns out they worship me here.”，判断 worship 在句中对应“崇拜 / 敬奉 / 礼拜”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Yeah, turns out they worship me here.",
         "title": "Star vs the Forces of Evil S01E11 E12 Mewbert…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e11_e12_mewberty_pixtopia_1080p_amzn_webrip_ddp_2_",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Yeah, turns out they worship me here.” 这句里，worship 不是孤立出现，而是嵌在一段真实对白中。这句能给 worship 一个真实使用场景，复习时把它和“崇拜 / 敬奉 / 礼拜”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：是啊，结果发现他们在这里崇拜我。\n词义定位：worship 表示像敬奉神明一样“崇拜”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Yeah, turns out they worship me here.”，判断 worship 在句中对应“崇拜 / 敬奉 / 礼拜”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7487,16 +7538,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "worship 可联想到祖先祭坛、纪念与敬奉。",
-      "association_en": "worship 可联想到祖先祭坛、纪念与敬奉。",
-      "example_sentence": "The family gathers to honor and worship their ancestors.",
-      "example_sentence_cn": "家人聚集起来纪念和敬奉祖先。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用祭坛和祖先纪念来记 worship。它表示崇拜、敬奉、礼拜。",
+      "association_en": "",
+      "example_sentence": "The family does not worship fame; they honor the dead with songs and candles.",
+      "example_sentence_cn": "这个家庭并不崇拜名声；他们用歌曲和蜡烛纪念逝者。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "worship = 崇拜/敬奉。宗教或强烈崇敬语境常用。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“崇拜 / 敬奉 / 礼拜”。"
     },
     "memory_anchor": {
       "one_sentence": "worship 可联想到祖先祭坛、纪念与敬奉。",
@@ -7584,20 +7636,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "or I'll punch holes in the lot of ya.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “or I'll punch holes in the lot of ya.”，判断 punch 在句中对应“拳打 / 冲孔 / 潘趣酒”里的哪一层意思。",
+        "note_cn": "",
         "quote": "or I'll punch holes in the lot of ya.",
         "title": "Puss In Boots The Last Wish (2022",
         "work_id": "subtitle_puss_in_boots_the_last_wish_2022_1080p_webrip_5_1_yts_mx_puss_in_boots_the_last_",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “or I'll punch holes in the lot of ya.” 这句里，punch 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“拳打 / 冲孔 / 潘趣酒”。"
+          "context": "整句翻译：否则我就在你们所有人身上打出洞来。\n词义定位：punch 在这里作动词，表示“打、击穿”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “or I'll punch holes in the lot of ya.”，判断 punch 在句中对应“拳打 / 冲孔 / 潘趣酒”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7614,20 +7666,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ Oh, with a punch of a pentagram ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ Oh, with a punch of a pentagram ♪”，判断 punch 在句中对应“拳打 / 冲孔 / 潘趣酒”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ Oh, with a punch of a pentagram ♪",
         "title": "Hazbin Hotel S01E05",
         "work_id": "subtitle_hazbin_hotel_2024_s01e05_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ Oh, with a punch of a pentagram ♪” 这句里，punch 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“拳打 / 冲孔 / 潘趣酒”。"
+          "context": "整句翻译：哦，带着五芒星的一击。\n词义定位：punch 在这里是名词，表示“一拳、一击”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ Oh, with a punch of a pentagram ♪”，判断 punch 在句中对应“拳打 / 冲孔 / 潘趣酒”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7641,16 +7693,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "punch 可联想到功夫训练中的拳击动作。",
-      "association_en": "punch 可联想到功夫训练中的拳击动作。",
-      "example_sentence": "The student learns to punch with balance and focus.",
-      "example_sentence_cn": "学生学习带着平衡和专注出拳。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用功夫出拳来记 punch。它表示拳打、冲孔，也可指潘趣酒。",
+      "association_en": "",
+      "example_sentence": "Po throws one wild punch and accidentally breaks the training drum.",
+      "example_sentence_cn": "阿宝胡乱打出一拳，意外打破了训练鼓。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "punch = 拳打/一拳。动作重点是用拳头击打。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“拳打 / 冲孔 / 潘趣酒”。"
     },
     "memory_anchor": {
       "one_sentence": "punch 可联想到功夫训练中的拳击动作。",
@@ -7738,20 +7791,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I'mma gear up and take you down!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I'mma gear up and take you down!”，判断 gear 在句中对应“齿轮 / 装备 / 使适合”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I'mma gear up and take you down!",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_1_eng_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “I'mma gear up and take you down!” 带有明显情绪爆发，说明 gear 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。这句能给 gear 一个真实使用场景，复习时把它和“齿轮 / 装备 / 使适合”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：我要装备起来，然后打倒你！\n词义定位：gear up 表示“装备起来、做好准备”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I'mma gear up and take you down!”，判断 gear 在句中对应“齿轮 / 装备 / 使适合”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7767,20 +7820,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I'mma gear up!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I'mma gear up!”，判断 gear 在句中对应“齿轮 / 装备 / 使适合”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I'mma gear up!",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_1_eng_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “I'mma gear up!” 带有明显情绪爆发，说明 gear 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。这句能给 gear 一个真实使用场景，复习时把它和“齿轮 / 装备 / 使适合”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：我要装备起来！\n词义定位：gear 在 gear up 中表示为行动做准备。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I'mma gear up!”，判断 gear 在句中对应“齿轮 / 装备 / 使适合”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7793,16 +7846,17 @@
       "tier": 1,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "gear 可联想到 Minecraft 冒险前准备装备。",
-      "association_en": "gear 可联想到 Minecraft 冒险前准备装备。",
-      "example_sentence": "The player packs gear before entering the cave.",
-      "example_sentence_cn": "玩家进洞前整理装备。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用装备和齿轮来记 gear。它表示装备、齿轮、使适合。",
+      "association_en": "",
+      "example_sentence": "The player packs diamond gear before entering the deep cave.",
+      "example_sentence_cn": "玩家进入深洞前带好钻石装备。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "gear = 装备/齿轮。游戏语境常指武器、防具、工具。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“齿轮 / 装备 / 使适合”。"
     },
     "memory_anchor": {
       "one_sentence": "gear 可联想到 Minecraft 冒险前准备装备。",
@@ -7888,20 +7942,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "caught in a cycle of horror and strife!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “caught in a cycle of horror and strife!”，判断 strife 在句中对应“冲突 / 纷争”里的哪一层意思。",
+        "note_cn": "",
         "quote": "caught in a cycle of horror and strife!",
         "title": "The Owl House S03E01 REPACK",
         "work_id": "subtitle_the_owl_house_s03e01_repack_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “caught in a cycle of horror and strife!” 把 strife 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“冲突 / 纷争”。"
+          "context": "整句翻译：陷入恐怖与纷争的循环！\n词义定位：strife 表示“冲突、纷争”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “caught in a cycle of horror and strife!”，判断 strife 在句中对应“冲突 / 纷争”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7917,20 +7971,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ No strife ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ No strife ♪”，判断 strife 在句中对应“冲突 / 纷争”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ No strife ♪",
         "title": "Hazbin Hotel S01E06",
         "work_id": "subtitle_hazbin_hotel_2024_s01e06_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ No strife ♪” 这句里，strife 不是孤立出现，而是嵌在一段真实对白中。这句能给 strife 一个真实使用场景，复习时把它和“冲突 / 纷争”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：没有纷争。\n词义定位：strife 指争斗、冲突。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ No strife ♪”，判断 strife 在句中对应“冲突 / 纷争”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7944,16 +7998,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "strife 可联想到末世派系冲突和幸存者之间的纷争。",
-      "association_en": "strife 可联想到末世派系冲突和幸存者之间的纷争。",
-      "example_sentence": "Years of strife divide the survivors.",
-      "example_sentence_cn": "多年的纷争分裂了幸存者。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用幸存者派系之间的长期纷争来记 strife。它表示冲突、纷争。",
+      "association_en": "",
+      "example_sentence": "Years of strife between the factions make every bridge a checkpoint.",
+      "example_sentence_cn": "派系间多年的纷争让每座桥都变成检查站。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "strife = 冲突/纷争。比 conflict 更书面，常指长期不和。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“冲突 / 纷争”。"
     },
     "memory_anchor": {
       "one_sentence": "strife 可联想到末世派系冲突和幸存者之间的纷争。",

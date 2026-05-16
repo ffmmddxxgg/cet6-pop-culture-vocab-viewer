@@ -41,16 +41,17 @@
       "tier": 2,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "海边、搁浅与海岸意象很适合联想到 Death Stranding 的 Beaches 与末世海岸氛围。",
-      "association_en": "海边、搁浅与海岸意象很适合联想到 Death Stranding 的 Beaches 与末世海岸氛围。",
-      "example_sentence": "A lonely porter walks along a silent seaside after the rain.",
-      "example_sentence_cn": "一个孤独的送货员在雨后寂静的海边行走。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Sam 沿海岸线送货来记 seaside。它表示海边、海滨的。",
+      "association_en": "",
+      "example_sentence": "Sam reaches the seaside just as black waves begin crawling over the rocks.",
+      "example_sentence_cn": "黑色海浪开始爬上岩石时，Sam 到达海边。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "seaside = 海边/海滨的。重点是靠近海的地方。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“海边 / 海滨的”。"
     },
     "memory_anchor": {
       "one_sentence": "海边、搁浅与海岸意象很适合联想到 Death Stranding 的 Beaches 与末世海岸氛围。",
@@ -138,20 +139,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "A Southern Stone station.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “A Southern Stone station.”，判断 stone 在句中对应“石头 / 结石 / 用石头铺”里的哪一层意思。",
+        "note_cn": "",
         "quote": "A Southern Stone station.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “A Southern Stone station.” 这句里，stone 不是孤立出现，而是嵌在一段真实对白中。这句能给 stone 一个真实使用场景，复习时把它和“石头 / 结石 / 用石头铺”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：一个 Southern Stone 车站。\n词义定位：Stone 在这里是名称的一部分；从词义上看，stone 本义是“石头”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “A Southern Stone station.”，判断 stone 在句中对应“石头 / 结石 / 用石头铺”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -168,20 +169,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ Stone cold*",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ Stone cold*”，判断 stone 在句中对应“石头 / 结石 / 用石头铺”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ Stone cold*",
         "title": "Ballerina 2025",
         "work_id": "subtitle_ballerina_2025_1080p_web_dl_ddp5_1_x265_neonoir_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ Stone cold*” 这句里，stone 不是孤立出现，而是嵌在一段真实对白中。这句能给 stone 一个真实使用场景，复习时把它和“石头 / 结石 / 用石头铺”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：冷若石头。\n词义定位：stone 在 stone cold 中作程度修饰，表示“像石头一样冷、完全冷”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ Stone cold*”，判断 stone 在句中对应“石头 / 结石 / 用石头铺”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -194,16 +195,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "stone 可以联想到 Frozen 中的 trolls/岩石精灵和 Arendelle 的北欧山地氛围。",
-      "association_en": "stone 可以联想到 Frozen 中的 trolls/岩石精灵和 Arendelle 的北欧山地氛围。",
-      "example_sentence": "The stone-like trolls gather in the mountains.",
-      "example_sentence_cn": "像石头一样的精灵聚集在山中。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用冰宫外被冻住的石阶来记 stone。它表示石头，也可指结石或用石头铺。",
+      "association_en": "",
+      "example_sentence": "Anna steps onto the stone bridge and hears the ice crack beneath it.",
+      "example_sentence_cn": "Anna 踏上石桥，听见下面的冰裂开。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "stone = 石头/石制的。画面是坚硬、沉重的材料。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“石头 / 结石 / 用石头铺”。"
     },
     "memory_anchor": {
       "one_sentence": "stone 可以联想到 Frozen 中的 trolls/岩石精灵和 Arendelle 的北欧山地氛围。",
@@ -366,20 +368,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "- We use our slap shot! - No, no, no. We charge the goalie!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “- We use our slap shot! - No, no, no. We charge the goalie!”，判断 slap 在句中对应“拍打 / 掌掴”里的哪一层意思。",
+        "note_cn": "",
         "quote": "- We use our slap shot! - No, no, no. We charge the goalie!",
         "title": "Inside Out 2",
         "work_id": "subtitle_inside_out_2_2024_1080p_webrip_ddp5_1_x265_10bit_galaxyrg265_0_eng_galaxyrg256_i",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “- We use our slap shot! - No, no, no. We charge the goalie!” 带有明显情绪爆发，说明 slap 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“拍打 / 掌掴”。"
+          "context": "整句翻译：我们用 slap shot！不，不，不。我们冲向守门员！\n词义定位：slap 在 slap shot 中是冰球术语，指用力击球的一种“拍击式射门”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “- We use our slap shot! - No, no, no. We charge the goalie!”，判断 slap 在句中对应“拍打 / 掌掴”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -396,20 +398,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[Fear] Oh! We use our slap shot!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[Fear] Oh! We use our slap shot!”，判断 slap 在句中对应“拍打 / 掌掴”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[Fear] Oh! We use our slap shot!",
         "title": "Inside Out 2",
         "work_id": "subtitle_inside_out_2_2024_1080p_webrip_ddp5_1_x265_10bit_galaxyrg265_1_eng_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “[Fear] Oh! We use our slap shot!” 带有明显情绪爆发，说明 slap 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。这句能给 slap 一个真实使用场景，复习时把它和“拍打 / 掌掴”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：Fear 说：哦！我们用 slap shot！\n词义定位：slap 在这里强调“拍、击”的动作，是 slap shot 这个运动术语的一部分。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[Fear] Oh! We use our slap shot!”，判断 slap 在句中对应“拍打 / 掌掴”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -499,16 +501,17 @@
       "tier": 1,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "boiler 可联想到工业模组或蒸汽朋克风基地中的锅炉装置。",
-      "association_en": "boiler 可联想到工业模组或蒸汽朋克风基地中的锅炉装置。",
-      "example_sentence": "A boiler powers the underground workshop.",
-      "example_sentence_cn": "锅炉为地下工坊供能。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用红石工厂里的锅炉来记 boiler。它表示锅炉、热水器。",
+      "association_en": "",
+      "example_sentence": "The Minecraft workshop uses a boiler to power the steam door beneath the base.",
+      "example_sentence_cn": "这个 Minecraft 工坊用锅炉驱动基地下方的蒸汽门。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "boiler = 锅炉。重点是加热水产生热量或蒸汽的设备。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“锅炉 / 热水器”。"
     },
     "memory_anchor": {
       "one_sentence": "boiler 可联想到工业模组或蒸汽朋克风基地中的锅炉装置。",
@@ -595,20 +598,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "You look good. Define \"solid.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “You look good. Define \"solid.\"”，判断 define 在句中对应“定义 / 界定 / 明确”里的哪一层意思。",
+        "note_cn": "",
         "quote": "You look good. Define \"solid.\"",
         "title": "Spider Man Across The Spider Verse 2023",
         "work_id": "subtitle_spider_man_across_the_spider_verse_2023_1080p_web_dl_ddp5_1_atmos_x264_aoc_tgx_s",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “You look good. Define \"solid.\"” 这句里，define 不是孤立出现，而是嵌在一段真实对白中。这句能给 define 一个真实使用场景，复习时把它和“定义 / 界定 / 明确”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：你看起来不错。定义一下“solid”是什么意思。\n词义定位：define 在这里作动词，表示要求对方“定义、说明”一个词。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “You look good. Define \"solid.\"”，判断 define 在句中对应“定义 / 界定 / 明确”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -625,20 +628,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "to define the terms of the contest.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “to define the terms of the contest.”，判断 define 在句中对应“定义 / 界定 / 明确”里的哪一层意思。",
+        "note_cn": "",
         "quote": "to define the terms of the contest.",
         "title": "Ballerina 2025",
         "work_id": "subtitle_ballerina_2025_1080p_web_dl_ddp5_1_x265_neonoir_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “to define the terms of the contest.” 里，define 和角色要做的动作连在一起，适合用动作画面来记。它在句中更像动作或行为，复习时重点抓“定义 / 界定 / 明确”这个动作感。"
+          "context": "整句翻译：用来界定比赛的条款。\n词义定位：define 在这里表示“界定、明确规定”规则范围。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “to define the terms of the contest.”，判断 define 在句中对应“定义 / 界定 / 明确”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -728,16 +731,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "inland 可以联想到 Encanto 中隐藏在哥伦比亚群山里的 Madrigal 家族与小镇。",
-      "association_en": "inland 可以联想到 Encanto 中隐藏在哥伦比亚群山里的 Madrigal 家族与小镇。",
-      "example_sentence": "The magical house lies inland among the mountains.",
-      "example_sentence_cn": "魔法房子位于内陆群山之间。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用山谷里远离海岸的村庄来记 inland。它表示内陆的、向内陆。",
+      "association_en": "",
+      "example_sentence": "The Madrigal village lies inland, hidden beyond rivers, hills, and walls of flowers.",
+      "example_sentence_cn": "Madrigal 村庄位于内陆，隐藏在河流、山丘和花墙之后。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "inland = 内陆的/向内陆。和 coastal/seaside 相对。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“内陆的 / 向内陆”。"
     },
     "memory_anchor": {
       "one_sentence": "inland 可以联想到 Encanto 中隐藏在哥伦比亚群山里的 Madrigal 家族与小镇。",
@@ -825,20 +829,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "because his shoes didn't meet your \"appropriately squeaky\" regulation.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “because his shoes didn't meet your \"appropriately squeaky\" regulation.”，判断 regulation 在句中对应“规章 / 管理 / 调节”里的哪一层意思。",
+        "note_cn": "",
         "quote": "because his shoes didn't meet your \"appropriately squeaky\" regulation.",
         "title": "The Owl House S02E15",
         "work_id": "subtitle_the_owl_house_s02e15_1080p_hulu_web_dl_aac2_0_h_264_welp_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “because his shoes didn't meet your \"appropriately squeaky\" regulation.” 把 regulation 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“规章 / 管理 / 调节”。"
+          "context": "整句翻译：因为他的鞋不符合你所谓“吱吱声适当”的规定。\n词义定位：regulation 在这里是名词，表示具体的“规章、规定”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “because his shoes didn't meet your \"appropriately squeaky\" regulation.”，判断 regulation 在句中对应“规章 / 管理 / 调节”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -851,16 +855,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "regulation 可以联想到 Judy 作为警察执行城市规则与秩序。",
-      "association_en": "regulation 可以联想到 Judy 作为警察执行城市规则与秩序。",
-      "example_sentence": "The officer follows regulation to keep the city safe.",
-      "example_sentence_cn": "警官遵守规章以维护城市安全。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用动物城市的交通规则来记 regulation。它表示规章、管理、调节。",
+      "association_en": "",
+      "example_sentence": "A new regulation requires every truck to slow down near Little Rodentia.",
+      "example_sentence_cn": "一项新规要求每辆卡车经过小型啮齿动物城区时减速。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "regulation = 规章/管理。重点是正式规则让系统可控。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“规章 / 管理 / 调节”。"
     },
     "memory_anchor": {
       "one_sentence": "regulation 可以联想到 Judy 作为警察执行城市规则与秩序。",
@@ -946,20 +951,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Salmon was on the printed menu. Swapped for sea bass on the night.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Salmon was on the printed menu. Swapped for sea bass on the night.”，判断 salmon 在句中对应“鲑鱼 / 三文鱼”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Salmon was on the printed menu. Swapped for sea bass on the night.",
         "title": "Tenet 2020",
         "work_id": "subtitle_tenet_2020_1080p_hdrip_x264_aac2_0_shitbox_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Salmon was on the printed menu. Swapped for sea bass on the night.” 把 salmon 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“鲑鱼 / 三文鱼”。"
+          "context": "整句翻译：印刷菜单上写的是三文鱼，当晚换成了海鲈鱼。\n词义定位：salmon 在这里是食物名词，表示“鲑鱼、三文鱼”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Salmon was on the printed menu. Swapped for sea bass on the night.”，判断 salmon 在句中对应“鲑鱼 / 三文鱼”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -972,16 +977,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "salmon 可以联想到熊在河流中捕鲑鱼的自然场景，适合作为动物/自然主题联想。",
-      "association_en": "salmon 可以联想到熊在河流中捕鲑鱼的自然场景，适合作为动物/自然主题联想。",
-      "example_sentence": "A bear waits by the river for salmon.",
-      "example_sentence_cn": "一只熊在河边等待鲑鱼。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用熊在河中抓鲑鱼来记 salmon。它表示鲑鱼、三文鱼。",
+      "association_en": "",
+      "example_sentence": "The bear waits in the rushing river until a silver salmon leaps from the water.",
+      "example_sentence_cn": "熊在湍急河水中等待，直到一条银色鲑鱼跃出水面。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "salmon = 鲑鱼/三文鱼。注意 l 通常不发音。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“鲑鱼 / 三文鱼”。"
     },
     "memory_anchor": {
       "one_sentence": "salmon 可以联想到熊在河流中捕鲑鱼的自然场景，适合作为动物/自然主题联想。",
@@ -1223,20 +1229,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Replacement for who?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Replacement for who?”，判断 replacement 在句中对应“替换 / 替代品”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Replacement for who?",
         "title": "Severance S01E01",
         "work_id": "subtitle_severance_s01e01_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Replacement for who?” 把 replacement 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这句能给 replacement 一个真实使用场景，复习时把它和“替换 / 替代品”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：替代谁？\n词义定位：replacement 在这里是名词，表示替代某人的“替代者”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Replacement for who?”，判断 replacement 在句中对应“替换 / 替代品”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1252,20 +1258,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "No. You're a replacement.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “No. You're a replacement.”，判断 replacement 在句中对应“替换 / 替代品”里的哪一层意思。",
+        "note_cn": "",
         "quote": "No. You're a replacement.",
         "title": "Severance S01E01",
         "work_id": "subtitle_severance_s01e01_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “No. You're a replacement.” 把 replacement 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“替换 / 替代品”。"
+          "context": "整句翻译：不。你是个替代品。\n词义定位：replacement 在这里指被用来代替原有人选的人。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “No. You're a replacement.”，判断 replacement 在句中对应“替换 / 替代品”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1360,20 +1366,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "It seemed like the right thing. I know your time is valuable.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “It seemed like the right thing. I know your time is valuable.”，判断 valuable 在句中对应“有价值的 / 贵重的 / 贵重物品”里的哪一层意思。",
+        "note_cn": "",
         "quote": "It seemed like the right thing. I know your time is valuable.",
         "title": "Severance S01E04",
         "work_id": "subtitle_severance_s01e04_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “It seemed like the right thing. I know your time is valuable.” 把 valuable 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“有价值的 / 贵重的 / 贵重物品”。"
+          "context": "整句翻译：这看起来是正确的事。我知道你的时间很宝贵。\n词义定位：valuable 修饰 time，表示“有价值的、宝贵的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “It seemed like the right thing. I know your time is valuable.”，判断 valuable 在句中对应“有价值的 / 贵重的 / 贵重物品”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1389,20 +1395,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "A smile is a valuable tool, my dear.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “A smile is a valuable tool, my dear.”，判断 valuable 在句中对应“有价值的 / 贵重的 / 贵重物品”里的哪一层意思。",
+        "note_cn": "",
         "quote": "A smile is a valuable tool, my dear.",
         "title": "Hazbin Hotel S01E07",
         "work_id": "subtitle_hazbin_hotel_2024_s01e07_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “A smile is a valuable tool, my dear.” 这句里，valuable 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“有价值的 / 贵重的 / 贵重物品”。"
+          "context": "整句翻译：微笑是很有价值的工具，亲爱的。\n词义定位：valuable 在这里表示有用、重要、值得重视。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “A smile is a valuable tool, my dear.”，判断 valuable 在句中对应“有价值的 / 贵重的 / 贵重物品”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1492,16 +1498,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "spacious 可以联想到 Casita 内部像魔法一样宽敞变化的房间。",
-      "association_en": "spacious 可以联想到 Casita 内部像魔法一样宽敞变化的房间。",
-      "example_sentence": "The magical room feels impossibly spacious.",
-      "example_sentence_cn": "魔法房间宽敞得不可思议。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Antonio 的魔法房间比门外看起来大得多来记 spacious。它表示宽敞的。",
+      "association_en": "",
+      "example_sentence": "Antonio's room is so spacious that a whole rainforest fits behind one small door.",
+      "example_sentence_cn": "Antonio 的房间宽敞到一整片雨林都能藏在一扇小门后。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "spacious = 宽敞的。重点是空间大、不拥挤。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“宽敞的 / 广阔的”。"
     },
     "memory_anchor": {
       "one_sentence": "spacious 可以联想到 Casita 内部像魔法一样宽敞变化的房间。",
@@ -1964,16 +1971,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "orchestra 可以联想到 Encanto 的音乐、歌舞和家庭合唱氛围。",
-      "association_en": "orchestra 可以联想到 Encanto 的音乐、歌舞和家庭合唱氛围。",
-      "example_sentence": "The orchestra supports a warm family song.",
-      "example_sentence_cn": "管弦乐队衬托一首温暖的家庭歌曲。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用庆典里的管弦乐队来记 orchestra。它表示管弦乐队、乐池。",
+      "association_en": "",
+      "example_sentence": "The orchestra begins softly, then the whole courtyard joins the family song.",
+      "example_sentence_cn": "管弦乐队轻轻开始演奏，随后整个庭院加入家族歌曲。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "orchestra = 管弦乐队。画面是多种乐器一起演奏。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“管弦乐队 / 乐池”。"
     },
     "memory_anchor": {
       "one_sentence": "orchestra 可以联想到 Encanto 的音乐、歌舞和家庭合唱氛围。",
@@ -2059,20 +2067,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "It's got a Trijicon AccuPoint 1-to-6 optical on top,",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “It's got a Trijicon AccuPoint 1-to-6 optical on top,”，判断 optical 在句中对应“光学的 / 视觉的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "It's got a Trijicon AccuPoint 1-to-6 optical on top,",
         "title": "Ballerina 2025",
         "work_id": "subtitle_ballerina_2025_1080p_web_dl_ddp5_1_x265_neonoir_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “It's got a Trijicon AccuPoint 1-to-6 optical on top,” 这句里，optical 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“光学的 / 视觉的”这类形容感绑定。"
+          "context": "整句翻译：上面装着一个 Trijicon AccuPoint 1 到 6 倍光学瞄具。\n词义定位：optical 在这里作名词/省略表达，指光学瞄准镜。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “It's got a Trijicon AccuPoint 1-to-6 optical on top,”，判断 optical 在句中对应“光学的 / 视觉的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2085,16 +2093,17 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "optical 可以联想到 Interstellar 中太空视觉、黑洞透镜效果和宏大的宇宙影像。",
-      "association_en": "optical 可以联想到 Interstellar 中太空视觉、黑洞透镜效果和宏大的宇宙影像。",
-      "example_sentence": "The optical effect bends the light near the black hole.",
-      "example_sentence_cn": "黑洞附近的光学效应弯曲了光线。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用望远镜和镜头观测星体来记 optical。它表示光学的、视觉的。",
+      "association_en": "",
+      "example_sentence": "The optical sensor catches a faint ring of light around the black hole.",
+      "example_sentence_cn": "光学传感器捕捉到黑洞周围一圈微弱光环。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "optical = 光学的/视觉的。和 light、lens、vision 有关。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“光学的 / 视觉的”。"
     },
     "memory_anchor": {
       "one_sentence": "optical 可以联想到 Interstellar 中太空视觉、黑洞透镜效果和宏大的宇宙影像。",
@@ -2182,20 +2191,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "which will pull Loki from the time stream before I need to close the blast doors.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “which will pull Loki from the time stream before I need to close the blast doors.”，判断 blast 在句中对应“爆炸 / 强风 / 轰击”里的哪一层意思。",
+        "note_cn": "",
         "quote": "which will pull Loki from the time stream before I need to close the blast doors.",
         "title": "Loki S02E01 Ouroboros",
         "work_id": "subtitle_loki_s02e01_ouroboros_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “which will pull Loki from the time stream before I need to close the blast doors.” 这句里，blast 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“爆炸 / 强风 / 轰击”。"
+          "context": "整句翻译：这会在我需要关闭防爆门之前，把 Loki 从时间流中拉出来。\n词义定位：blast 在 blast doors 中表示“爆炸”，整个短语是“防爆门”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “which will pull Loki from the time stream before I need to close the blast doors.”，判断 blast 在句中对应“爆炸 / 强风 / 轰击”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2211,20 +2220,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Then I'll need to close the blast doors to protect the TVA,",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Then I'll need to close the blast doors to protect the TVA,”，判断 blast 在句中对应“爆炸 / 强风 / 轰击”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Then I'll need to close the blast doors to protect the TVA,",
         "title": "Loki S02E01 Ouroboros",
         "work_id": "subtitle_loki_s02e01_ouroboros_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Then I'll need to close the blast doors to protect the TVA,” 这句里，blast 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“爆炸 / 强风 / 轰击”。"
+          "context": "整句翻译：然后我需要关闭防爆门来保护 TVA。\n词义定位：blast 修饰 doors，表示这些门用于抵御爆炸冲击。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Then I'll need to close the blast doors to protect the TVA,”，判断 blast 在句中对应“爆炸 / 强风 / 轰击”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2237,16 +2246,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "blast 可以联想到末世城市中的爆炸声、危险和逃离场景。",
-      "association_en": "blast 可以联想到末世城市中的爆炸声、危险和逃离场景。",
-      "example_sentence": "A blast echoes through the ruined street.",
-      "example_sentence_cn": "一声爆炸在废墟街道中回响。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用爆炸冲击波震开门来记 blast。它表示爆炸、强风、轰击。",
+      "association_en": "",
+      "example_sentence": "The blast throws Joel against the wall before the infected reach the room.",
+      "example_sentence_cn": "感染者冲进房间前，爆炸把 Joel 甩到墙上。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "blast = 爆炸/冲击。重点是突然释放的强大力量。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“爆炸 / 强风 / 轰击”。"
     },
     "memory_anchor": {
       "one_sentence": "blast 可以联想到末世城市中的爆炸声、危险和逃离场景。",
@@ -2327,16 +2337,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "shrub 可以联想到废弃城市中重新生长的灌木和植被。",
-      "association_en": "shrub 可以联想到废弃城市中重新生长的灌木和植被。",
-      "example_sentence": "Shrubs grow through cracks in the abandoned street.",
-      "example_sentence_cn": "灌木从废弃街道的裂缝中长出。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用废墟里矮灌木遮住路线来记 shrub。它表示灌木。",
+      "association_en": "",
+      "example_sentence": "Ellie crouches behind a shrub while the patrol sweeps the cracked road.",
+      "example_sentence_cn": "巡逻队扫过开裂道路时，Ellie 蹲在一丛灌木后。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "shrub = 灌木。比 tree 低矮，枝叶密。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“灌木”。"
     },
     "memory_anchor": {
       "one_sentence": "shrub 可以联想到废弃城市中重新生长的灌木和植被。",
@@ -2424,20 +2435,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Manned the hunter-seeker through a water pipe inside the walls.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Manned the hunter-seeker through a water pipe inside the walls.”，判断 pipe 在句中对应“管子 / 烟斗 / 用管道输送”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Manned the hunter-seeker through a water pipe inside the walls.",
         "title": "Subs",
         "work_id": "subtitle_subs_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Manned the hunter-seeker through a water pipe inside the walls.” 这句里，pipe 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“管子 / 烟斗 / 用管道输送”。"
+          "context": "整句翻译：通过墙内的一根水管操控 hunter-seeker。\n词义定位：pipe 在 water pipe 中表示“管道、水管”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Manned the hunter-seeker through a water pipe inside the walls.”，判断 pipe 在句中对应“管子 / 烟斗 / 用管道输送”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2454,20 +2465,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Pipe dream. Him, Fireflies, all of them.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Pipe dream. Him, Fireflies, all of them.”，判断 pipe 在句中对应“管子 / 烟斗 / 用管道输送”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Pipe dream. Him, Fireflies, all of them.",
         "title": "The Last of Us S01E04",
         "work_id": "subtitle_the_last_of_us_2022_season_1_s01_1080p_bluray_x265_hevc_10bit_aac_7_1_vyndros_th",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Pipe dream. Him, Fireflies, all of them.” 把 pipe 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这句能给 pipe 一个真实使用场景，复习时把它和“管子 / 烟斗 / 用管道输送”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：白日梦。他、Fireflies、所有人都是。\n词义定位：pipe 在 pipe dream 中是固定搭配，表示“不切实际的幻想”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Pipe dream. Him, Fireflies, all of them.”，判断 pipe 在句中对应“管子 / 烟斗 / 用管道输送”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2556,16 +2567,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "irrigation 可以联想到哥伦比亚山谷、村庄农田和自然生活。",
-      "association_en": "irrigation 可以联想到哥伦比亚山谷、村庄农田和自然生活。",
-      "example_sentence": "The village uses irrigation to water the fields.",
-      "example_sentence_cn": "村庄用灌溉系统给田地供水。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用山谷中水渠灌溉作物来记 irrigation。它表示灌溉。",
+      "association_en": "",
+      "example_sentence": "The village repairs the irrigation channel before the cornfield dries out.",
+      "example_sentence_cn": "玉米地干枯前，村民修好了灌溉水渠。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "irrigation = 灌溉。重点是把水引到田地。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“灌溉”。"
     },
     "memory_anchor": {
       "one_sentence": "irrigation 可以联想到哥伦比亚山谷、村庄农田和自然生活。",
@@ -2650,20 +2662,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I thought you were gonna be the... the final nail in the coffin.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I thought you were gonna be the... the final nail in the coffin.”，判断 coffin 在句中对应“棺材”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I thought you were gonna be the... the final nail in the coffin.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “I thought you were gonna be the... the final nail in the coffin.” 把 coffin 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“棺材”。"
+          "context": "整句翻译：我以为你会成为棺材上的最后一颗钉子。\n词义定位：coffin 在 nail in the coffin 中表示“棺材”，短语比喻致命一击。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I thought you were gonna be the... the final nail in the coffin.”，判断 coffin 在句中对应“棺材”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2677,16 +2689,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "coffin 可以联想到末世中死亡、感染与失去亲人的沉重氛围。",
-      "association_en": "coffin 可以联想到末世中死亡、感染与失去亲人的沉重氛围。",
-      "example_sentence": "The coffin reminds the survivors of what the outbreak took away.",
-      "example_sentence_cn": "棺材让幸存者想起疫情夺走的一切。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用末世中简陋棺材来记 coffin。它表示棺材。",
+      "association_en": "",
+      "example_sentence": "The survivors build a coffin from old shelves because there is no lumber left.",
+      "example_sentence_cn": "因为没有木材，幸存者用旧架子做了一口棺材。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "coffin = 棺材。画面是安放逝者的木箱。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“棺材”。"
     },
     "memory_anchor": {
       "one_sentence": "coffin 可以联想到末世中死亡、感染与失去亲人的沉重氛围。",
@@ -2768,16 +2781,17 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "inertia 可以联想到飞船运动、太空航行和物理学概念。",
-      "association_en": "inertia 可以联想到飞船运动、太空航行和物理学概念。",
-      "example_sentence": "Inertia keeps the spacecraft moving through silent space.",
-      "example_sentence_cn": "惯性使飞船在寂静太空中继续运动。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用飞船在太空中保持运动来记 inertia。它表示惯性、惰性。",
+      "association_en": "",
+      "example_sentence": "Inertia keeps the shuttle drifting forward even after the engines cut out.",
+      "example_sentence_cn": "引擎熄火后，惯性仍让航天飞机向前漂移。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "inertia = 惯性/惰性。物理上是保持原状态的趋势。",
+      "usage_focus_cn": "inertia 是不愿改变运动状态的性质，也可引申为惰性。"
     },
     "memory_anchor": {
       "one_sentence": "inertia 可以联想到飞船运动、太空航行和物理学概念。",
@@ -2859,16 +2873,17 @@
       "tier": 1,
       "medium": "game/series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "bureaucracy 可以联想到隔离区里的通行证、规则和压迫性的管理系统。",
-      "association_en": "bureaucracy 可以联想到隔离区里的通行证、规则和压迫性的管理系统。",
-      "example_sentence": "Bureaucracy controls every movement inside the quarantine zone.",
-      "example_sentence_cn": "官僚系统控制着隔离区里的每一次行动。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用隔离区里层层审批的官僚机构来记 bureaucracy。它表示官僚机构、官僚作风。",
+      "association_en": "",
+      "example_sentence": "Joel hates the bureaucracy that makes people fill out forms while medicine sits locked away.",
+      "example_sentence_cn": "Joel 厌恶那种让人填表、却把药锁起来的官僚机构。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "bureaucracy = 官僚机构/官僚作风。重点是程序多、效率低。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“官僚机构 / 官僚作风”。"
     },
     "memory_anchor": {
       "one_sentence": "bureaucracy 可以联想到隔离区里的通行证、规则和压迫性的管理系统。",
@@ -2955,20 +2970,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ Between imposter and this monster I been lost inside my head ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ Between imposter and this monster I been lost inside my head ♪”，判断 monster 在句中对应“怪物 / 恶人 / 庞然大物”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ Between imposter and this monster I been lost inside my head ♪",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_2_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ Between imposter and this monster I been lost inside my head ♪” 这句里，monster 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“怪物 / 恶人 / 庞然大物”。"
+          "context": "整句翻译：在冒牌者和这个怪物之间，我迷失在自己的脑海里。\n词义定位：monster 在这里是名词，表示可怕的“怪物”，也可指内心的阴暗面。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ Between imposter and this monster I been lost inside my head ♪”，判断 monster 在句中对应“怪物 / 恶人 / 庞然大物”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2984,20 +2999,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Between imposter and this monster I been lost inside my head",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Between imposter and this monster I been lost inside my head”，判断 monster 在句中对应“怪物 / 恶人 / 庞然大物”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Between imposter and this monster I been lost inside my head",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_1_eng_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Between imposter and this monster I been lost inside my head” 这句里，monster 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“怪物 / 恶人 / 庞然大物”。"
+          "context": "整句翻译：在冒牌者和这个怪物之间，我迷失在自己的脑海里。\n词义定位：monster 在这里指令人恐惧或失控的“怪物式存在”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Between imposter and this monster I been lost inside my head”，判断 monster 在句中对应“怪物 / 恶人 / 庞然大物”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3010,16 +3025,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "monster 可以联想到 Zootopia 中偏见把他者想象成怪物的主题。",
-      "association_en": "monster 可以联想到 Zootopia 中偏见把他者想象成怪物的主题。",
-      "example_sentence": "Fear can turn a neighbor into a monster in people's minds.",
-      "example_sentence_cn": "恐惧会在人们心里把邻居变成怪物。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用恐惧把普通动物塑造成怪物来记 monster。它表示怪物、恶人、庞然大物。",
+      "association_en": "",
+      "example_sentence": "The headlines turn every predator into a monster before Judy can explain the evidence.",
+      "example_sentence_cn": "Judy 还没解释证据，新闻标题就把每个捕食者变成了怪物。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "monster = 怪物/恶人。也可指巨大东西。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“怪物 / 恶人 / 庞然大物”。"
     },
     "memory_anchor": {
       "one_sentence": "monster 可以联想到 Zootopia 中偏见把他者想象成怪物的主题。",
@@ -3181,20 +3197,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Your wizard client told Luz she was a... (LAUGHING)",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Your wizard client told Luz she was a... (LAUGHING)”，判断 client 在句中对应“客户 / 委托人”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Your wizard client told Luz she was a... (LAUGHING)",
         "title": "The Owl House S01E02",
         "work_id": "subtitle_the_owl_house_s01e02_1080p_dsnp_web_dl_aac2_0_h_264_lazy_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Your wizard client told Luz she was a... (LAUGHING)” 这句里，client 不是孤立出现，而是嵌在一段真实对白中。这句能给 client 一个真实使用场景，复习时把它和“客户 / 委托人”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：你的巫师客户告诉 Luz 她是个……\n词义定位：client 在这里表示接受服务或委托的人，“客户、委托人”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Your wizard client told Luz she was a... (LAUGHING)”，判断 client 在句中对应“客户 / 委托人”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3210,20 +3226,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "To say anything about a client",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “To say anything about a client”，判断 client 在句中对应“客户 / 委托人”里的哪一层意思。",
+        "note_cn": "",
         "quote": "To say anything about a client",
         "title": "Tenet 2020",
         "work_id": "subtitle_tenet_2020_1080p_hdrip_x264_aac2_0_shitbox_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “To say anything about a client” 这句里，client 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“客户 / 委托人”。"
+          "context": "整句翻译：说任何关于客户的事。\n词义定位：client 在这里是职业关系中的“客户、委托人”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “To say anything about a client”，判断 client 在句中对应“客户 / 委托人”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3471,20 +3487,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Oh, first, you have to pluck out all the dire rat's extra heads.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Oh, first, you have to pluck out all the dire rat's extra heads.”，判断 pluck 在句中对应“拔 / 采摘 / 勇气”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Oh, first, you have to pluck out all the dire rat's extra heads.",
         "title": "The Owl House S03E02 REPACK",
         "work_id": "subtitle_the_owl_house_s03e02_repack_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Oh, first, you have to pluck out all the dire rat's extra heads.” 里，pluck 和角色要做的动作连在一起，适合用动作画面来记。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“拔 / 采摘 / 勇气”。"
+          "context": "整句翻译：哦，首先，你得把那只可怕老鼠多余的头全拔掉。\n词义定位：pluck 在这里作动词，表示“拔掉、摘除”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Oh, first, you have to pluck out all the dire rat's extra heads.”，判断 pluck 在句中对应“拔 / 采摘 / 勇气”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3655,20 +3671,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "- Is it antique? - 1948.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “- Is it antique? - 1948.”，判断 antique 在句中对应“古董 / 古老的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "- Is it antique? - 1948.",
         "title": "The Last of Us S01E03",
         "work_id": "subtitle_the_last_of_us_2022_season_1_s01_1080p_bluray_x265_hevc_10bit_aac_7_1_vyndros_th",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “- Is it antique? - 1948.” 出现在提问里，说明 antique 可以嵌在真实对话的追问/确认中。它在句中多半用来描述状态或性质，适合把它和“古董 / 古老的”这类形容感绑定。"
+          "context": "整句翻译：它是古董吗？1948 年的。\n词义定位：antique 在这里作名词/形容词，表示年代久远、有收藏价值的“古董”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “- Is it antique? - 1948.”，判断 antique 在句中对应“古董 / 古老的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3763,20 +3779,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Dunk the skeleton. Win a prize!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Dunk the skeleton. Win a prize!”，判断 skeleton 在句中对应“骨架 / 骷髅 / 框架”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Dunk the skeleton. Win a prize!",
         "title": "The Owl House S01E14",
         "work_id": "subtitle_the_owl_house_s01e14_1080p_dsnp_web_dl_aac2_0_h_264_lazy_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Dunk the skeleton. Win a prize!” 带有明显情绪爆发，说明 skeleton 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“骨架 / 骷髅 / 框架”。"
+          "context": "整句翻译：把骷髅 dunk 下去，赢奖品！\n词义定位：skeleton 在这里指游戏目标中的“骷髅、骨架”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Dunk the skeleton. Win a prize!”，判断 skeleton 在句中对应“骨架 / 骷髅 / 框架”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3792,20 +3808,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "You ever hear of the internet, skeleton door?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “You ever hear of the internet, skeleton door?”，判断 skeleton 在句中对应“骨架 / 骷髅 / 框架”里的哪一层意思。",
+        "note_cn": "",
         "quote": "You ever hear of the internet, skeleton door?",
         "title": "Star vs the Forces of Evil S01E07 E08 Cheer U…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e07_e08_cheer_up_star_quest_buy_1080p_amzn_webrip_",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “You ever hear of the internet, skeleton door?” 出现在提问里，说明 skeleton 可以嵌在真实对话的追问/确认中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“骨架 / 骷髅 / 框架”。"
+          "context": "整句翻译：你听说过互联网吗，骷髅门？\n词义定位：skeleton 在这里作称呼的一部分，字面含义是“骷髅、骨架”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “You ever hear of the internet, skeleton door?”，判断 skeleton 在句中对应“骨架 / 骷髅 / 框架”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3819,16 +3835,17 @@
       "tier": 1,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "skeleton 可以直接联想到 Minecraft 中的骷髅怪，是强主题联想。",
-      "association_en": "skeleton 可以直接联想到 Minecraft 中的骷髅怪，是强主题联想。",
-      "example_sentence": "A skeleton shoots arrows from the dark cave.",
-      "example_sentence_cn": "骷髅在黑暗洞穴里射箭。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Minecraft 夜晚射箭的骷髅来记 skeleton。它表示骨架、骷髅、框架。",
+      "association_en": "",
+      "example_sentence": "A Minecraft skeleton waits under the oak tree with its bow already drawn.",
+      "example_sentence_cn": "一个 Minecraft 骷髅站在橡树下，弓已经拉开。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "skeleton = 骷髅/骨架。也可指结构框架。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“骨架 / 骷髅 / 框架”。"
     },
     "memory_anchor": {
       "one_sentence": "skeleton 可以直接联想到 Minecraft 中的骷髅怪，是强主题联想。",
@@ -3913,20 +3930,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Lou's thigh burn.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Lou's thigh burn.”，判断 thigh 在句中对应“大腿”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Lou's thigh burn.",
         "title": "Toy Story 2 (1999",
         "work_id": "subtitle_toy_story_2_1999_1080p_toy_story_2_1999_1080p_brrip_x264_yify",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Lou's thigh burn.” 这句里，thigh 不是孤立出现，而是嵌在一段真实对白中。这句能给 thigh 一个真实使用场景，复习时把它和“大腿”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：Lou 的大腿灼伤。\n词义定位：thigh 在这里是身体部位名词，表示“大腿”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Lou's thigh burn.”，判断 thigh 在句中对应“大腿”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4099,20 +4116,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I do like his cereal, though. I'll give him that.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I do like his cereal, though. I'll give him that.”，判断 cereal 在句中对应“谷物 / 麦片 / 谷类的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I do like his cereal, though. I'll give him that.",
         "title": "spider man into the spider verse 2018",
         "work_id": "subtitle_spider_man_into_the_spider_verse_2018_1080p_web_h264_slot_0_eng_english_british",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “I do like his cereal, though. I'll give him that.” 这句里，cereal 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“谷物 / 麦片 / 谷类的”。"
+          "context": "整句翻译：不过我确实喜欢他的麦片。这点我承认。\n词义定位：cereal 在这里是早餐食品，表示“谷物麦片”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I do like his cereal, though. I'll give him that.”，判断 cereal 在句中对应“谷物 / 麦片 / 谷类的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4129,20 +4146,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Look, I'm a comic book. I'm a cereal.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Look, I'm a comic book. I'm a cereal.”，判断 cereal 在句中对应“谷物 / 麦片 / 谷类的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Look, I'm a comic book. I'm a cereal.",
         "title": "spider man into the spider verse 2018",
         "work_id": "subtitle_spider_man_into_the_spider_verse_2018_1080p_web_h264_slot_0_eng_english_british",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Look, I'm a comic book. I'm a cereal.” 把 cereal 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“谷物 / 麦片 / 谷类的”。"
+          "context": "整句翻译：看，我是一本漫画书。我是一盒麦片。\n词义定位：cereal 在这里指包装食品“麦片”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Look, I'm a comic book. I'm a cereal.”，判断 cereal 在句中对应“谷物 / 麦片 / 谷类的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4315,20 +4332,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "A hound in the distance Is starting to bey",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “A hound in the distance Is starting to bey”，判断 hound 在句中对应“猎犬 / 追逼 / 纠缠”里的哪一层意思。",
+        "note_cn": "",
         "quote": "A hound in the distance Is starting to bey",
         "title": "The Last of Us S01E04",
         "work_id": "subtitle_the_last_of_us_2022_season_1_s01_1080p_bluray_x265_hevc_10bit_aac_7_1_vyndros_th",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “A hound in the distance Is starting to bey” 这句里，hound 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“猎犬 / 追逼 / 纠缠”。"
+          "context": "整句翻译：远处有一只猎犬开始吠叫。\n词义定位：hound 在这里是名词，表示“猎犬”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “A hound in the distance Is starting to bey”，判断 hound 在句中对应“猎犬 / 追逼 / 纠缠”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4342,16 +4359,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "hound 可联想到动物城市中的犬科角色和追踪气味的侦查感。",
-      "association_en": "hound 可联想到动物城市中的犬科角色和追踪气味的侦查感。",
-      "example_sentence": "A hound follows the trail through the city.",
-      "example_sentence_cn": "猎犬沿着线索穿过城市。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用猎犬追踪气味来记 hound。它表示猎犬，也可作动词纠缠追逼。",
+      "association_en": "",
+      "example_sentence": "The old hound follows the scent trail through three districts without losing it.",
+      "example_sentence_cn": "那只老猎犬沿着气味穿过三个城区，一直没有跟丢。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "hound = 猎犬/追逼。动词时有不断追问或纠缠的感觉。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“猎犬 / 追逼 / 纠缠”。"
     },
     "memory_anchor": {
       "one_sentence": "hound 可联想到动物城市中的犬科角色和追踪气味的侦查感。",
@@ -4438,20 +4456,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Of course, the baby's middle name could've been so lovely a tribute to her, but…",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Of course, the baby's middle name could've been so lovely a tribute to her, but…”，判断 tribute 在句中对应“致敬 / 贡品 / 颂词”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Of course, the baby's middle name could've been so lovely a tribute to her, but…",
         "title": "Severance S01E05",
         "work_id": "subtitle_severance_s01e05_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Of course, the baby's middle name could've been so lovely a tribute to her, but…” 这句里，tribute 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“致敬 / 贡品 / 颂词”。"
+          "context": "整句翻译：当然，宝宝的中间名本可以是对她非常美好的致敬，但是……\n词义定位：tribute 在这里表示向某人表达敬意的“致敬、纪念”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Of course, the baby's middle name could've been so lovely a tribute to her, but…”，判断 tribute 在句中对应“致敬 / 贡品 / 颂词”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4464,16 +4482,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "tribute 可以联想到对英雄、师父和传统武术精神的致敬。",
-      "association_en": "tribute 可以联想到对英雄、师父和传统武术精神的致敬。",
-      "example_sentence": "The villagers pay tribute to the Dragon Warrior.",
-      "example_sentence_cn": "村民向神龙大侠致敬。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用弟子向大师致敬来记 tribute。它表示致敬、贡品、颂词。",
+      "association_en": "",
+      "example_sentence": "Po leaves a bowl of noodles as a tribute to Oogway beneath the peach tree.",
+      "example_sentence_cn": "阿宝在桃树下留下一碗面，向乌龟大师致敬。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "tribute = 致敬/贡品。重点是表达敬意。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“致敬 / 贡品 / 颂词”。"
     },
     "memory_anchor": {
       "one_sentence": "tribute 可以联想到对英雄、师父和传统武术精神的致敬。",
@@ -4562,20 +4581,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ You know I'm good If I'm back in the gutter ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ You know I'm good If I'm back in the gutter ♪”，判断 gutter 在句中对应“排水沟 / 檐沟 / 贫民区”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ You know I'm good If I'm back in the gutter ♪",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ You know I'm good If I'm back in the gutter ♪” 这句里，gutter 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“排水沟 / 檐沟 / 贫民区”。"
+          "context": "整句翻译：你知道，如果我又回到底层沟渠里，我也照样没问题。\n词义定位：gutter 在这里既有“排水沟”的字面感，也比喻低谷或底层处境。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ You know I'm good If I'm back in the gutter ♪”，判断 gutter 在句中对应“排水沟 / 檐沟 / 贫民区”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4592,20 +4611,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Get your mind out of the gutter.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Get your mind out of the gutter.”，判断 gutter 在句中对应“排水沟 / 檐沟 / 贫民区”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Get your mind out of the gutter.",
         "title": "Hazbin Hotel S01E03",
         "work_id": "subtitle_hazbin_hotel_2024_s01e03_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Get your mind out of the gutter.” 把 gutter 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“排水沟 / 檐沟 / 贫民区”。"
+          "context": "整句翻译：别满脑子下流念头。\n词义定位：gutter 在 get your mind out of the gutter 中比喻粗俗、下流的想法。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Get your mind out of the gutter.”，判断 gutter 在句中对应“排水沟 / 檐沟 / 贫民区”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4702,20 +4721,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "You need to show these people who the number one driver really is, man.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “You need to show these people who the number one driver really is, man.”，判断 number 在句中对应“数字 / 数量 / 编号”里的哪一层意思。",
+        "note_cn": "",
         "quote": "You need to show these people who the number one driver really is, man.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “You need to show these people who the number one driver really is, man.” 这句里，number 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“数字 / 数量 / 编号”。"
+          "context": "整句翻译：你得让这些人看看真正的一号车手是谁，兄弟。\n词义定位：number 在 number one 中表示排名“第一、一号”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “You need to show these people who the number one driver really is, man.”，判断 number 在句中对应“数字 / 数量 / 编号”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4732,20 +4751,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Look out. Engine trouble for the number 12.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Look out. Engine trouble for the number 12.”，判断 number 在句中对应“数字 / 数量 / 编号”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Look out. Engine trouble for the number 12.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Look out. Engine trouble for the number 12.” 这句里，number 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“数字 / 数量 / 编号”。"
+          "context": "整句翻译：小心，12 号车出现引擎故障。\n词义定位：number 在 number 12 中表示编号。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Look out. Engine trouble for the number 12.”，判断 number 在句中对应“数字 / 数量 / 编号”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4842,20 +4861,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "And now we are ready to face off against our arch rivals,",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “And now we are ready to face off against our arch rivals,”，判断 arch 在句中对应“拱门 / 拱形 / 使成弓形”里的哪一层意思。",
+        "note_cn": "",
         "quote": "And now we are ready to face off against our arch rivals,",
         "title": "The Ghost And Molly McGee S01E03E04",
         "work_id": "subtitle_the_ghost_and_molly_mcgee_s01e03e04_720p_hulu_webrip_x264_galaxytv_0_eng_galaxyt",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “And now we are ready to face off against our arch rivals,” 这句里，arch 不是孤立出现，而是嵌在一段真实对白中。它在句中更像动作或行为，复习时重点抓“拱门 / 拱形 / 使成弓形”这个动作感。"
+          "context": "整句翻译：现在我们准备好面对我们的宿敌了。\n词义定位：arch 在 arch rivals 中作前缀式形容词，表示“主要的、头号的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “And now we are ready to face off against our arch rivals,”，判断 arch 在句中对应“拱门 / 拱形 / 使成弓形”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4869,16 +4888,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "arch 可联想到 Casa Madrigal 的建筑结构、门廊和魔法房子的入口意象。",
-      "association_en": "arch 可联想到 Casa Madrigal 的建筑结构、门廊和魔法房子的入口意象。",
-      "example_sentence": "An arch frames the entrance to the magical house.",
-      "example_sentence_cn": "一道拱门框住魔法房子的入口。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Casita 里的拱门来记 arch。它表示拱门、拱形。",
+      "association_en": "",
+      "example_sentence": "Flowers climb over the arch as Mirabel leads the guests into the courtyard.",
+      "example_sentence_cn": "Mirabel 带客人进入庭院时，花朵爬满拱门。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "arch = 拱门/拱形。画面是上方弯曲的结构。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“拱门 / 拱形 / 使成弓形”。"
     },
     "memory_anchor": {
       "one_sentence": "arch 可联想到 Casa Madrigal 的建筑结构、门廊和魔法房子的入口意象。",
@@ -5119,20 +5139,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[Porn Actor Gangster] I want you to tell me where your boss stashes his vault.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[Porn Actor Gangster] I want you to tell me where your boss stashes his vault.”，判断 vault 在句中对应“拱顶 / 金库 / 跳跃”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[Porn Actor Gangster] I want you to tell me where your boss stashes his vault.",
         "title": "Hazbin Hotel S01E04",
         "work_id": "subtitle_hazbin_hotel_2024_s01e04_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_1_eng_s",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “[Porn Actor Gangster] I want you to tell me where your boss stashes his vault.” 把 vault 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“拱顶 / 金库 / 跳跃”。"
+          "context": "整句翻译：我想让你告诉我，你老板把金库藏在哪里。\n词义定位：vault 在这里是名词，表示存放贵重物品的“金库、保险库”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[Porn Actor Gangster] I want you to tell me where your boss stashes his vault.”，判断 vault 在句中对应“拱顶 / 金库 / 跳跃”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5149,20 +5169,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I want you to tell me where your boss stashes his vault.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I want you to tell me where your boss stashes his vault.”，判断 vault 在句中对应“拱顶 / 金库 / 跳跃”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I want you to tell me where your boss stashes his vault.",
         "title": "Hazbin Hotel S01E04",
         "work_id": "subtitle_hazbin_hotel_2024_s01e04_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “I want you to tell me where your boss stashes his vault.” 把 vault 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“拱顶 / 金库 / 跳跃”。"
+          "context": "整句翻译：我想让你告诉我，你老板把金库藏在哪里。\n词义定位：vault 在这里指“金库、保险库”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I want you to tell me where your boss stashes his vault.”，判断 vault 在句中对应“拱顶 / 金库 / 跳跃”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5176,16 +5196,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "vault 可以联想到秘密房间、隐藏的家庭历史和被封存的记忆。",
-      "association_en": "vault 可以联想到秘密房间、隐藏的家庭历史和被封存的记忆。",
-      "example_sentence": "The vault hides a family secret.",
-      "example_sentence_cn": "金库里藏着一个家族秘密。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用拱顶房间和金库双义来记 vault。它表示拱顶、金库，也可表示跳跃。",
+      "association_en": "",
+      "example_sentence": "The candle is kept under a painted vault that glows when the family sings.",
+      "example_sentence_cn": "蜡烛放在彩绘拱顶下，家人唱歌时那里会发光。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "vault = 拱顶/金库。建筑语境是弧形天花板。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“拱顶 / 金库 / 跳跃”。"
     },
     "memory_anchor": {
       "one_sentence": "vault 可以联想到秘密房间、隐藏的家庭历史和被封存的记忆。",
@@ -5270,20 +5291,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Duke Leto Atreides means nothing to our order.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Duke Leto Atreides means nothing to our order.”，判断 duke 在句中对应“公爵”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Duke Leto Atreides means nothing to our order.",
         "title": "Subs",
         "work_id": "subtitle_subs_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Duke Leto Atreides means nothing to our order.” 把 duke 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这句能给 duke 一个真实使用场景，复习时把它和“公爵”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：Leto Atreides 公爵对我们的组织毫无意义。\n词义定位：Duke 在这里是贵族头衔，表示“公爵”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Duke Leto Atreides means nothing to our order.”，判断 duke 在句中对应“公爵”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5300,20 +5321,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "You will address the Duke as \"my lord,\" or \"sir.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “You will address the Duke as \"my lord,\" or \"sir.\"”，判断 duke 在句中对应“公爵”里的哪一层意思。",
+        "note_cn": "",
         "quote": "You will address the Duke as \"my lord,\" or \"sir.\"",
         "title": "Subs",
         "work_id": "subtitle_subs_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “You will address the Duke as \"my lord,\" or \"sir.\"” 这句里，duke 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“公爵”。"
+          "context": "整句翻译：你要称呼公爵为“my lord”或“sir”。\n词义定位：Duke 在这里指拥有公爵身份的人。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “You will address the Duke as \"my lord,\" or \"sir.\"”，判断 duke 在句中对应“公爵”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5479,16 +5500,17 @@
       "tier": 2,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "rooster 可以联想到 Moana 里搞笑的公鸡伙伴 Hei Hei。",
-      "association_en": "rooster 可以联想到 Moana 里搞笑的公鸡伙伴 Hei Hei。",
-      "example_sentence": "The confused rooster follows the hero onto the boat.",
-      "example_sentence_cn": "迷糊的公鸡跟着英雄上了船。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Hei Hei 这只公鸡来记 rooster。它表示公鸡。",
+      "association_en": "",
+      "example_sentence": "The confused rooster pecks the canoe while Moana tries to read the stars.",
+      "example_sentence_cn": "Moana 试图看星星辨方向时，那只迷糊公鸡啄着独木舟。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "rooster = 公鸡。画面是鸡冠、清晨打鸣。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“公鸡”。"
     },
     "memory_anchor": {
       "one_sentence": "rooster 可以联想到 Moana 里搞笑的公鸡伙伴 Hei Hei。",
@@ -5571,16 +5593,17 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "mercury 作为行星/元素词，可联想到太空探索和太阳系知识。",
-      "association_en": "mercury 作为行星/元素词，可联想到太空探索和太阳系知识。",
-      "example_sentence": "Mercury reminds us of the scale of the solar system.",
-      "example_sentence_cn": "水星让人想到太阳系的尺度。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用水银和水星双义来记 mercury。它表示汞/水银，也可指水星。",
+      "association_en": "",
+      "example_sentence": "The old thermometer leaks mercury in the abandoned science classroom.",
+      "example_sentence_cn": "废弃科学教室里的旧温度计漏出了水银。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "mercury = 汞/水银；大写 Mercury 是水星。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“汞 / 水银 / 水星”。"
     },
     "memory_anchor": {
       "one_sentence": "mercury 作为行星/元素词，可联想到太空探索和太阳系知识。",
@@ -5667,20 +5690,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ From the porn studio Where the Cinephiles go ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ From the porn studio Where the Cinephiles go ♪”，判断 studio 在句中对应“工作室 / 演播室 / 电影公司”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ From the porn studio Where the Cinephiles go ♪",
         "title": "Hazbin Hotel S01E01",
         "work_id": "subtitle_hazbin_hotel_2024_s01e01_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ From the porn studio Where the Cinephiles go ♪” 这句里，studio 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“工作室 / 演播室 / 电影公司”。"
+          "context": "整句翻译：从 Cinephiles 去的成人电影工作室那里。\n词义定位：studio 在这里表示拍摄或制作影视内容的“工作室”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ From the porn studio Where the Cinephiles go ♪”，判断 studio 在句中对应“工作室 / 演播室 / 电影公司”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5697,20 +5720,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "cunt out of my studio.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “cunt out of my studio.\"”，判断 studio 在句中对应“工作室 / 演播室 / 电影公司”里的哪一层意思。",
+        "note_cn": "",
         "quote": "cunt out of my studio.\"",
         "title": "Hazbin Hotel S01E04",
         "work_id": "subtitle_hazbin_hotel_2024_s01e04_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “cunt out of my studio.\"” 这句里，studio 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“工作室 / 演播室 / 电影公司”。"
+          "context": "整句翻译：从我的工作室滚出去。\n词义定位：studio 在这里指说话人拥有或使用的“工作室、录制/制作空间”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “cunt out of my studio.\"”，判断 studio 在句中对应“工作室 / 演播室 / 电影公司”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5724,16 +5747,17 @@
       "tier": 2,
       "medium": "studio",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "studio 可以直接联想到 Disney、Pixar、DreamWorks 这些动画电影工作室。",
-      "association_en": "studio 可以直接联想到 Disney、Pixar、DreamWorks 这些动画电影工作室。",
-      "example_sentence": "A studio turns sketches into animated worlds.",
-      "example_sentence_cn": "工作室把草图变成动画世界。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用动画工作室制作电影来记 studio。它表示工作室、演播室、电影公司。",
+      "association_en": "",
+      "example_sentence": "The animation studio fills one wall with sketches before the first scene is approved.",
+      "example_sentence_cn": "第一场戏获批前，动画工作室把整面墙贴满草图。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "studio = 工作室/演播室。重点是创作或录制作品的地方。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“工作室 / 演播室 / 电影公司”。"
     },
     "memory_anchor": {
       "one_sentence": "studio 可以直接联想到 Disney、Pixar、DreamWorks 这些动画电影工作室。",
@@ -5820,20 +5844,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "convention hall safety guidelines, and child safety acts.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “convention hall safety guidelines, and child safety acts.”，判断 convention 在句中对应“大会 / 惯例 / 公约”里的哪一层意思。",
+        "note_cn": "",
         "quote": "convention hall safety guidelines, and child safety acts.",
         "title": "The Owl House S02E15",
         "work_id": "subtitle_the_owl_house_s02e15_1080p_hulu_web_dl_aac2_0_h_264_welp_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “convention hall safety guidelines, and child safety acts.” 把 convention 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这句能给 convention 一个真实使用场景，复习时把它和“大会 / 惯例 / 公约”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：大会大厅安全指南，以及儿童安全法案。\n词义定位：convention 在 convention hall 中表示“大型会议、展会”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “convention hall safety guidelines, and child safety acts.”，判断 convention 在句中对应“大会 / 惯例 / 公约”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5849,20 +5873,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Hey, this isn't the National Taco Convention!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Hey, this isn't the National Taco Convention!”，判断 convention 在句中对应“大会 / 惯例 / 公约”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Hey, this isn't the National Taco Convention!",
         "title": "The Ghost And Molly McGee S01E05E06",
         "work_id": "subtitle_the_ghost_and_molly_mcgee_s01e05e06_720p_hulu_webrip_x264_galaxytv_0_eng_galaxyt",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Hey, this isn't the National Taco Convention!” 把 convention 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“大会 / 惯例 / 公约”。"
+          "context": "整句翻译：嘿，这又不是全国塔可大会！\n词义定位：Convention 在这里是大型主题会议或展会。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Hey, this isn't the National Taco Convention!”，判断 convention 在句中对应“大会 / 惯例 / 公约”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5876,16 +5900,17 @@
       "tier": 2,
       "medium": "media",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "convention 可以联想到动漫展、游戏展和粉丝聚会。",
-      "association_en": "convention 可以联想到动漫展、游戏展和粉丝聚会。",
-      "example_sentence": "Fans meet at a convention to celebrate their favorite films and games.",
-      "example_sentence_cn": "粉丝在展会上庆祝喜欢的影视和游戏。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用粉丝展会和行业惯例来记 convention。它表示大会、惯例、公约。",
+      "association_en": "",
+      "example_sentence": "At the animation convention, fans line up to hear how the scene was made.",
+      "example_sentence_cn": "在动画展会上，粉丝排队听那场戏是如何制作的。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "convention = 大会/惯例。粉丝语境是展会，规则语境是惯例。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“大会 / 惯例 / 公约”。"
     },
     "memory_anchor": {
       "one_sentence": "convention 可以联想到动漫展、游戏展和粉丝聚会。",
@@ -5973,20 +5998,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I will implement a psychological treatment called \"exposure.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I will implement a psychological treatment called \"exposure.\"”，判断 implement 在句中对应“实施 / 执行 / 工具”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I will implement a psychological treatment called \"exposure.\"",
         "title": "Baymax S01E01",
         "work_id": "subtitle_baymax_s01e01_1080p_web_h264_salt_0_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “I will implement a psychological treatment called \"exposure.\"” 里，implement 和角色要做的动作连在一起，适合用动作画面来记。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“实施 / 执行 / 工具”。"
+          "context": "整句翻译：我会实施一种叫“暴露疗法”的心理治疗。\n词义定位：implement 在这里作动词，表示“实施、执行”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I will implement a psychological treatment called \"exposure.\"”，判断 implement 在句中对应“实施 / 执行 / 工具”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6002,20 +6027,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "It‘s time to implement damage control.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “It‘s time to implement damage control.”，判断 implement 在句中对应“实施 / 执行 / 工具”里的哪一层意思。",
+        "note_cn": "",
         "quote": "It‘s time to implement damage control.",
         "title": "The Bad Guys 2 2025",
         "work_id": "subtitle_the_bad_guys_2_2025_1080p_10bit_bluray_8ch_x265_hevc_psa_0_eng_us_itunes",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “It‘s time to implement damage control.” 里，implement 和角色要做的动作连在一起，适合用动作画面来记。它在句中更像动作或行为，复习时重点抓“实施 / 执行 / 工具”这个动作感。"
+          "context": "整句翻译：是时候实施损害控制了。\n词义定位：implement 在这里表示把某项措施付诸执行。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “It‘s time to implement damage control.”，判断 implement 在句中对应“实施 / 执行 / 工具”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6188,20 +6213,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Today, we're going with our combat upgrade.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Today, we're going with our combat upgrade.”，判断 combat 在句中对应“战斗 / 搏斗 / 与……斗争”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Today, we're going with our combat upgrade.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Today, we're going with our combat upgrade.” 这句里，combat 不是孤立出现，而是嵌在一段真实对白中。这句能给 combat 一个真实使用场景，复习时把它和“战斗 / 搏斗 / 与……斗争”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：今天，我们选择战斗升级。\n词义定位：combat 在这里修饰 upgrade，表示用于战斗的“战斗、作战”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Today, we're going with our combat upgrade.”，判断 combat 在句中对应“战斗 / 搏斗 / 与……斗争”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6218,20 +6243,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "A deal's a deal. I'm building her for combat.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “A deal's a deal. I'm building her for combat.”，判断 combat 在句中对应“战斗 / 搏斗 / 与……斗争”里的哪一层意思。",
+        "note_cn": "",
         "quote": "A deal's a deal. I'm building her for combat.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “A deal's a deal. I'm building her for combat.” 把 combat 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“战斗 / 搏斗 / 与……斗争”。"
+          "context": "整句翻译：说定了就是说定了。我会把她造出来用于战斗。\n词义定位：combat 在 for combat 中表示“战斗、搏斗”的用途。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “A deal's a deal. I'm building her for combat.”，判断 combat 在句中对应“战斗 / 搏斗 / 与……斗争”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6245,16 +6270,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "combat 可以联想到功夫训练、对战和 Po 的英雄成长。",
-      "association_en": "combat 可以联想到功夫训练、对战和 Po 的英雄成长。",
-      "example_sentence": "The warrior learns combat through practice and patience.",
-      "example_sentence_cn": "战士通过练习和耐心学习战斗。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用功夫对战来记 combat。它表示战斗、搏斗。",
+      "association_en": "",
+      "example_sentence": "Po learns that combat is not only about hitting harder, but about seeing the next move.",
+      "example_sentence_cn": "阿宝明白战斗不只是打得更狠，而是看出下一步动作。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "combat = 战斗/搏斗。重点是直接对抗。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“战斗 / 搏斗 / 与……斗争”。"
     },
     "memory_anchor": {
       "one_sentence": "combat 可以联想到功夫训练、对战和 Po 的英雄成长。",
@@ -6489,16 +6515,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "energize 可以联想到音乐和家庭共同歌唱带来的能量。",
-      "association_en": "energize 可以联想到音乐和家庭共同歌唱带来的能量。",
-      "example_sentence": "A joyful song energizes the whole family.",
-      "example_sentence_cn": "一首欢快的歌让整个家庭充满活力。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用音乐和家族支持让人充满活力来记 energize。它表示使充满活力、给……供能。",
+      "association_en": "",
+      "example_sentence": "The village song energizes the builders after a long morning of carrying bricks.",
+      "example_sentence_cn": "村庄歌曲让搬了一上午砖的建造者重新充满活力。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "energize = 使充满活力/供能。核心是把能量注入进去。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“使充满活力 / 激励 / 给……供能”。"
     },
     "memory_anchor": {
       "one_sentence": "energize 可以联想到音乐和家庭共同歌唱带来的能量。",
@@ -6585,20 +6612,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "- I'm answering your questions. - …because it'll reveal that you are",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “- I'm answering your questions. - …because it'll reveal that you are”，判断 reveal 在句中对应“揭示 / 透露 / 显示”里的哪一层意思。",
+        "note_cn": "",
         "quote": "- I'm answering your questions. - …because it'll reveal that you are",
         "title": "Severance S01E03",
         "work_id": "subtitle_severance_s01e03_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “- I'm answering your questions. - …because it'll reveal that you are” 这句里，reveal 不是孤立出现，而是嵌在一段真实对白中。这句能给 reveal 一个真实使用场景，复习时把它和“揭示 / 透露 / 显示”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：我在回答你的问题。因为那会揭示你是……\n词义定位：reveal 在这里作动词，表示“揭示、透露”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “- I'm answering your questions. - …because it'll reveal that you are”，判断 reveal 在句中对应“揭示 / 透露 / 显示”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6614,20 +6641,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[Natalie] Well, first, I'd suggest she reveal her identity",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[Natalie] Well, first, I'd suggest she reveal her identity”，判断 reveal 在句中对应“揭示 / 透露 / 显示”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[Natalie] Well, first, I'd suggest she reveal her identity",
         "title": "Severance S01E03",
         "work_id": "subtitle_severance_s01e03_1080p_webrip_x265_rarbg_eztv_re_3_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[Natalie] Well, first, I'd suggest she reveal her identity” 这句里，reveal 不是孤立出现，而是嵌在一段真实对白中。这句能给 reveal 一个真实使用场景，复习时把它和“揭示 / 透露 / 显示”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：Natalie 说：嗯，首先，我建议她公开自己的身份。\n词义定位：reveal 在 reveal her identity 中表示“透露、公开”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[Natalie] Well, first, I'd suggest she reveal her identity”，判断 reveal 在句中对应“揭示 / 透露 / 显示”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6640,16 +6667,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "reveal 可以联想到 Mirabel 逐渐揭开家庭魔法危机的真相。",
-      "association_en": "reveal 可以联想到 Mirabel 逐渐揭开家庭魔法危机的真相。",
-      "example_sentence": "The cracks reveal a secret about the family magic.",
-      "example_sentence_cn": "裂缝揭示了家族魔法的秘密。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Bruno 的预言揭示隐藏真相来记 reveal。它表示揭示、透露、显示。",
+      "association_en": "",
+      "example_sentence": "The broken vision reveals a future Mirabel was never meant to face alone.",
+      "example_sentence_cn": "破碎的预言揭示了一个 Mirabel 本不该独自面对的未来。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "reveal = 揭示/显示。重点是把隐藏的东西显现出来。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“揭示 / 透露 / 显示”。"
     },
     "memory_anchor": {
       "one_sentence": "reveal 可以联想到 Mirabel 逐渐揭开家庭魔法危机的真相。",
@@ -6733,16 +6761,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "flavour 可以联想到 Mr. Ping 的面馆、食物香气和功夫熊猫的美食场景。",
-      "association_en": "flavour 可以联想到 Mr. Ping 的面馆、食物香气和功夫熊猫的美食场景。",
-      "example_sentence": "The noodle soup has a rich flavour.",
-      "example_sentence_cn": "这碗面汤味道浓郁。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用阿宝品尝面汤的风味来记 flavour。它表示味道、风味，也可表示给……调味。",
+      "association_en": "",
+      "example_sentence": "Po adds chili oil to give the noodles a stronger flavour before training begins.",
+      "example_sentence_cn": "训练开始前，阿宝加了辣油，让面条风味更浓。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "flavour = 味道/风味。英式拼写，美式 flavor。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“味道 / 风味 / 给……调味”。"
     },
     "memory_anchor": {
       "one_sentence": "flavour 可以联想到 Mr. Ping 的面馆、食物香气和功夫熊猫的美食场景。",
@@ -6828,20 +6857,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I dove into the freezing fjord",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I dove into the freezing fjord”，判断 dove 在句中对应“鸽子 / 和平鸽”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I dove into the freezing fjord",
         "title": "Star vs the Forces of Evil S01E05 E06 Monster…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e05_e06_monster_arm_the_other_exchange_student_108",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “I dove into the freezing fjord” 这句里，dove 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“鸽子 / 和平鸽”。"
+          "context": "整句翻译：我一头扎进冰冷的峡湾。\n词义定位：dove 在这里是 dive 的过去式，表示“跳入、俯冲”，不是名词“鸽子”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I dove into the freezing fjord”，判断 dove 在句中对应“鸽子 / 和平鸽”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6855,16 +6884,17 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "dove 可以联想到动物城市中不同动物和平共处的理想。",
-      "association_en": "dove 可以联想到动物城市中不同动物和平共处的理想。",
-      "example_sentence": "A white dove becomes a small symbol of peace in the city.",
-      "example_sentence_cn": "一只白鸽成了城市中和平的小象征。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用和平鸽象征和解来记 dove。它表示鸽子、和平鸽。",
+      "association_en": "",
+      "example_sentence": "A white dove lands on the police sign after the city finally calms down.",
+      "example_sentence_cn": "城市终于平静后，一只白鸽落在警局标志上。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "dove = 鸽子。常象征和平。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“鸽子 / 和平鸽”。"
     },
     "memory_anchor": {
       "one_sentence": "dove 可以联想到动物城市中不同动物和平共处的理想。",
@@ -6946,16 +6976,17 @@
       "tier": 2,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "insulator 可以联想到红石、电路、材质导电/绝缘的技术记忆。",
-      "association_en": "insulator 可以联想到红石、电路、材质导电/绝缘的技术记忆。",
-      "example_sentence": "An insulator blocks the flow like a non-conductive block.",
-      "example_sentence_cn": "绝缘体像不导电方块一样阻断流动。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用红石电路中阻止电流传导的材料来记 insulator。它表示绝缘体、隔热体。",
+      "association_en": "",
+      "example_sentence": "The redstone lab uses glass as an insulator between two charged copper lines.",
+      "example_sentence_cn": "红石实验室用玻璃作为两条带电铜线之间的绝缘体。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "insulator = 绝缘体/隔热体。重点是阻止电或热通过。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“绝缘体 / 隔热体”。"
     },
     "memory_anchor": {
       "one_sentence": "insulator 可以联想到红石、电路、材质导电/绝缘的技术记忆。",
@@ -7039,16 +7070,17 @@
       "tier": 1,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想；未伪造 corpus_matches。",
-      "association": "plateau 可以联想到 Minecraft 中高原地形、山地建造和远景探索。",
-      "association_en": "plateau 可以联想到 Minecraft 中高原地形、山地建造和远景探索。",
-      "example_sentence": "A player builds a base on a high plateau.",
-      "example_sentence_cn": "玩家在高原上建造基地。",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Minecraft 高原地形和学习平台期来记 plateau。它表示高原、平台期。",
+      "association_en": "",
+      "example_sentence": "The player builds a base on a wide plateau above the desert village.",
+      "example_sentence_cn": "玩家在沙漠村庄上方的宽阔高原上建基地。",
       "emotion_tags": [
-        "theme",
-        "memory",
-        "association"
-      ]
+        "scene",
+        "usage"
+      ],
+      "memory_prompt_cn": "plateau = 高原/平台期。地理上是高而平，学习中是进步停滞。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“高原 / 平台期 / 进入停滞期”。"
     },
     "memory_anchor": {
       "one_sentence": "plateau 可以联想到 Minecraft 中高原地形、山地建造和远景探索。",

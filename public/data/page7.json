@@ -46,20 +46,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "MELBA: Oh, there's a nice little taper there.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “MELBA: Oh, there's a nice little taper there.”，判断 taper 在句中对应“逐渐变细 / 逐渐减少 / 锥形物”里的哪一层意思。",
+        "note_cn": "",
         "quote": "MELBA: Oh, there's a nice little taper there.",
         "title": "Soul 2020",
         "work_id": "subtitle_soul_2020_1080p_dsnp_webrip_ddp5_1_atmos_x264_cm_2_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “MELBA: Oh, there's a nice little taper there.” 这句里，taper 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“逐渐变细 / 逐渐减少 / 锥形物”。"
+          "context": "整句翻译：Melba：哦，那里有个很不错的小锥形收束。\n词义定位：taper 在这里是名词“逐渐变细的形状、锥形收束”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “MELBA: Oh, there's a nice little taper there.”，判断 taper 在句中对应“逐渐变细 / 逐渐减少 / 锥形物”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -72,17 +72,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用飞船轨迹逐渐收窄来记 taper。它表示逐渐变细或逐渐减少。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, taper connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，taper 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "The trail of engine fire tapers into a thin line as the shuttle climbs out of the atmosphere.",
+      "example_sentence_cn": "航天飞机冲出大气层时，引擎火焰的轨迹逐渐变成一条细线。",
+      "memory_prompt_cn": "taper = 逐渐变细/减少。重点是“越来越窄、越来越少”。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“逐渐变细 / 逐渐减少 / 锥形物”。"
     },
     "memory_anchor": {
       "one_sentence": "taper 的核心记忆点是：to gradually become narrower or smaller",
@@ -175,20 +177,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Do you think all my wanted posters are for petty theft?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Do you think all my wanted posters are for petty theft?”，判断 petty 在句中对应“小的 / 琐碎的 / 小气的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Do you think all my wanted posters are for petty theft?",
         "title": "The Owl House S01E05",
         "work_id": "subtitle_the_owl_house_s01e05_1080p_dsnp_web_dl_aac2_0_h_264_lazy_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Do you think all my wanted posters are for petty theft?” 出现在提问里，说明 petty 可以嵌在真实对话的追问/确认中。它在句中多半用来描述状态或性质，适合把它和“小的 / 琐碎的 / 小气的”这类形容感绑定。"
+          "context": "整句翻译：你以为我所有的通缉令都是因为小偷小摸吗？\n词义定位：petty 在 petty theft 中表示“小规模的、轻微的”，petty theft 是小额盗窃。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Do you think all my wanted posters are for petty theft?”，判断 petty 在句中对应“小的 / 琐碎的 / 小气的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -204,20 +206,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ This discussion is senseless and petty ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ This discussion is senseless and petty ♪”，判断 petty 在句中对应“小的 / 琐碎的 / 小气的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ This discussion is senseless and petty ♪",
         "title": "Hazbin Hotel S01E06",
         "work_id": "subtitle_hazbin_hotel_2024_s01e06_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ This discussion is senseless and petty ♪” 这句里，petty 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“小的 / 琐碎的 / 小气的”这类形容感绑定。"
+          "context": "整句翻译：♪ 这场讨论既无意义又琐碎 ♪\n词义定位：petty 表示“琐碎的、小气的、不重要的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ This discussion is senseless and petty ♪”，判断 petty 在句中对应“小的 / 琐碎的 / 小气的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -231,17 +233,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用警局里无聊的小任务来记 petty。它表示琐碎的、小气的、不重要的。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, petty connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，petty 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "Judy is tired of petty parking tickets when a real missing-mammal case is waiting outside.",
+      "example_sentence_cn": "真正的失踪哺乳动物案件就在外面时，Judy 已经厌倦了琐碎的停车罚单。",
+      "memory_prompt_cn": "petty = 琐碎的/小气的。重点是“小到让人觉得没意义”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“小的 / 琐碎的 / 小气的”。"
     },
     "memory_anchor": {
       "one_sentence": "petty 的核心记忆点是：small, unimportant, or mean-minded",
@@ -335,20 +339,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "makes copper the inferior choice for interrogations, but",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “makes copper the inferior choice for interrogations, but”，判断 inferior 在句中对应“较差的 / 下级的 / 下级”里的哪一层意思。",
+        "note_cn": "",
         "quote": "makes copper the inferior choice for interrogations, but",
         "title": "The Last of Us S02E04",
         "work_id": "subtitle_the_last_of_us_s02e04_1080p_x265_elite_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “makes copper the inferior choice for interrogations, but” 这句里，inferior 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“较差的 / 下级的 / 下级”。"
+          "context": "整句翻译：使铜成为审讯时较差的选择，但是……\n词义定位：inferior 作形容词，表示“较差的、低劣的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “makes copper the inferior choice for interrogations, but”，判断 inferior 在句中对应“较差的 / 下级的 / 下级”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -364,20 +368,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "and referring to me as your \"intellectual inferior\",",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “and referring to me as your \"intellectual inferior\",”，判断 inferior 在句中对应“较差的 / 下级的 / 下级”里的哪一层意思。",
+        "note_cn": "",
         "quote": "and referring to me as your \"intellectual inferior\",",
         "title": "Your Friendly Neighborhood Spider Man S01E09",
         "work_id": "subtitle_your_friendly_neighborhood_spider_man_s01e09_1080p_x265_elite_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “and referring to me as your \"intellectual inferior\",” 这句里，inferior 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“较差的 / 下级的 / 下级”。"
+          "context": "整句翻译：并把我称为你的“智力下等者”，\n词义定位：inferior 作名词，表示“下级、较低等的人”，这里是侮辱性表达。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “and referring to me as your \"intellectual inferior\",”，判断 inferior 在句中对应“较差的 / 下级的 / 下级”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -391,17 +395,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用别人认为兔子不适合当警察来记 inferior。它表示较差的、低一等的。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, inferior connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，inferior 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "The chief treats Judy as inferior until her investigation proves she can see what others missed.",
+      "example_sentence_cn": "局长把 Judy 看低，直到她的调查证明她能发现别人错过的东西。",
+      "memory_prompt_cn": "inferior = 较差的/下级的。重点是“被认为低一等”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“较差的 / 下级的 / 下级”。"
     },
     "memory_anchor": {
       "one_sentence": "inferior 的核心记忆点是：lower in quality, rank, or value",
@@ -494,20 +500,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Oh, Bernadette Pearce. Nice to meet you.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Oh, Bernadette Pearce. Nice to meet you.”，判断 nice 在句中对应“好的 / 友善的 / 令人愉快的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Oh, Bernadette Pearce. Nice to meet you.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Oh, Bernadette Pearce. Nice to meet you.” 这句里，nice 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“好的 / 友善的 / 令人愉快的”这类形容感绑定。"
+          "context": "整句翻译：哦，Bernadette Pearce。很高兴见到你。\n词义定位：nice 在 Nice to meet you 中表示“令人愉快的”，是见面寒暄。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Oh, Bernadette Pearce. Nice to meet you.”，判断 nice 在句中对应“好的 / 友善的 / 令人愉快的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -524,20 +530,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Nice kids,",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Nice kids,”，判断 nice 在句中对应“好的 / 友善的 / 令人愉快的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Nice kids,",
         "title": "Baymax S01E03",
         "work_id": "subtitle_baymax_s01e03_1080p_web_h264_salt_0_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Nice kids,” 把 nice 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。它在句中多半用来描述状态或性质，适合把它和“好的 / 友善的 / 令人愉快的”这类形容感绑定。"
+          "context": "整句翻译：好孩子们，\n词义定位：nice 在这里表示“好的、友善的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Nice kids,”，判断 nice 在句中对应“好的 / 友善的 / 令人愉快的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -626,17 +632,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用宇宙中细长发光结构来记 filament。它表示细丝、灯丝。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, filament connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，filament 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "A glowing filament of dust stretches across the telescope image like a thread between stars.",
+      "example_sentence_cn": "一条发光尘埃细丝横跨望远镜图像，像星星之间的一根线。",
+      "memory_prompt_cn": "filament = 细丝/灯丝。画面是“又细又长的一条”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“细丝 / 灯丝”。"
     },
     "memory_anchor": {
       "one_sentence": "filament 的核心记忆点是：a very thin thread or wire",
@@ -723,17 +731,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用实验室显微镜下的病原体来记 bacterium。它指单个细菌。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, bacterium connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，bacterium 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "The doctor finds one strange bacterium in the sample, but the real danger is still fungal.",
+      "example_sentence_cn": "医生在样本里发现一个奇怪细菌，但真正危险仍来自真菌。",
+      "memory_prompt_cn": "bacterium = 细菌（单数）。复数是 bacteria。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“细菌”。"
     },
     "memory_anchor": {
       "one_sentence": "bacterium 的核心记忆点是：a single microscopic living organism; singular of bacteria",
@@ -821,17 +831,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Judy 有条理地排查线索来记 systematically。它表示系统地、有步骤地。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, systematically connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，systematically 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "Judy searches the limousine systematically: seats first, floor next, then the claw marks on the door.",
+      "example_sentence_cn": "Judy 系统地搜查豪车：先座椅，再地板，最后查看车门上的爪痕。",
+      "memory_prompt_cn": "systematically = 系统地。重点是“按顺序、有方法”。",
+      "usage_focus_cn": "复习时抓它改变动作方式或整句语气的作用；对应“系统地 / 有条理地”。"
     },
     "memory_anchor": {
       "one_sentence": "systematically 的核心记忆点是：in an organized, methodical way",
@@ -922,17 +934,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。",
-      "association_en": "Associate the word with Frozen: Anna, Elsa, Arendelle, ice magic, eternal winter, courage, and family love.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用礼服上的蕾丝和系紧鞋带来记 lace。它可指蕾丝，也可表示系带。",
+      "association_en": "",
       "emotion_tags": [
         "ice",
         "family",
         "courage",
         "magic"
       ],
-      "example_sentence": "In a Frozen-style memory scene, lace connects to ice, family, courage.",
-      "example_sentence_cn": "在 Frozen 风格的记忆画面中，lace 可以和可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。"
+      "example_sentence": "Anna trips because the lace on her boot comes loose during the coronation rush.",
+      "example_sentence_cn": "加冕典礼匆忙中，Anna 靴子的鞋带松了，她差点绊倒。",
+      "memory_prompt_cn": "lace = 蕾丝/鞋带/系带。画面是细线交织或绑住。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“蕾丝 / 鞋带 / 系带”。"
     },
     "memory_anchor": {
       "one_sentence": "lace 的核心记忆点是：delicate patterned fabric; a cord for tying; to fasten or mix in",
@@ -1021,17 +1035,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用科学家分析星光光谱来记 spectrum。它表示光谱，也可指范围。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, spectrum connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，spectrum 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "The planet's spectrum shows traces of water before the crew risks a landing.",
+      "example_sentence_cn": "船员冒险降落前，行星的光谱显示出水的痕迹。",
+      "memory_prompt_cn": "spectrum = 光谱/范围。画面是光被分成不同波段。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“光谱 / 范围 / 系列”。"
     },
     "memory_anchor": {
       "one_sentence": "spectrum 的核心记忆点是：a range of colors, ideas, or values",
@@ -1123,20 +1139,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "This is brilliant last lap drama. What a fantastic finish.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “This is brilliant last lap drama. What a fantastic finish.”，判断 drama 在句中对应“戏剧 / 戏剧性事件”里的哪一层意思。",
+        "note_cn": "",
         "quote": "This is brilliant last lap drama. What a fantastic finish.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “This is brilliant last lap drama. What a fantastic finish.” 这句里，drama 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“戏剧 / 戏剧性事件”。"
+          "context": "整句翻译：这是精彩的最后一圈戏剧性场面。多棒的收尾。\n词义定位：drama 在这里表示“戏剧性事件、紧张场面”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “This is brilliant last lap drama. What a fantastic finish.”，判断 drama 在句中对应“戏剧 / 戏剧性事件”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1153,20 +1169,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Ooh, drama.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Ooh, drama.”，判断 drama 在句中对应“戏剧 / 戏剧性事件”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Ooh, drama.",
         "title": "Hazbin Hotel S01E05",
         "work_id": "subtitle_hazbin_hotel_2024_s01e05_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Ooh, drama.” 把 drama 放在句末，往往是在补充结果、态度或关键信息。这句能给 drama 一个真实使用场景，复习时把它和“戏剧 / 戏剧性事件”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：噢，有戏了。\n词义定位：drama 在口语里表示“戏剧性冲突、八卦式冲突”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Ooh, drama.”，判断 drama 在句中对应“戏剧 / 戏剧性事件”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1180,17 +1196,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用家族晚餐上的情绪爆发来记 drama。它可以是戏剧，也可以是戏剧性冲突。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, drama connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，drama 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "One cracked tile turns dinner into family drama before anyone can finish the soup.",
+      "example_sentence_cn": "一块开裂的瓷砖让晚餐在大家喝完汤前就变成家庭冲突。",
+      "memory_prompt_cn": "drama = 戏剧/戏剧性事件。生活中常指“情绪冲突很多”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“戏剧 / 戏剧性事件”。"
     },
     "memory_anchor": {
       "one_sentence": "drama 的核心记忆点是：a play or exciting emotional event",
@@ -1279,17 +1297,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用孩子们害怕看不见的病菌来记 germ。它表示病菌，也可指萌芽。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, germ connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，germ 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "Ellie wipes the knife clean, joking that germs are easier to kill than clickers.",
+      "example_sentence_cn": "Ellie 擦干净刀，开玩笑说病菌比循声者容易杀。",
+      "memory_prompt_cn": "germ = 病菌/萌芽。先记“肉眼看不见的小病原”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“病菌 / 萌芽 / 起源”。"
     },
     "memory_anchor": {
       "one_sentence": "germ 的核心记忆点是：a microorganism that can cause disease; the beginning of something",
@@ -1378,17 +1398,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用家族把广场变成表演场来记 theatre。它指剧院、戏剧，也可指战区。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, theatre connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，theatre 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "The village square becomes a theatre when every Madrigal gift turns into part of the show.",
+      "example_sentence_cn": "当每个 Madrigal 天赋都成了表演的一部分时，村庄广场变成了剧场。",
+      "memory_prompt_cn": "theatre = 剧院/戏剧。英式拼写，美式常作 theater。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“剧院 / 戏剧 / 战区”。"
     },
     "memory_anchor": {
       "one_sentence": "theatre 的核心记忆点是：a place for plays or performances; dramatic art",
@@ -1480,20 +1502,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Do you think Spider-People too often use comedy as a crutch?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Do you think Spider-People too often use comedy as a crutch?”，判断 comedy 在句中对应“喜剧 / 喜剧性事件”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Do you think Spider-People too often use comedy as a crutch?",
         "title": "Spider Man Across The Spider Verse 2023",
         "work_id": "subtitle_spider_man_across_the_spider_verse_2023_1080p_web_dl_ddp5_1_atmos_x264_aoc_tgx_s",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Do you think Spider-People too often use comedy as a crutch?” 出现在提问里，说明 comedy 可以嵌在真实对话的追问/确认中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“喜剧 / 喜剧性事件”。"
+          "context": "整句翻译：你觉得蜘蛛侠们是不是太常把喜剧当拐杖用了？\n词义定位：comedy 表示“喜剧、幽默手法”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Do you think Spider-People too often use comedy as a crutch?”，判断 comedy 在句中对应“喜剧 / 喜剧性事件”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1510,20 +1532,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Miles? Miles. Interest in comedy.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Miles? Miles. Interest in comedy.”，判断 comedy 在句中对应“喜剧 / 喜剧性事件”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Miles? Miles. Interest in comedy.",
         "title": "Spider Man Across The Spider Verse 2023",
         "work_id": "subtitle_spider_man_across_the_spider_verse_2023_1080p_web_dl_ddp5_1_atmos_x264_aoc_tgx_s",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Miles? Miles. Interest in comedy.” 把 comedy 放在句末，往往是在补充结果、态度或关键信息。这句能给 comedy 一个真实使用场景，复习时把它和“喜剧 / 喜剧性事件”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：Miles？Miles。对喜剧感兴趣。\n词义定位：comedy 在这里表示“喜剧、幽默”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Miles? Miles. Interest in comedy.”，判断 comedy 在句中对应“喜剧 / 喜剧性事件”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1537,17 +1559,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用家族误会造成的轻松笑料来记 comedy。它表示喜剧。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, comedy connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，comedy 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "Camilo's shapeshifting turns a tense family meeting into accidental comedy.",
+      "example_sentence_cn": "Camilo 的变形把紧张的家庭会议意外变成喜剧。",
+      "memory_prompt_cn": "comedy = 喜剧。重点是“让人笑的冲突或表演”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“喜剧 / 喜剧性事件”。"
     },
     "memory_anchor": {
       "one_sentence": "comedy 的核心记忆点是：entertainment intended to make people laugh",
@@ -1636,17 +1660,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。",
-      "association_en": "Associate the word with Frozen: Anna, Elsa, Arendelle, ice magic, eternal winter, courage, and family love.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用雪水解渴或扑灭火焰来记 quench。它表示解渴、熄灭、抑制。",
+      "association_en": "",
       "emotion_tags": [
         "ice",
         "family",
         "courage",
         "magic"
       ],
-      "example_sentence": "In a Frozen-style memory scene, quench connects to ice, family, courage.",
-      "example_sentence_cn": "在 Frozen 风格的记忆画面中，quench 可以和可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。"
+      "example_sentence": "Kristoff melts a handful of snow to quench Anna's thirst on the mountain path.",
+      "example_sentence_cn": "Kristoff 在山路上融化一把雪，给 Anna 解渴。",
+      "memory_prompt_cn": "quench = 解渴/熄灭。重点是“把渴、火或强烈欲望压下去”。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“解渴 / 熄灭 / 抑制”。"
     },
     "memory_anchor": {
       "one_sentence": "quench 的核心记忆点是：to satisfy thirst; to put out fire; to suppress",
@@ -1741,20 +1767,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I offered you the rubber ducky, I offered you the tape.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I offered you the rubber ducky, I offered you the tape.”，判断 tape 在句中对应“胶带 / 磁带 / 录音”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I offered you the rubber ducky, I offered you the tape.",
         "title": "Inside Out 2",
         "work_id": "subtitle_inside_out_2_2024_1080p_webrip_ddp5_1_x265_10bit_galaxyrg265_0_eng_galaxyrg256_i",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “I offered you the rubber ducky, I offered you the tape.” 把 tape 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“胶带 / 磁带 / 录音”。"
+          "context": "整句翻译：我给过你橡皮鸭，也给过你胶带。\n词义定位：tape 在这里表示“胶带”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I offered you the rubber ducky, I offered you the tape.”，判断 tape 在句中对应“胶带 / 磁带 / 录音”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1771,20 +1797,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "A roll of tape...",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “A roll of tape...”，判断 tape 在句中对应“胶带 / 磁带 / 录音”里的哪一层意思。",
+        "note_cn": "",
         "quote": "A roll of tape...",
         "title": "Inside Out 2",
         "work_id": "subtitle_inside_out_2_2024_1080p_webrip_ddp5_1_x265_10bit_galaxyrg265_0_eng_galaxyrg256_i",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “A roll of tape...” 把 tape 放在句末，往往是在补充结果、态度或关键信息。这句能给 tape 一个真实使用场景，复习时把它和“胶带 / 磁带 / 录音”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：一卷胶带……\n词义定位：tape 在 a roll of tape 中表示“胶带”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “A roll of tape...”，判断 tape 在句中对应“胶带 / 磁带 / 录音”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1880,20 +1906,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "The boys and I have come up with a full assault plan.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “The boys and I have come up with a full assault plan.”，判断 assault 在句中对应“攻击 / 袭击 / 侵犯”里的哪一层意思。",
+        "note_cn": "",
         "quote": "The boys and I have come up with a full assault plan.",
         "title": "Hazbin Hotel S01E03",
         "work_id": "subtitle_hazbin_hotel_2024_s01e03_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “The boys and I have come up with a full assault plan.” 这句里，assault 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“攻击 / 袭击 / 侵犯”。"
+          "context": "整句翻译：我和男孩们已经想出了一套全面进攻计划。\n词义定位：assault 表示“攻击、突袭”，full assault plan 是全面攻击计划。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “The boys and I have come up with a full assault plan.”，判断 assault 在句中对应“攻击 / 袭击 / 侵犯”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1910,20 +1936,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "to stop a ground assault.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “to stop a ground assault.”，判断 assault 在句中对应“攻击 / 袭击 / 侵犯”里的哪一层意思。",
+        "note_cn": "",
         "quote": "to stop a ground assault.",
         "title": "Hazbin Hotel S01E08",
         "work_id": "subtitle_hazbin_hotel_2024_s01e08_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “to stop a ground assault.” 把 assault 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“攻击 / 袭击 / 侵犯”。"
+          "context": "整句翻译：去阻止一场地面进攻。\n词义定位：assault 在 ground assault 中表示“进攻、袭击”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “to stop a ground assault.”，判断 assault 在句中对应“攻击 / 袭击 / 侵犯”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -1937,17 +1963,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用感染者突然袭击来记 assault。它表示攻击、袭击。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, assault connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，assault 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "The assault begins when infected crash through the side door without warning.",
+      "example_sentence_cn": "感染者毫无预警地撞破侧门时，袭击开始了。",
+      "memory_prompt_cn": "assault = 攻击/袭击。比 attack 更正式、猛烈。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“攻击 / 袭击 / 侵犯”。"
     },
     "memory_anchor": {
       "one_sentence": "assault 的核心记忆点是：a violent attack; to attack someone",
@@ -2036,17 +2064,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Mirabel 学会一个词在家族对话里的用法来记 usage。它表示用法、使用方式。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, usage connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，usage 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "Mirabel notices the usage of gift changes when Abuela says it like a duty, not a blessing.",
+      "example_sentence_cn": "Mirabel 注意到，当 Abuela 把 gift 说得像责任而不是祝福时，这个词的用法变了。",
+      "memory_prompt_cn": "usage = 用法/使用。重点是“词或工具实际怎么被使用”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“用法 / 使用 / 惯用法”。"
     },
     "memory_anchor": {
       "one_sentence": "usage 的核心记忆点是：the way a word or object is used",
@@ -2139,20 +2169,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Cotton Candy Fire Extinguish!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Cotton Candy Fire Extinguish!”，判断 extinguish 在句中对应“熄灭 / 扑灭 / 消灭”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Cotton Candy Fire Extinguish!",
         "title": "Star vs the Forces of Evil S01E13 E14 Lobster…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e13_e14_lobster_claws_sleep_spells_1080p_amzn_webr",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Cotton Candy Fire Extinguish!” 把 extinguish 放在句末，往往是在补充结果、态度或关键信息。这句能给 extinguish 一个真实使用场景，复习时把它和“熄灭 / 扑灭 / 消灭”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：棉花糖火焰扑灭！\n词义定位：extinguish 表示“熄灭、扑灭”，这里用于魔法招式。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Cotton Candy Fire Extinguish!”，判断 extinguish 在句中对应“熄灭 / 扑灭 / 消灭”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2166,17 +2196,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用熄灭火把避免被发现来记 extinguish。它表示扑灭、熄灭、消灭。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, extinguish connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，extinguish 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "Joel extinguishes the lantern before the patrol turns into the alley.",
+      "example_sentence_cn": "巡逻队转进小巷前，Joel 熄灭了灯。",
+      "memory_prompt_cn": "extinguish = 熄灭/扑灭。画面是火光消失。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“熄灭 / 扑灭 / 消灭”。"
     },
     "memory_anchor": {
       "one_sentence": "extinguish 的核心记忆点是：to put out a fire or end something completely",
@@ -2265,17 +2297,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用黑洞吸收光线来记 absorption。它表示吸收，也可指全神贯注。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, absorption connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，absorption 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "The black hole's absorption of light makes the edge of the disk glow like fire.",
+      "example_sentence_cn": "黑洞对光的吸收让吸积盘边缘像火一样发亮。",
+      "memory_prompt_cn": "absorption = 吸收/专注。科学画面是“进入里面，不再反射出来”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“吸收 / 专注 / 吸收过程”。"
     },
     "memory_anchor": {
       "one_sentence": "absorption 的核心记忆点是：the process of taking in liquid, energy, information, or attention",
@@ -2368,20 +2402,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "So if we can't get in there and increase the diameter of the Loom's intake ring",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “So if we can't get in there and increase the diameter of the Loom's intake ring”，判断 intake 在句中对应“摄入量 / 吸入 / 入口”里的哪一层意思。",
+        "note_cn": "",
         "quote": "So if we can't get in there and increase the diameter of the Loom's intake ring",
         "title": "Loki S02E03 1893",
         "work_id": "subtitle_loki_s02e03_1893_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “So if we can't get in there and increase the diameter of the Loom's intake ring” 这句里，intake 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“摄入量 / 吸入 / 入口”。"
+          "context": "整句翻译：所以如果我们不能进去并增大织机进气环的直径，\n词义定位：intake 在 intake ring 中表示“入口、吸入口”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “So if we can't get in there and increase the diameter of the Loom's intake ring”，判断 intake 在句中对应“摄入量 / 吸入 / 入口”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2397,20 +2431,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "In your intake interview,",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “In your intake interview,”，判断 intake 在句中对应“摄入量 / 吸入 / 入口”里的哪一层意思。",
+        "note_cn": "",
         "quote": "In your intake interview,",
         "title": "Severance S02E02 Goodbye Mrs Selvig",
         "work_id": "subtitle_severance_s02e02_goodbye_mrs_selvig_1080p_webrip_10bit_ddp5_1_x265_hodl_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “In your intake interview,” 这句里，intake 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“摄入量 / 吸入 / 入口”。"
+          "context": "整句翻译：在你的入职面谈中，\n词义定位：intake 在 intake interview 中表示“接收、登记、入职/入院初谈”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “In your intake interview,”，判断 intake 在句中对应“摄入量 / 吸入 / 入口”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2423,17 +2457,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用营地记录每天摄入的食物和药品来记 intake。它表示摄入量、吸入或入口。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, intake connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，intake 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "The medic records Ellie's water intake after a day of fever and walking.",
+      "example_sentence_cn": "Ellie 发烧又走了一整天后，医护员记录她的饮水摄入量。",
+      "memory_prompt_cn": "intake = 摄入量/入口。重点是“进入身体或系统的量”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“摄入量 / 吸入 / 入口”。"
     },
     "memory_anchor": {
       "one_sentence": "intake 的核心记忆点是：the amount taken in; an opening through which something enters",
@@ -2526,20 +2562,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[chuckles] That's classified, of course. A bit above your substantial pay grade.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[chuckles] That's classified, of course. A bit above your substantial pay grade.”，判断 substantial 在句中对应“大量的 / 实质的 / 坚固的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[chuckles] That's classified, of course. A bit above your substantial pay grade.",
         "title": "Your Friendly Neighborhood Spider Man S01E06",
         "work_id": "subtitle_your_friendly_neighborhood_spider_man_s01e06_1080p_x265_elite_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[chuckles] That's classified, of course. A bit above your substantial pay grade.” 这句里，substantial 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“大量的 / 实质的 / 坚固的”这类形容感绑定。"
+          "context": "整句翻译：（笑）那当然是机密。比你那相当高的薪级还要高一点。\n词义定位：substantial 表示“相当大的、可观的”，修饰 pay grade。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[chuckles] That's classified, of course. A bit above your substantial pay grade.”，判断 substantial 在句中对应“大量的 / 实质的 / 坚固的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2556,20 +2592,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "and substantial damage to the barriers.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “and substantial damage to the barriers.”，判断 substantial 在句中对应“大量的 / 实质的 / 坚固的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "and substantial damage to the barriers.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “and substantial damage to the barriers.” 这句里，substantial 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“大量的 / 实质的 / 坚固的”这类形容感绑定。"
+          "context": "整句翻译：并对屏障造成重大损坏。\n词义定位：substantial 表示“大量的、重大的”，修饰 damage。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “and substantial damage to the barriers.”，判断 substantial 在句中对应“大量的 / 实质的 / 坚固的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2583,17 +2619,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用飞船需要大量燃料来记 substantial。它表示大量的、实质性的。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, substantial connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，substantial 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "The mission needs a substantial reserve of fuel before the crew can risk another landing.",
+      "example_sentence_cn": "船员再次冒险降落前，任务需要大量备用燃料。",
+      "memory_prompt_cn": "substantial = 大量的/实质的。重点是“数量或意义足够大”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“大量的 / 实质的 / 坚固的”。"
     },
     "memory_anchor": {
       "one_sentence": "substantial 的核心记忆点是：large in amount; real and important",
@@ -2685,20 +2723,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "And why would one department physically attack another?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “And why would one department physically attack another?”，判断 physically 在句中对应“身体上 / 物理上”里的哪一层意思。",
+        "note_cn": "",
         "quote": "And why would one department physically attack another?",
         "title": "Severance S01E05",
         "work_id": "subtitle_severance_s01e05_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “And why would one department physically attack another?” 出现在提问里，说明 physically 可以嵌在真实对话的追问/确认中。它在句中修饰动作或整句话的语气，重点记“身体上 / 物理上”这种程度/方式。"
+          "context": "整句翻译：一个部门为什么会在身体上攻击另一个部门？\n词义定位：physically 表示“身体上、物理上”，强调真实动手攻击。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “And why would one department physically attack another?”，判断 physically 在句中对应“身体上 / 物理上”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2714,20 +2752,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "He just wanted to make a point, not harm me physically.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “He just wanted to make a point, not harm me physically.”，判断 physically 在句中对应“身体上 / 物理上”里的哪一层意思。",
+        "note_cn": "",
         "quote": "He just wanted to make a point, not harm me physically.",
         "title": "Severance S02E05 Trojans Horse",
         "work_id": "subtitle_severance_s02e05_trojans_horse_1080p_webrip_10bit_ddp5_1_x265_hodl_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “He just wanted to make a point, not harm me physically.” 把 physically 放在句末，往往是在补充结果、态度或关键信息。它在句中修饰动作或整句话的语气，重点记“身体上 / 物理上”这种程度/方式。"
+          "context": "整句翻译：他只是想表达观点，不是要在身体上伤害我。\n词义定位：physically 在 harm me physically 中表示“身体上”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “He just wanted to make a point, not harm me physically.”，判断 physically 在句中对应“身体上 / 物理上”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2740,17 +2778,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用角色身体上已经撑不住来记 physically。它表示身体上、物理上。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, physically connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，physically 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "Joel is physically exhausted, but he still carries Ellie away from the burning truck.",
+      "example_sentence_cn": "Joel 身体上已经筋疲力尽，但仍把 Ellie 从燃烧的卡车旁抱走。",
+      "memory_prompt_cn": "physically = 身体上/物理上。对应 physical。",
+      "usage_focus_cn": "复习时抓它改变动作方式或整句语气的作用；对应“身体上 / 物理上”。"
     },
     "memory_anchor": {
       "one_sentence": "physically 的核心记忆点是：in relation to the body or material things",
@@ -2838,17 +2878,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用家族正式午餐来记 luncheon。它是较正式的午餐/午宴。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, luncheon connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，luncheon 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "The engagement luncheon falls apart when the floor begins to crack under the table.",
+      "example_sentence_cn": "订婚午宴上，桌下地板开始开裂，场面彻底乱了。",
+      "memory_prompt_cn": "luncheon = 午宴/午餐。比 lunch 更正式。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“午宴 / 午餐”。"
     },
     "memory_anchor": {
       "one_sentence": "luncheon 的核心记忆点是：a formal lunch",
@@ -2942,20 +2984,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Your body may change, but you will always be you.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Your body may change, but you will always be you.”，判断 body 在句中对应“身体 / 主体 / 尸体”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Your body may change, but you will always be you.",
         "title": "Baymax S01E03",
         "work_id": "subtitle_baymax_s01e03_1080p_web_h264_salt_0_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Your body may change, but you will always be you.” 这句里，body 不是孤立出现，而是嵌在一段真实对白中。这句能给 body 一个真实使用场景，复习时把它和“身体 / 主体 / 尸体”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：你的身体可能会改变，但你永远还是你。\n词义定位：body 表示“身体”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Your body may change, but you will always be you.”，判断 body 在句中对应“身体 / 主体 / 尸体”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2971,20 +3013,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "but the body still lives.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “but the body still lives.”，判断 body 在句中对应“身体 / 主体 / 尸体”里的哪一层意思。",
+        "note_cn": "",
         "quote": "but the body still lives.",
         "title": "Ballerina 2025",
         "work_id": "subtitle_ballerina_2025_1080p_web_dl_ddp5_1_x265_neonoir_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “but the body still lives.” 这句里，body 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“身体 / 主体 / 尸体”。"
+          "context": "整句翻译：但身体仍然活着。\n词义定位：body 在这里表示“身体、肉体”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “but the body still lives.”，判断 body 在句中对应“身体 / 主体 / 尸体”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -2997,17 +3039,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用废墟中发现的尸体或受伤身体来记 body。它可以是身体、尸体、主体或团体。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, body connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，body 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "Ellie freezes when she sees a body in the stairwell wearing a child's backpack.",
+      "example_sentence_cn": "Ellie 看见楼梯间一具背着儿童背包的尸体时僵住了。",
+      "memory_prompt_cn": "body = 身体/尸体/主体。语境决定是活的身体还是尸体。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“身体 / 主体 / 尸体”。"
     },
     "memory_anchor": {
       "one_sentence": "body 的核心记忆点是：the physical form of a person or animal; main part or group",
@@ -3099,20 +3143,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Ignorance is our ammunition.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Ignorance is our ammunition.”，判断 ignorance 在句中对应“无知 / 不了解”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Ignorance is our ammunition.",
         "title": "Tenet 2020",
         "work_id": "subtitle_tenet_2020_1080p_hdrip_x264_aac2_0_shitbox_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Ignorance is our ammunition.” 把 ignorance 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这句能给 ignorance 一个真实使用场景，复习时把它和“无知 / 不了解”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：无知是我们的弹药。\n词义定位：ignorance 表示“无知、不了解”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Ignorance is our ammunition.”，判断 ignorance 在句中对应“无知 / 不了解”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3128,20 +3172,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "His ignorance is our only protection.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “His ignorance is our only protection.”，判断 ignorance 在句中对应“无知 / 不了解”里的哪一层意思。",
+        "note_cn": "",
         "quote": "His ignorance is our only protection.",
         "title": "Tenet 2020",
         "work_id": "subtitle_tenet_2020_1080p_hdrip_x264_aac2_0_shitbox_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “His ignorance is our only protection.” 这句里，ignorance 不是孤立出现，而是嵌在一段真实对白中。这句能给 ignorance 一个真实使用场景，复习时把它和“无知 / 不了解”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：他的无知是我们唯一的保护。\n词义定位：ignorance 表示“无知、不知情”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “His ignorance is our only protection.”，判断 ignorance 在句中对应“无知 / 不了解”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3154,17 +3198,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用角色不了解其他物种而产生偏见来记 ignorance。它表示无知、不了解。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, ignorance connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，ignorance 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "Nick hears ignorance in every joke that treats foxes as naturally untrustworthy.",
+      "example_sentence_cn": "每个把狐狸说成天生不可信的笑话里，Nick 都听到了无知。",
+      "memory_prompt_cn": "ignorance = 无知/不了解。重点是“不知道却以为自己懂”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“无知 / 不了解”。"
     },
     "memory_anchor": {
       "one_sentence": "ignorance 的核心记忆点是：lack of knowledge or information",
@@ -3252,17 +3298,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用小兔子被认为不重要来记 insignificant。它表示微不足道、不重要。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, insignificant connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，insignificant 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "Judy looks insignificant beside the giant police officers, until the case depends on her.",
+      "example_sentence_cn": "站在巨大的警官旁边，Judy 看起来微不足道，直到案件必须依靠她。",
+      "memory_prompt_cn": "insignificant = 微不足道的。重点是“看起来不重要”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“不重要的 / 微不足道的”。"
     },
     "memory_anchor": {
       "one_sentence": "insignificant 的核心记忆点是：too small or unimportant to matter",
@@ -3351,17 +3399,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。",
-      "association_en": "Associate the word with Frozen: Anna, Elsa, Arendelle, ice magic, eternal winter, courage, and family love.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用王国确信女王会归来来记 doubtless。它表示无疑地、确定地。",
+      "association_en": "",
       "emotion_tags": [
         "ice",
         "family",
         "courage",
         "magic"
       ],
-      "example_sentence": "In a Frozen-style memory scene, doubtless connects to ice, family, courage.",
-      "example_sentence_cn": "在 Frozen 风格的记忆画面中，doubtless 可以和可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。"
+      "example_sentence": "Anna is doubtless afraid, but she keeps climbing because Elsa is still out there.",
+      "example_sentence_cn": "Anna 无疑害怕，但她仍继续攀登，因为 Elsa 还在外面。",
+      "memory_prompt_cn": "doubtless = 无疑地。就是 without doubt。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“无疑地 / 确定的”。"
     },
     "memory_anchor": {
       "one_sentence": "doubtless 的核心记忆点是：almost certainly; without doubt",
@@ -3453,20 +3503,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "He's a mind with unlimited potential, and unlimited vision as well.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “He's a mind with unlimited potential, and unlimited vision as well.”，判断 unlimited 在句中对应“无限的 / 不受限制的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "He's a mind with unlimited potential, and unlimited vision as well.",
         "title": "Your Friendly Neighborhood Spider Man S01E06",
         "work_id": "subtitle_your_friendly_neighborhood_spider_man_s01e06_1080p_x265_elite_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “He's a mind with unlimited potential, and unlimited vision as well.” 这句里，unlimited 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“无限的 / 不受限制的”这类形容感绑定。"
+          "context": "整句翻译：他拥有无限潜力，也拥有无限视野。\n词义定位：unlimited 表示“无限的、不受限制的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “He's a mind with unlimited potential, and unlimited vision as well.”，判断 unlimited 在句中对应“无限的 / 不受限制的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3480,17 +3530,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用太空看似没有边界来记 unlimited。它表示不受限制的、无限的。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, unlimited connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，unlimited 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "Space feels unlimited until the fuel gauge reminds the crew of every hard limit.",
+      "example_sentence_cn": "太空似乎无限，直到燃料表提醒船员每一个严酷限制。",
+      "memory_prompt_cn": "unlimited = 无限的/不受限制的。和 limited 相反。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“无限的 / 不受限制的”。"
     },
     "memory_anchor": {
       "one_sentence": "unlimited 的核心记忆点是：without limit or restriction",
@@ -3583,20 +3635,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Take over, or an infinite amount of me start another Multiversal War.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Take over, or an infinite amount of me start another Multiversal War.”，判断 infinite 在句中对应“无限的 / 无穷的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Take over, or an infinite amount of me start another Multiversal War.",
         "title": "Loki S02E06 Glorious Purpose",
         "work_id": "subtitle_loki_s02e06_glorious_purpose_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Take over, or an infinite amount of me start another Multiversal War.” 这句里，infinite 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“无限的 / 无穷的”。"
+          "context": "整句翻译：接管，否则无限多个我会引发另一场多元宇宙战争。\n词义定位：infinite 表示“无限的、无穷的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Take over, or an infinite amount of me start another Multiversal War.”，判断 infinite 在句中对应“无限的 / 无穷的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3612,20 +3664,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "you have an infinite amount.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “you have an infinite amount.”，判断 infinite 在句中对应“无限的 / 无穷的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "you have an infinite amount.",
         "title": "Loki S02E01 Ouroboros",
         "work_id": "subtitle_loki_s02e01_ouroboros_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “you have an infinite amount.” 这句里，infinite 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“无限的 / 无穷的”。"
+          "context": "整句翻译：你有无限的数量。\n词义定位：infinite amount 表示“无限数量”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “you have an infinite amount.”，判断 infinite 在句中对应“无限的 / 无穷的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3638,17 +3690,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用黑洞中的时间和空间感来记 infinite。它表示无限的、无穷的。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, infinite connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，infinite 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "Inside the strange dimension, the shelves seem to stretch in infinite directions.",
+      "example_sentence_cn": "在奇异维度里，书架似乎向无限方向延伸。",
+      "memory_prompt_cn": "infinite = 无限的/无穷的。数学和宇宙语境常见。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“无限的 / 无穷的”。"
     },
     "memory_anchor": {
       "one_sentence": "infinite 的核心记忆点是：without end or limit",
@@ -3736,17 +3790,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用受伤者无法继续行动来记 incapable。它表示没有能力做某事。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, incapable connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，incapable 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "After the fall, Joel is incapable of standing without Ellie's help.",
+      "example_sentence_cn": "摔伤后，没有 Ellie 的帮助，Joel 无法站起来。",
+      "memory_prompt_cn": "incapable = 不能的/无能力的。常搭配 incapable of doing。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“不能的 / 无能力的”。"
     },
     "memory_anchor": {
       "one_sentence": "incapable 的核心记忆点是：not able to do something",
@@ -3838,20 +3894,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[Brundle] Another fearless attack from Hayes.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[Brundle] Another fearless attack from Hayes.”，判断 fearless 在句中对应“无畏的 / 大胆的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[Brundle] Another fearless attack from Hayes.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_1_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[Brundle] Another fearless attack from Hayes.” 这句里，fearless 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“无畏的 / 大胆的”这类形容感绑定。"
+          "context": "整句翻译：[Brundle] Hayes 又一次无畏进攻。\n词义定位：fearless 表示“无畏的、勇敢大胆的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[Brundle] Another fearless attack from Hayes.”，判断 fearless 在句中对应“无畏的 / 大胆的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3868,20 +3924,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Another fearless attack from Hayes.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Another fearless attack from Hayes.”，判断 fearless 在句中对应“无畏的 / 大胆的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Another fearless attack from Hayes.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Another fearless attack from Hayes.” 这句里，fearless 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“无畏的 / 大胆的”这类形容感绑定。"
+          "context": "整句翻译：Hayes 又一次无畏的进攻。\n词义定位：fearless 修饰 attack，表示“毫不畏惧的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Another fearless attack from Hayes.”，判断 fearless 在句中对应“无畏的 / 大胆的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -3895,17 +3951,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。",
-      "association_en": "Associate the word with Frozen: Anna, Elsa, Arendelle, ice magic, eternal winter, courage, and family love.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Anna 面对冰雪怪物仍前进来记 fearless。它表示无畏的。",
+      "association_en": "",
       "emotion_tags": [
         "ice",
         "family",
         "courage",
         "magic"
       ],
-      "example_sentence": "In a Frozen-style memory scene, fearless connects to ice, family, courage.",
-      "example_sentence_cn": "在 Frozen 风格的记忆画面中，fearless 可以和可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。"
+      "example_sentence": "Anna is not fearless because she feels no fear; she is fearless because she walks on anyway.",
+      "example_sentence_cn": "Anna 并不是毫无恐惧才无畏；她是因为害怕也继续前进才无畏。",
+      "memory_prompt_cn": "fearless = 无畏的。重点是“面对恐惧仍行动”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“无畏的 / 大胆的”。"
     },
     "memory_anchor": {
       "one_sentence": "fearless 的核心记忆点是：not afraid; brave",
@@ -3997,20 +4055,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ [Husk laughs] And you think that makes you unique ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ [Husk laughs] And you think that makes you unique ♪”，判断 unique 在句中对应“唯一的 / 独特的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ [Husk laughs] And you think that makes you unique ♪",
         "title": "Hazbin Hotel S01E04",
         "work_id": "subtitle_hazbin_hotel_2024_s01e04_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ [Husk laughs] And you think that makes you unique ♪” 这句里，unique 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“唯一的 / 独特的”这类形容感绑定。"
+          "context": "整句翻译：♪ 你以为那就让你独一无二 ♪\n词义定位：unique 表示“独特的、唯一的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ [Husk laughs] And you think that makes you unique ♪”，判断 unique 在句中对应“唯一的 / 独特的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4027,20 +4085,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Charlie has a very unique vision.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Charlie has a very unique vision.”，判断 unique 在句中对应“唯一的 / 独特的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Charlie has a very unique vision.",
         "title": "Hazbin Hotel S01E05",
         "work_id": "subtitle_hazbin_hotel_2024_s01e05_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Charlie has a very unique vision.” 这句里，unique 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“唯一的 / 独特的”这类形容感绑定。"
+          "context": "整句翻译：Charlie 有一个非常独特的愿景。\n词义定位：unique 表示“独特的、与众不同的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Charlie has a very unique vision.”，判断 unique 在句中对应“唯一的 / 独特的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4054,17 +4112,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用每个家族成员独一无二的天赋来记 unique。它表示唯一的、独特的。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, unique connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，unique 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "Mirabel's place in the family is unique because she sees what the magic cannot fix.",
+      "example_sentence_cn": "Mirabel 在家族中的位置很独特，因为她能看见魔法无法修复的问题。",
+      "memory_prompt_cn": "unique = 独特的/唯一的。重点是“没有另一个一样的”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“唯一的 / 独特的”。"
     },
     "memory_anchor": {
       "one_sentence": "unique 的核心记忆点是：being the only one of its kind; special",
@@ -4152,17 +4212,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用星空中数不清的星体来记 innumerable。它表示无数的。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, innumerable connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，innumerable 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "Innumerable stars fill the window, but the crew is searching for only one home.",
+      "example_sentence_cn": "无数星星填满舷窗，但船员只在寻找一个家园。",
+      "memory_prompt_cn": "innumerable = 无数的。in- + numerable = 数不过来的。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“无数的 / 数不清的”。"
     },
     "memory_anchor": {
       "one_sentence": "innumerable 的核心记忆点是：too many to be counted",
@@ -4250,17 +4312,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Isabela 被要求完美无缺来记 faultless。它表示无缺点、无错误。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, faultless connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，faultless 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "Isabela's faultless flowers hide how tired she is of being perfect.",
+      "example_sentence_cn": "Isabela 完美无缺的花朵隐藏了她对完美的疲惫。",
+      "memory_prompt_cn": "faultless = 完美无缺的。重点是“找不到 fault”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“完美无缺的 / 无错误的”。"
     },
     "memory_anchor": {
       "one_sentence": "faultless 的核心记忆点是：having no mistakes or faults",
@@ -4348,17 +4412,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用无生命矿物星球来记 inorganic。它表示无机的、非生物的。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, inorganic connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，inorganic 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "The planet's inorganic dust covers the probe, but no plant or microbe appears in the sample.",
+      "example_sentence_cn": "这颗行星的无机尘土覆盖了探测器，但样本中没有植物或微生物。",
+      "memory_prompt_cn": "inorganic = 无机的/非生物的。和 organic 相对。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“无机的 / 非生物的”。"
     },
     "memory_anchor": {
       "one_sentence": "inorganic 的核心记忆点是：not organic; not derived from living matter",
@@ -4451,20 +4517,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Oh, Marco! Come meet the new foreign exchange student",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Oh, Marco! Come meet the new foreign exchange student”，判断 foreign 在句中对应“外国的 / 陌生的 / 异质的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Oh, Marco! Come meet the new foreign exchange student",
         "title": "Star vs the Forces of Evil S01E01 E02 Star Co…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e01_e02_star_comes_to_earth_party_with_a_pony_1080",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Oh, Marco! Come meet the new foreign exchange student” 带有明显情绪爆发，说明 foreign 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。它在句中多半用来描述状态或性质，适合把它和“外国的 / 陌生的 / 异质的”这类形容感绑定。"
+          "context": "整句翻译：哦，Marco！来见见新的外国交换生。\n词义定位：foreign 在 foreign exchange student 中表示“外国的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Oh, Marco! Come meet the new foreign exchange student”，判断 foreign 在句中对应“外国的 / 陌生的 / 异质的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4481,20 +4547,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I want you to meet our new foreign exchange student",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I want you to meet our new foreign exchange student”，判断 foreign 在句中对应“外国的 / 陌生的 / 异质的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I want you to meet our new foreign exchange student",
         "title": "Star vs the Forces of Evil S01E01 E02 Star Co…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e01_e02_star_comes_to_earth_party_with_a_pony_1080",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “I want you to meet our new foreign exchange student” 这句里，foreign 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“外国的 / 陌生的 / 异质的”这类形容感绑定。"
+          "context": "整句翻译：我想让你见见我们的新外国交换生。\n词义定位：foreign exchange student 是“外国交换生”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I want you to meet our new foreign exchange student”，判断 foreign 在句中对应“外国的 / 陌生的 / 异质的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4508,17 +4574,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用幸存者进入陌生城市来记 foreign。它表示外国的，也可表示陌生的。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, foreign connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，foreign 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "The abandoned subway feels foreign to Ellie, though it once carried people every morning.",
+      "example_sentence_cn": "废弃地铁让 Ellie 感到陌生，尽管它曾每天早晨运送人群。",
+      "memory_prompt_cn": "foreign = 外国的/陌生的。这里记“不是熟悉环境”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“外国的 / 陌生的 / 异质的”。"
     },
     "memory_anchor": {
       "one_sentence": "foreign 的核心记忆点是：from another country; unfamiliar",
@@ -4610,20 +4678,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ Another one of those ruthless nights ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ Another one of those ruthless nights ♪”，判断 ruthless 在句中对应“无情的 / 残忍的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ Another one of those ruthless nights ♪",
         "title": "Hazbin Hotel S01E04",
         "work_id": "subtitle_hazbin_hotel_2024_s01e04_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ Another one of those ruthless nights ♪” 这句里，ruthless 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“无情的 / 残忍的”这类形容感绑定。"
+          "context": "整句翻译：♪ 又一个无情的夜晚 ♪\n词义定位：ruthless 表示“无情的、残酷的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ Another one of those ruthless nights ♪”，判断 ruthless 在句中对应“无情的 / 残忍的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4640,20 +4708,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "-Can you be strong? -Ruthless?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “-Can you be strong? -Ruthless?”，判断 ruthless 在句中对应“无情的 / 残忍的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "-Can you be strong? -Ruthless?",
         "title": "spider man into the spider verse 2018",
         "work_id": "subtitle_spider_man_into_the_spider_verse_2018_1080p_web_h264_slot_0_eng_english_british",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “-Can you be strong? -Ruthless?” 把 ruthless 放在句末，往往是在补充结果、态度或关键信息。它在句中多半用来描述状态或性质，适合把它和“无情的 / 残忍的”这类形容感绑定。"
+          "context": "整句翻译：——你能坚强吗？——无情吗？\n词义定位：ruthless 在这里表示“无情的、毫不心软的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “-Can you be strong? -Ruthless?”，判断 ruthless 在句中对应“无情的 / 残忍的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4667,17 +4735,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用掠夺者毫不留情地夺取物资来记 ruthless。它表示无情、残忍。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, ruthless connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，ruthless 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "The hunters are ruthless: they take the medicine and leave the wounded behind.",
+      "example_sentence_cn": "猎人们很无情：他们拿走药物，把伤者留在原地。",
+      "memory_prompt_cn": "ruthless = 无情的/残忍的。重点是“没有怜悯”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“无情的 / 残忍的”。"
     },
     "memory_anchor": {
       "one_sentence": "ruthless 的核心记忆点是：showing no pity or compassion",
@@ -4766,17 +4836,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用倒计时归零来记 nought。它表示零、无。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, nought connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，nought 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "At nought seconds, the engine fires and the whole launch tower begins to shake.",
+      "example_sentence_cn": "倒计时归零时，引擎点火，整个发射塔开始震动。",
+      "memory_prompt_cn": "nought = 零。英式用法更常见。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“零 / 无”。"
     },
     "memory_anchor": {
       "one_sentence": "nought 的核心记忆点是：zero; nothing",
@@ -4869,20 +4941,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Filth and fucking fire until she fucking dies!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Filth and fucking fire until she fucking dies!”，判断 filth 在句中对应“污物 / 肮脏 / 污秽”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Filth and fucking fire until she fucking dies!",
         "title": "Severance S01E08",
         "work_id": "subtitle_severance_s01e08_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Filth and fucking fire until she fucking dies!” 把 filth 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这句能给 filth 一个真实使用场景，复习时把它和“污物 / 肮脏 / 污秽”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：污秽和该死的火焰，直到她死去！\n词义定位：filth 表示“污秽、肮脏之物”，这里是强烈辱骂式用法。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Filth and fucking fire until she fucking dies!”，判断 filth 在句中对应“污物 / 肮脏 / 污秽”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4898,20 +4970,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[Lute] Sinful filth like you has no place in Heaven.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[Lute] Sinful filth like you has no place in Heaven.”，判断 filth 在句中对应“污物 / 肮脏 / 污秽”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[Lute] Sinful filth like you has no place in Heaven.",
         "title": "Hazbin Hotel S01E06",
         "work_id": "subtitle_hazbin_hotel_2024_s01e06_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_1_eng_s",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[Lute] Sinful filth like you has no place in Heaven.” 这句里，filth 不是孤立出现，而是嵌在一段真实对白中。这句能给 filth 一个真实使用场景，复习时把它和“污物 / 肮脏 / 污秽”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：[Lute] 像你这样的罪恶污秽之物在天堂没有位置。\n词义定位：filth 在这里表示“污秽之物、肮脏的人”，带侮辱意味。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[Lute] Sinful filth like you has no place in Heaven.”，判断 filth 在句中对应“污物 / 肮脏 / 污秽”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -4925,17 +4997,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用下水道和废弃房间的污物来记 filth。它表示肮脏、污秽。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, filth connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，filth 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "Ellie covers her mouth as they crawl through filth under the ruined hotel.",
+      "example_sentence_cn": "他们从废弃酒店下方的污物中爬过时，Ellie 捂住嘴。",
+      "memory_prompt_cn": "filth = 污物/肮脏。比 dirt 更恶心。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“污物 / 肮脏 / 污秽”。"
     },
     "memory_anchor": {
       "one_sentence": "filth 的核心记忆点是：disgusting dirt or moral corruption",
@@ -5026,20 +5100,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "A single snail? Are you kidding me?",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “A single snail? Are you kidding me?”，判断 snail 在句中对应“蜗牛”里的哪一层意思。",
+        "note_cn": "",
         "quote": "A single snail? Are you kidding me?",
         "title": "The Owl House S02E01",
         "work_id": "subtitle_the_owl_house_s02e01_1080p_hulu_web_dl_aac2_0_h_264_welp_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “A single snail? Are you kidding me?” 出现在提问里，说明 snail 可以嵌在真实对话的追问/确认中。这句能给 snail 一个真实使用场景，复习时把它和“蜗牛”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：一只蜗牛？你在开玩笑吗？\n词义定位：snail 表示“蜗牛”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “A single snail? Are you kidding me?”，判断 snail 在句中对应“蜗牛”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5055,20 +5129,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "♪ My car is a flying snail ♪",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “♪ My car is a flying snail ♪”，判断 snail 在句中对应“蜗牛”里的哪一层意思。",
+        "note_cn": "",
         "quote": "♪ My car is a flying snail ♪",
         "title": "Star vs the Forces of Evil S01E07 E08 Cheer U…",
         "work_id": "subtitle_star_vs_the_forces_of_evil_s01e07_e08_cheer_up_star_quest_buy_1080p_amzn_webrip_",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “♪ My car is a flying snail ♪” 这句里，snail 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“蜗牛”。"
+          "context": "整句翻译：♪ 我的车是一只会飞的蜗牛 ♪\n词义定位：snail 在这里表示“蜗牛”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “♪ My car is a flying snail ♪”，判断 snail 在句中对应“蜗牛”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5082,17 +5156,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Kung Fu Panda 中阿宝、竹林、功夫训练、师父、勇气和自我成长的主题。",
-      "association_en": "Associate the word with Kung Fu Panda: Po, bamboo forests, kung fu training, Shifu, courage, and personal growth.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用训练场边慢慢爬过的蜗牛来记 snail。它指蜗牛。",
+      "association_en": "",
       "emotion_tags": [
         "training",
         "panda",
         "growth",
         "courage"
       ],
-      "example_sentence": "In a Kung Fu Panda-style memory scene, snail connects to training, panda, growth.",
-      "example_sentence_cn": "在 Kung Fu Panda 风格的记忆画面中，snail 可以和可以联想到 Kung Fu Panda 中阿宝、竹林、功夫训练、师父、勇气和自我成长的主题。"
+      "example_sentence": "A snail crosses the training yard so slowly that Po finishes lunch before it reaches the mat.",
+      "example_sentence_cn": "一只蜗牛慢慢爬过训练场，慢到阿宝吃完午饭它才到垫子边。",
+      "memory_prompt_cn": "snail = 蜗牛。画面是“壳 + 很慢”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“蜗牛”。"
     },
     "memory_anchor": {
       "one_sentence": "snail 的核心记忆点是：a small slow animal with a spiral shell",
@@ -5185,20 +5261,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Coming from someone as ancient as you, I take that as quite the compliment.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Coming from someone as ancient as you, I take that as quite the compliment.”，判断 compliment 在句中对应“赞美 / 恭维”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Coming from someone as ancient as you, I take that as quite the compliment.",
         "title": "Hazbin Hotel S01E03",
         "work_id": "subtitle_hazbin_hotel_2024_s01e03_1080p_amzn_web_dl_h265_sdr_ddp_5_1_english_hone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Coming from someone as ancient as you, I take that as quite the compliment.” 把 compliment 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“赞美 / 恭维”。"
+          "context": "整句翻译：从你这样古老的人口中说出来，我把那当成相当大的赞美。\n词义定位：compliment 表示“赞美、恭维”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Coming from someone as ancient as you, I take that as quite the compliment.”，判断 compliment 在句中对应“赞美 / 恭维”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5215,20 +5291,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "but I know a compliment about the office would just make her day.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “but I know a compliment about the office would just make her day.”，判断 compliment 在句中对应“赞美 / 恭维”里的哪一层意思。",
+        "note_cn": "",
         "quote": "but I know a compliment about the office would just make her day.",
         "title": "Severance S01E01",
         "work_id": "subtitle_severance_s01e01_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “but I know a compliment about the office would just make her day.” 这句里，compliment 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“赞美 / 恭维”。"
+          "context": "整句翻译：但我知道一句关于办公室的夸奖会让她开心一整天。\n词义定位：compliment 表示“赞美、夸奖”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “but I know a compliment about the office would just make her day.”，判断 compliment 在句中对应“赞美 / 恭维”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5241,17 +5317,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用家人终于真诚夸奖 Mirabel 来记 compliment。它表示赞美、恭维。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, compliment connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，compliment 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "For once, Isabela's compliment feels real: she tells Mirabel the house needed her courage.",
+      "example_sentence_cn": "这一次，Isabela 的赞美是真诚的：她告诉 Mirabel，房子需要她的勇气。",
+      "memory_prompt_cn": "compliment = 赞美/恭维。注意和 complement 区分。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“赞美 / 恭维”。"
     },
     "memory_anchor": {
       "one_sentence": "compliment 的核心记忆点是：a polite expression of praise; to praise someone",
@@ -5346,20 +5424,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Ah, yes. Next question. Thank you. Yes, Don. Yeah.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Ah, yes. Next question. Thank you. Yes, Don. Yeah.”，判断 question 在句中对应“问题 / 疑问 / 询问”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Ah, yes. Next question. Thank you. Yes, Don. Yeah.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Ah, yes. Next question. Thank you. Yes, Don. Yeah.” 这句里，question 不是孤立出现，而是嵌在一段真实对白中。这句能给 question 一个真实使用场景，复习时把它和“问题 / 疑问 / 询问”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：啊，是的。下一个问题。谢谢。好的，Don。嗯。\n词义定位：question 表示“问题、提问”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Ah, yes. Next question. Thank you. Yes, Don. Yeah.”，判断 question 在句中对应“问题 / 疑问 / 询问”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5376,20 +5454,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "- That's your urgent question? - Hmm? Mm-mmm.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “- That's your urgent question? - Hmm? Mm-mmm.”，判断 question 在句中对应“问题 / 疑问 / 询问”里的哪一层意思。",
+        "note_cn": "",
         "quote": "- That's your urgent question? - Hmm? Mm-mmm.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “- That's your urgent question? - Hmm? Mm-mmm.” 出现在提问里，说明 question 可以嵌在真实对话的追问/确认中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“问题 / 疑问 / 询问”。"
+          "context": "整句翻译：——这就是你的紧急问题？——嗯？不是。\n词义定位：question 在这里表示“问题、疑问”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “- That's your urgent question? - Hmm? Mm-mmm.”，判断 question 在句中对应“问题 / 疑问 / 询问”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5403,17 +5481,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Judy 讯问线人来记 question。它是问题，也可表示质疑或询问。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, question connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，question 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "Judy asks one careful question, and Nick realizes she has found the lie.",
+      "example_sentence_cn": "Judy 小心问出一个问题，Nick 意识到她已经发现谎言。",
+      "memory_prompt_cn": "question = 问题/询问/质疑。动词时是“提问或质疑”。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“问题 / 疑问 / 询问”。"
     },
     "memory_anchor": {
       "one_sentence": "question 的核心记忆点是：a sentence asking for information; to ask or doubt",
@@ -5506,20 +5586,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[magical hum]",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[magical hum]”，判断 hum 在句中对应“哼唱 / 嗡嗡声”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[magical hum]",
         "title": "The Owl House S03E03",
         "work_id": "subtitle_the_owl_house_s03e03_1080p_dsnp_web_dl_ddp5_1_h_264_ntb_eztv_re_2_eng_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[magical hum]” 这句里，hum 不是孤立出现，而是嵌在一段真实对白中。这句能给 hum 一个真实使用场景，复习时把它和“哼唱 / 嗡嗡声”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：（魔法嗡鸣声）\n词义定位：hum 表示“嗡嗡声、低鸣声”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[magical hum]”，判断 hum 在句中对应“哼唱 / 嗡嗡声”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5532,17 +5612,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用角色轻轻哼唱家族旋律来记 hum。它表示哼唱，也可指嗡嗡声。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, hum connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，hum 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "Mirabel hums the family melody while sewing a loose thread on her skirt.",
+      "example_sentence_cn": "Mirabel 一边缝裙子上的线头，一边轻轻哼着家族旋律。",
+      "memory_prompt_cn": "hum = 哼唱/嗡嗡声。画面是闭着嘴发出低声旋律。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“哼唱 / 嗡嗡声”。"
     },
     "memory_anchor": {
       "one_sentence": "hum 的核心记忆点是：to sing softly without words; a low continuous sound",
@@ -5634,20 +5716,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I had a few hundred thousand literal brothers and sisters",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I had a few hundred thousand literal brothers and sisters”，判断 literal 在句中对应“字面的 / 照字面意义的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I had a few hundred thousand literal brothers and sisters",
         "title": "Severance S01E09",
         "work_id": "subtitle_severance_s01e09_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “I had a few hundred thousand literal brothers and sisters” 这句里，literal 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“字面的 / 照字面意义的”这类形容感绑定。"
+          "context": "整句翻译：我真的有几十万个兄弟姐妹。\n词义定位：literal 表示“字面意义上的、真正的”，强调不是夸张。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I had a few hundred thousand literal brothers and sisters”，判断 literal 在句中对应“字面的 / 照字面意义的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5663,20 +5745,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Wow, Zoey, way to be super literal.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Wow, Zoey, way to be super literal.”，判断 literal 在句中对应“字面的 / 照字面意义的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Wow, Zoey, way to be super literal.",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_1_eng_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Wow, Zoey, way to be super literal.” 把 literal 放在句末，往往是在补充结果、态度或关键信息。它在句中多半用来描述状态或性质，适合把它和“字面的 / 照字面意义的”这类形容感绑定。"
+          "context": "整句翻译：哇，Zoey，你也太按字面理解了。\n词义定位：literal 表示“字面的、照字面理解的”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Wow, Zoey, way to be super literal.”，判断 literal 在句中对应“字面的 / 照字面意义的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -5689,17 +5771,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用科学解释和字面意义对比来记 literal。它表示字面的、照字面理解的。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, literal connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，literal 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "When Cooper says time is slipping away, the planet makes it almost literal.",
+      "example_sentence_cn": "当 Cooper 说时间正在溜走时，那颗行星几乎让这句话成了字面意义。",
+      "memory_prompt_cn": "literal = 字面的。重点是“不是比喻，按字面理解”。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“字面的 / 照字面意义的”。"
     },
     "memory_anchor": {
       "one_sentence": "literal 的核心记忆点是：according to the exact meaning of words",
@@ -5789,17 +5873,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用不会读信的人来记 illiterate。它表示不识字的。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, illiterate connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，illiterate 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "The old villager is illiterate, so Mirabel reads the letter aloud beside the candle.",
+      "example_sentence_cn": "那位老人不识字，所以 Mirabel 在蜡烛旁把信读给他听。",
+      "memory_prompt_cn": "illiterate = 文盲的/不识字的。il- 表示否定。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“文盲的 / 不识字的 / 文盲”。"
     },
     "memory_anchor": {
       "one_sentence": "illiterate 的核心记忆点是：unable to read or write",
@@ -5891,20 +5977,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "it'll still be stationery.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “it'll still be stationery.\"”，判断 stationery 在句中对应“文具 / 信纸”里的哪一层意思。",
+        "note_cn": "",
         "quote": "it'll still be stationery.\"",
         "title": "The Last of Us S01E04",
         "work_id": "subtitle_the_last_of_us_2022_season_1_s01_1080p_bluray_x265_hevc_10bit_aac_7_1_vyndros_th",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “it'll still be stationery.\"” 这句里，stationery 不是孤立出现，而是嵌在一段真实对白中。这句能给 stationery 一个真实使用场景，复习时把它和“文具 / 信纸”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：它仍然会是文具。\n词义定位：stationery 表示“文具、信纸”，注意和 stationary“静止的”区分。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “it'll still be stationery.\"”，判断 stationery 在句中对应“文具 / 信纸”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6000,20 +6086,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "He said to avoid you like the plague.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “He said to avoid you like the plague.”，判断 plague 在句中对应“瘟疫 / 灾祸 / 折磨”里的哪一层意思。",
+        "note_cn": "",
         "quote": "He said to avoid you like the plague.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “He said to avoid you like the plague.” 把 plague 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“瘟疫 / 灾祸 / 折磨”。"
+          "context": "整句翻译：他说要像躲瘟疫一样躲着你。\n词义定位：plague 表示“瘟疫”，avoid like the plague 是“极力避开”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “He said to avoid you like the plague.”，判断 plague 在句中对应“瘟疫 / 灾祸 / 折磨”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6030,20 +6116,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "you've been avoiding like the plague.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “you've been avoiding like the plague.”，判断 plague 在句中对应“瘟疫 / 灾祸 / 折磨”里的哪一层意思。",
+        "note_cn": "",
         "quote": "you've been avoiding like the plague.",
         "title": "The Last of Us S02E02",
         "work_id": "subtitle_the_last_of_us_s02e02_1080p_x265_elite_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “you've been avoiding like the plague.” 把 plague 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“瘟疫 / 灾祸 / 折磨”。"
+          "context": "整句翻译：你一直像躲瘟疫一样避开的东西。\n词义定位：plague 在固定表达 avoid like the plague 中表示“瘟疫”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “you've been avoiding like the plague.”，判断 plague 在句中对应“瘟疫 / 灾祸 / 折磨”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6056,17 +6142,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用席卷世界的感染灾祸来记 plague。它表示瘟疫，也可指长期折磨。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, plague connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，plague 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "The fungal plague empties the schools, churches, and playgrounds before anyone understands it.",
+      "example_sentence_cn": "真菌瘟疫在人们理解它之前，就清空了学校、教堂和游乐场。",
+      "memory_prompt_cn": "plague = 瘟疫/灾祸。重点是“大规模传播的灾难”。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“瘟疫 / 灾祸 / 折磨”。"
     },
     "memory_anchor": {
       "one_sentence": "plague 的核心记忆点是：a serious disease outbreak; to trouble repeatedly",
@@ -6159,20 +6247,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[Mr. Milchick] I prefer the phrase, \"safely situated.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[Mr. Milchick] I prefer the phrase, \"safely situated.\"”，判断 situated 在句中对应“位于 / 处于……境地的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[Mr. Milchick] I prefer the phrase, \"safely situated.\"",
         "title": "Severance S01E07",
         "work_id": "subtitle_severance_s01e07_1080p_webrip_x265_rarbg_eztv_re_3_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[Mr. Milchick] I prefer the phrase, \"safely situated.\"” 这句里，situated 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“位于 / 处于……境地的”这类形容感绑定。"
+          "context": "整句翻译：[Milchick 先生] 我更喜欢“安全安置”这个说法。\n词义定位：situated 表示“处于某位置/状态的”，safely situated 指安全地安置好。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[Mr. Milchick] I prefer the phrase, \"safely situated.\"”，判断 situated 在句中对应“位于 / 处于……境地的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6188,20 +6276,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I prefer the phrase, \"safely situated.\"",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I prefer the phrase, \"safely situated.\"”，判断 situated 在句中对应“位于 / 处于……境地的”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I prefer the phrase, \"safely situated.\"",
         "title": "Severance S01E07",
         "work_id": "subtitle_severance_s01e07_1080p_webrip_x265_rarbg_eztv_re_2_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “I prefer the phrase, \"safely situated.\"” 这句里，situated 不是孤立出现，而是嵌在一段真实对白中。它在句中多半用来描述状态或性质，适合把它和“位于 / 处于……境地的”这类形容感绑定。"
+          "context": "整句翻译：我更喜欢“安全安置”这个说法。\n词义定位：situated 在 safely situated 中表示“被安置在某种状态”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I prefer the phrase, \"safely situated.\"”，判断 situated 在句中对应“位于 / 处于……境地的”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6214,17 +6302,19 @@
       "tier": 2,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Death Stranding 中 Sam 作为送货员连接城市、携带货物、穿越荒野、BT、绳索与“连接”的主题。",
-      "association_en": "Associate the word with Death Stranding: Sam as a porter connecting cities, carrying cargo, crossing wastelands, BTs, strands, and connection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用据点在山谷中的位置来记 situated。它表示位于、处于某种位置。",
+      "association_en": "",
       "emotion_tags": [
         "porter",
         "cargo",
         "connection",
         "wasteland"
       ],
-      "example_sentence": "In a Death Stranding-style memory scene, situated connects to porter, cargo, connection.",
-      "example_sentence_cn": "在 Death Stranding 风格的记忆画面中，situated 可以和可以联想到 Death Stranding 中 Sam 作为送货员连接城市、携带货物、穿越荒野、BT、绳索与“连接”的主题。"
+      "example_sentence": "The shelter is situated between two cliffs, safe from wind but hard to reach.",
+      "example_sentence_cn": "避难所位于两座悬崖之间，避风但难以到达。",
+      "memory_prompt_cn": "situated = 位于/处于。重点是“在什么位置”。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“位于 / 处于……境地的”。"
     },
     "memory_anchor": {
       "one_sentence": "situated 的核心记忆点是：located in a particular place or situation",
@@ -6314,17 +6404,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用草食动物在城郊吃草来记 graze。它表示吃草，也可指擦伤。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, graze connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，graze 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "The antelope grazes peacefully outside the city until the police siren scares the herd.",
+      "example_sentence_cn": "羚羊在城外平静吃草，直到警笛吓到兽群。",
+      "memory_prompt_cn": "graze = 吃草/擦伤。动物语境先记“低头吃草”。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“吃草 / 擦伤 / 轻擦”。"
     },
     "memory_anchor": {
       "one_sentence": "graze 的核心记忆点是：to feed on grass; to scrape lightly",
@@ -6413,17 +6505,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用导航图上的纬度线来记 latitude。它表示纬度，也可指自由度。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, latitude connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，latitude 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "The probe lands at the wrong latitude, forcing the crew to cross a frozen desert.",
+      "example_sentence_cn": "探测器降落在错误纬度，迫使船员穿越冰冻沙漠。",
+      "memory_prompt_cn": "latitude = 纬度/余地。地理画面是地图上的横线。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“纬度 / 自由度 / 余地”。"
     },
     "memory_anchor": {
       "one_sentence": "latitude 的核心记忆点是：distance north or south of the equator; freedom to act",
@@ -6511,17 +6605,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用家人拥抱时的温柔来记 softness。它表示柔软或温和。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, softness connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，softness 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "After the argument, the softness in Julieta's voice makes Mirabel cry.",
+      "example_sentence_cn": "争吵后，Julieta 声音里的温柔让 Mirabel 哭了出来。",
+      "memory_prompt_cn": "softness = 柔软/温和。可指触感，也可指语气。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“柔软 / 温和”。"
     },
     "memory_anchor": {
       "one_sentence": "softness 的核心记忆点是：the quality of being soft or gentle",
@@ -6616,20 +6712,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "At least according to the Toronto Transit Commission.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “At least according to the Toronto Transit Commission.”，判断 commission 在句中对应“委员会 / 佣金 / 委托”里的哪一层意思。",
+        "note_cn": "",
         "quote": "At least according to the Toronto Transit Commission.",
         "title": "Turning Red 2022",
         "work_id": "subtitle_turning_red_2022_1080p_dsnp_web_dl_ddp5_1_atmos_h_264_cm_5_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “At least according to the Toronto Transit Commission.” 把 commission 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“委员会 / 佣金 / 委托”。"
+          "context": "整句翻译：至少多伦多交通委员会是这么说的。\n词义定位：Commission 在这里表示“委员会、管理机构”，是机构名称的一部分。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “At least according to the Toronto Transit Commission.”，判断 commission 在句中对应“委员会 / 佣金 / 委托”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6642,17 +6738,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用城市委员会调查警局失误来记 commission。它可指委员会、佣金或委托。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, commission connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，commission 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "A city commission questions the police after the missing mammals case becomes public.",
+      "example_sentence_cn": "失踪哺乳动物案件公开后，一个市政委员会质询警方。",
+      "memory_prompt_cn": "commission = 委员会/委托/佣金。这里记“被正式授权的小组”。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“委员会 / 佣金 / 委托”。"
     },
     "memory_anchor": {
       "one_sentence": "commission 的核心记忆点是：a group given authority; payment; to officially ask for work",
@@ -6741,17 +6839,19 @@
       "tier": 2,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Death Stranding 中 Sam 作为送货员连接城市、携带货物、穿越荒野、BT、绳索与“连接”的主题。",
-      "association_en": "Associate the word with Death Stranding: Sam as a porter connecting cities, carrying cargo, crossing wastelands, BTs, strands, and connection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用地图上的具体地点来记 locality。它表示地点、地区。",
+      "association_en": "",
       "emotion_tags": [
         "porter",
         "cargo",
         "connection",
         "wasteland"
       ],
-      "example_sentence": "In a Death Stranding-style memory scene, locality connects to porter, cargo, connection.",
-      "example_sentence_cn": "在 Death Stranding 风格的记忆画面中，locality 可以和可以联想到 Death Stranding 中 Sam 作为送货员连接城市、携带货物、穿越荒野、BT、绳索与“连接”的主题。"
+      "example_sentence": "The scanner marks the locality of the lost cargo near an old radio tower.",
+      "example_sentence_cn": "扫描仪标出丢失货物的位置，在一座旧无线电塔附近。",
+      "memory_prompt_cn": "locality = 地点/地区。比 place 更正式。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“地点 / 地区 / 位置”。"
     },
     "memory_anchor": {
       "one_sentence": "locality 的核心记忆点是：a particular place or area",
@@ -6842,20 +6942,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "I have ibuprofen, vitamin B, a hot water bottle, and pads.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “I have ibuprofen, vitamin B, a hot water bottle, and pads.”，判断 vitamin 在句中对应“维生素”里的哪一层意思。",
+        "note_cn": "",
         "quote": "I have ibuprofen, vitamin B, a hot water bottle, and pads.",
         "title": "Turning Red 2022",
         "work_id": "subtitle_turning_red_2022_1080p_dsnp_web_dl_ddp5_1_atmos_h_264_cm_5_eng_english_sdh",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “I have ibuprofen, vitamin B, a hot water bottle, and pads.” 这句里，vitamin 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“维生素”。"
+          "context": "整句翻译：我有布洛芬、维生素 B、热水袋和卫生巾。\n词义定位：vitamin 表示“维生素”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “I have ibuprofen, vitamin B, a hot water bottle, and pads.”，判断 vitamin 在句中对应“维生素”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6871,20 +6971,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Vitamin C.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Vitamin C.”，判断 vitamin 在句中对应“维生素”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Vitamin C.",
         "title": "The Last of Us S01E01",
         "work_id": "subtitle_the_last_of_us_2022_season_1_s01_1080p_bluray_x265_hevc_10bit_aac_7_1_vyndros_th",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “Vitamin C.” 把 vitamin 放在句首，语气很直接，适合记它在真实对话中如何开头带出动作或判断。这句能给 vitamin 一个真实使用场景，复习时把它和“维生素”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：维生素 C。\n词义定位：Vitamin C 表示“维生素 C”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Vitamin C.”，判断 vitamin 在句中对应“维生素”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -6898,17 +6998,19 @@
       "tier": 1,
       "medium": "game / series",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。",
-      "association_en": "Associate the word with The Last of Us: Joel and Ellie crossing dangerous zones, infected enemies, survival, patrols, stealth, and protection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用缺乏营养的幸存者补充维生素来记 vitamin。它指维生素。",
+      "association_en": "",
       "emotion_tags": [
         "survival",
         "danger",
         "journey",
         "protection"
       ],
-      "example_sentence": "In a The Last of Us-style memory scene, vitamin connects to survival, danger, journey.",
-      "example_sentence_cn": "在 The Last of Us 风格的记忆画面中，vitamin 可以和可以联想到 The Last of Us 中 Joel 与 Ellie 穿越危险区域、感染者、生存、巡逻、潜行和守护关系的主题。"
+      "example_sentence": "Ellie saves the last vitamin tablets for a child who has not eaten fruit in months.",
+      "example_sentence_cn": "Ellie 把最后几片维生素留给一个几个月没吃过水果的孩子。",
+      "memory_prompt_cn": "vitamin = 维生素。画面是营养、药片、健康。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“维生素”。"
     },
     "memory_anchor": {
       "one_sentence": "vitamin 的核心记忆点是：a substance needed in small amounts for health",
@@ -7002,20 +7104,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "but that won't stop me from writing a very stern letter.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “but that won't stop me from writing a very stern letter.”，判断 stern 在句中对应“严厉的 / 坚定的 / 船尾”里的哪一层意思。",
+        "note_cn": "",
         "quote": "but that won't stop me from writing a very stern letter.",
         "title": "The Owl House S01E13",
         "work_id": "subtitle_the_owl_house_s01e13_1080p_dsnp_web_dl_aac2_0_h_264_lazy_eztv_re_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “but that won't stop me from writing a very stern letter.” 这句里，stern 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“严厉的 / 坚定的 / 船尾”。"
+          "context": "整句翻译：但那不会阻止我写一封非常严厉的信。\n词义定位：stern 表示“严厉的、坚定的”，修饰 letter。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “but that won't stop me from writing a very stern letter.”，判断 stern 在句中对应“严厉的 / 坚定的 / 船尾”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7028,17 +7130,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用局长严厉训话来记 stern。它表示严厉的、坚定的，也可指船尾。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, stern connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，stern 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "Chief Bogo gives Judy a stern look before handing her another stack of parking tickets.",
+      "example_sentence_cn": "Bogo 局长严厉地看了 Judy 一眼，然后又递给她一叠停车罚单。",
+      "memory_prompt_cn": "stern = 严厉的/坚定的。表情通常很冷、很硬。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“严厉的 / 坚定的 / 船尾”。"
     },
     "memory_anchor": {
       "one_sentence": "stern 的核心记忆点是：serious and strict; the rear of a ship",
@@ -7126,17 +7230,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。",
-      "association_en": "Associate the word with Frozen: Anna, Elsa, Arendelle, ice magic, eternal winter, courage, and family love.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Anna 相信爱能解决一切来记 idealism。它表示理想主义。",
+      "association_en": "",
       "emotion_tags": [
         "ice",
         "family",
         "courage",
         "magic"
       ],
-      "example_sentence": "In a Frozen-style memory scene, idealism connects to ice, family, courage.",
-      "example_sentence_cn": "在 Frozen 风格的记忆画面中，idealism 可以和可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。"
+      "example_sentence": "Anna's idealism makes her believe one honest conversation can thaw years of silence.",
+      "example_sentence_cn": "Anna 的理想主义让她相信一次真诚对话能融化多年的沉默。",
+      "memory_prompt_cn": "idealism = 理想主义。重点是“相信事情应该按美好原则发展”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“理想主义 / 唯心主义”。"
     },
     "memory_anchor": {
       "one_sentence": "idealism 的核心记忆点是：belief in ideals; philosophy emphasizing mind or ideas",
@@ -7224,17 +7330,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用没有报酬的实习或志愿工作来记 unpaid。它表示未付费、无报酬。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, unpaid connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，unpaid 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "Judy spends unpaid hours reviewing camera footage because no one else takes the case seriously.",
+      "example_sentence_cn": "Judy 花无报酬的时间查看监控，因为没人认真对待这个案子。",
+      "memory_prompt_cn": "unpaid = 未支付的/无报酬的。un- 是否定。",
+      "usage_focus_cn": "复习时抓它修饰的对象：这个人、环境或状态为什么是“未付的 / 无报酬的”。"
     },
     "memory_anchor": {
       "one_sentence": "unpaid 的核心记忆点是：not paid or not receiving payment",
@@ -7322,17 +7430,19 @@
       "tier": 2,
       "medium": "film",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。",
-      "association_en": "Associate the word with Interstellar: space exploration, Saturn-side wormhole, black hole Gargantua, NASA missions, gravity, and time.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用太阳系行星来记 Venus。它是金星，也可指维纳斯。",
+      "association_en": "",
       "emotion_tags": [
         "space",
         "gravity",
         "time",
         "mission"
       ],
-      "example_sentence": "In a Interstellar-style memory scene, Venus connects to space, gravity, time.",
-      "example_sentence_cn": "在 Interstellar 风格的记忆画面中，Venus 可以和可以联想到 Interstellar 中宇宙探索、土星附近虫洞、黑洞 Gargantua、NASA 任务、引力和时间的科幻主题。"
+      "example_sentence": "The class model shows Venus wrapped in clouds, a warning about heat trapped forever.",
+      "example_sentence_cn": "课堂模型展示被云层包裹的金星，警示热量被永远困住。",
+      "memory_prompt_cn": "Venus = 金星/维纳斯。注意专有名词首字母大写。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“金星 / 维纳斯”。"
     },
     "memory_anchor": {
       "one_sentence": "Venus 的核心记忆点是：the second planet from the sun; Roman goddess of love",
@@ -7424,20 +7534,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Hey, Peter. Peter, I watched The Bachelor last night without you.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Hey, Peter. Peter, I watched The Bachelor last night without you.”，判断 bachelor 在句中对应“单身汉 / 学士”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Hey, Peter. Peter, I watched The Bachelor last night without you.",
         "title": "Your Friendly Neighborhood Spider Man S01E08",
         "work_id": "subtitle_your_friendly_neighborhood_spider_man_s01e08_1080p_x265_elite_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “Hey, Peter. Peter, I watched The Bachelor last night without you.” 这句里，bachelor 不是孤立出现，而是嵌在一段真实对白中。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“单身汉 / 学士”。"
+          "context": "整句翻译：嘿，Peter。Peter，我昨晚没和你一起看《单身汉》。\n词义定位：Bachelor 在这里是节目名 The Bachelor 的一部分，字面是“单身汉”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Hey, Peter. Peter, I watched The Bachelor last night without you.”，判断 bachelor 在句中对应“单身汉 / 学士”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7451,17 +7561,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。",
-      "association_en": "Associate the word with Frozen: Anna, Elsa, Arendelle, ice magic, eternal winter, courage, and family love.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用王国舞会上的单身汉来记 bachelor。它表示单身汉，也可指学士。",
+      "association_en": "",
       "emotion_tags": [
         "ice",
         "family",
         "courage",
         "magic"
       ],
-      "example_sentence": "In a Frozen-style memory scene, bachelor connects to ice, family, courage.",
-      "example_sentence_cn": "在 Frozen 风格的记忆画面中，bachelor 可以和可以联想到 Frozen 中 Anna、Elsa、Arendelle、冰雪魔法、永恒冬天、勇气与亲情的主题。"
+      "example_sentence": "The awkward bachelor at the ball keeps stepping on Anna's dress during the dance.",
+      "example_sentence_cn": "舞会上那个笨拙的单身汉跳舞时总踩到 Anna 的裙子。",
+      "memory_prompt_cn": "bachelor = 单身汉/学士。语境决定是婚姻状态还是学位。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“单身汉 / 学士”。"
     },
     "memory_anchor": {
       "one_sentence": "bachelor 的核心记忆点是：an unmarried man; a first university degree holder",
@@ -7548,17 +7660,19 @@
       "tier": 2,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Death Stranding 中 Sam 作为送货员连接城市、携带货物、穿越荒野、BT、绳索与“连接”的主题。",
-      "association_en": "Associate the word with Death Stranding: Sam as a porter connecting cities, carrying cargo, crossing wastelands, BTs, strands, and connection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用风雨中倒下的通信桅杆来记 mast。它是船桅或高杆。",
+      "association_en": "",
       "emotion_tags": [
         "porter",
         "cargo",
         "connection",
         "wasteland"
       ],
-      "example_sentence": "In a Death Stranding-style memory scene, mast connects to porter, cargo, connection.",
-      "example_sentence_cn": "在 Death Stranding 风格的记忆画面中，mast 可以和可以联想到 Death Stranding 中 Sam 作为送货员连接城市、携带货物、穿越荒野、BT、绳索与“连接”的主题。"
+      "example_sentence": "Sam climbs the broken mast to reconnect the shelter's emergency antenna.",
+      "example_sentence_cn": "Sam 爬上断裂的桅杆，重新连接避难所的应急天线。",
+      "memory_prompt_cn": "mast = 桅杆/高杆。画面是竖起来的长杆。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“桅杆”。"
     },
     "memory_anchor": {
       "one_sentence": "mast 的核心记忆点是：a tall pole on a ship that supports sails or equipment",
@@ -7651,20 +7765,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "[woman on P.A.]...violation of EMC 342.3,",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “[woman on P.A.]...violation of EMC 342.3,”，判断 violation 在句中对应“违反 / 侵犯 / 违背”里的哪一层意思。",
+        "note_cn": "",
         "quote": "[woman on P.A.]...violation of EMC 342.3,",
         "title": "The Last of Us S01E01",
         "work_id": "subtitle_the_last_of_us_2022_season_1_s01_1080p_bluray_x265_hevc_10bit_aac_7_1_vyndros_th",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “[woman on P.A.]...violation of EMC 342.3,” 这句里，violation 不是孤立出现，而是嵌在一段真实对白中。这句能给 violation 一个真实使用场景，复习时把它和“违反 / 侵犯 / 违背”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：[广播中的女人] ……违反 EMC 342.3，\n词义定位：violation 表示“违反、违章”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “[woman on P.A.]...violation of EMC 342.3,”，判断 violation 在句中对应“违反 / 侵犯 / 违背”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7681,20 +7795,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "that your upgraded floor is in violation.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “that your upgraded floor is in violation.”，判断 violation 在句中对应“违反 / 侵犯 / 违背”里的哪一层意思。",
+        "note_cn": "",
         "quote": "that your upgraded floor is in violation.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：字幕 “that your upgraded floor is in violation.” 把 violation 放在句末，往往是在补充结果、态度或关键信息。它在句中更像名词，承担一个具体对象/概念的位置，可优先记“违反 / 侵犯 / 违背”。"
+          "context": "整句翻译：你们升级后的楼层处于违规状态。\n词义定位：violation 在 in violation 中表示“违反规定”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “that your upgraded floor is in violation.”，判断 violation 在句中对应“违反 / 侵犯 / 违背”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7708,17 +7822,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用违反城市法规的行为来记 violation。它表示违反、侵犯。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, violation connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，violation 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "Judy writes a violation notice after a truck blocks the tiny-mammal crossing.",
+      "example_sentence_cn": "一辆卡车堵住小型哺乳动物通道后，Judy 开出违规通知。",
+      "memory_prompt_cn": "violation = 违反/侵犯。重点是“破坏规则或权利”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“违反 / 侵犯 / 违背”。"
     },
     "memory_anchor": {
       "one_sentence": "violation 的核心记忆点是：the act of breaking a rule or right",
@@ -7811,20 +7927,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "Ain't no choice when all these voices Keep me pointing towards no end!",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “Ain't no choice when all these voices Keep me pointing towards no end!”，判断 towards 在句中对应“朝向 / 向 / 对于”里的哪一层意思。",
+        "note_cn": "",
         "quote": "Ain't no choice when all these voices Keep me pointing towards no end!",
         "title": "KPop Demon Hunters 2025",
         "work_id": "subtitle_kpop_demon_hunters_2025_1080p_web_h264_edith_1_eng_english",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：这句 “Ain't no choice when all these voices Keep me pointing towards no end!” 带有明显情绪爆发，说明 towards 不是冷冰冰的书面词，而是在角色激动、恼火或紧张时自然说出的词。这句能给 towards 一个真实使用场景，复习时把它和“朝向 / 向 / 对于”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：当这些声音一直把我指向无尽之处时，我没有选择！\n词义定位：towards 表示“朝向、向着”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “Ain't no choice when all these voices Keep me pointing towards no end!”，判断 towards 在句中对应“朝向 / 向 / 对于”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7840,20 +7956,20 @@
         "match_type": "EXACT_OR_VARIANT",
         "context_text": "and I don't blame him, as they head down towards the second chicane.",
         "is_original_quote": true,
-        "note_cn": "复习方法：先遮住中文，只读 “and I don't blame him, as they head down towards the second chicane.”，判断 towards 在句中对应“朝向 / 向 / 对于”里的哪一层意思。",
+        "note_cn": "",
         "quote": "and I don't blame him, as they head down towards the second chicane.",
         "title": "F1 The Movie",
         "work_id": "subtitle_f1_the_movie_2025_1080p_web_dl_hevc_x265_5_1_bone_0_eng",
         "medium": "subtitle",
         "tier": "SRT",
         "location": {
-          "context": "语境说明：在 “and I don't blame him, as they head down towards the second chicane.” 这句里，towards 不是孤立出现，而是嵌在一段真实对白中。这句能给 towards 一个真实使用场景，复习时把它和“朝向 / 向 / 对于”绑定，而不是只背孤立中文。"
+          "context": "整句翻译：我也不怪他，因为他们正朝第二个减速弯驶去。\n词义定位：towards 表示“朝向、向……方向”。"
         },
         "speaker": "字幕未标注",
         "sense_match_score": 4,
         "context_quality_score": 4,
         "final_score": 8,
-        "note": "复习方法：先遮住中文，只读 “and I don't blame him, as they head down towards the second chicane.”，判断 towards 在句中对应“朝向 / 向 / 对于”里的哪一层意思。",
+        "note": "",
         "quote_cn": "",
         "context_before": "",
         "context_after": "",
@@ -7867,17 +7983,19 @@
       "tier": 2,
       "medium": "game",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Death Stranding 中 Sam 作为送货员连接城市、携带货物、穿越荒野、BT、绳索与“连接”的主题。",
-      "association_en": "Associate the word with Death Stranding: Sam as a porter connecting cities, carrying cargo, crossing wastelands, BTs, strands, and connection.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Sam 朝目标据点前进来记 towards。它表示朝向、向着。",
+      "association_en": "",
       "emotion_tags": [
         "porter",
         "cargo",
         "connection",
         "wasteland"
       ],
-      "example_sentence": "In a Death Stranding-style memory scene, towards connects to porter, cargo, connection.",
-      "example_sentence_cn": "在 Death Stranding 风格的记忆画面中，towards 可以和可以联想到 Death Stranding 中 Sam 作为送货员连接城市、携带货物、穿越荒野、BT、绳索与“连接”的主题。"
+      "example_sentence": "Sam walks towards the blue shelter light while thunder rolls behind him.",
+      "example_sentence_cn": "雷声在身后滚动，Sam 朝蓝色避难所灯光走去。",
+      "memory_prompt_cn": "towards = 朝向/向。英式常见，美式 toward 也常见。",
+      "usage_focus_cn": "复习时把它和“朝向 / 向 / 对于”这层意思绑定。"
     },
     "memory_anchor": {
       "one_sentence": "towards 的核心记忆点是：in the direction of; in relation to",
@@ -7966,17 +8084,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。",
-      "association_en": "Associate the word with Zootopia: Judy Hopps, a rabbit police officer, species prejudice, investigation, and proving oneself.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用动物临时隔离围栏来记 enclosure。它表示围起来的地方，也可指附件。",
+      "association_en": "",
       "emotion_tags": [
         "city",
         "police",
         "species",
         "prejudice"
       ],
-      "example_sentence": "In a Zootopia-style memory scene, enclosure connects to city, police, species.",
-      "example_sentence_cn": "在 Zootopia 风格的记忆画面中，enclosure 可以和可以联想到 Zootopia 中 Judy Hopps 作为兔子警官进入大城市、面对物种偏见、追查案件并证明自己的主题。"
+      "example_sentence": "The frightened sheep waits inside a glass enclosure while Judy questions the guards.",
+      "example_sentence_cn": "Judy 询问守卫时，受惊的绵羊待在玻璃围栏里。",
+      "memory_prompt_cn": "enclosure = 围地/围栏/附件。核心是“被围起来的东西”。",
+      "usage_focus_cn": "复习时把它当成画面中的一个对象、制度、情绪或概念来定位；对应“围地 / 附件 / 圈占”。"
     },
     "memory_anchor": {
       "one_sentence": "enclosure 的核心记忆点是：an enclosed area; something included in a letter",
@@ -8066,17 +8186,19 @@
       "tier": 1,
       "medium": "animation",
       "is_original_quote": false,
-      "disclaimer": "非原台词，仅为主题联想。",
-      "association": "可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。",
-      "association_en": "Associate the word with Encanto: the Madrigal family, the magical house, unique gifts, Mirabel, and family identity.",
+      "disclaimer": "非原台词；这是为了记忆词义而设计的高质量主题联想。",
+      "association": "主题联想：用 Mirabel 记录家族天赋目录来记 catalogue。它表示目录，也可作动词“编目录”。",
+      "association_en": "",
       "emotion_tags": [
         "family",
         "gift",
         "identity",
         "magic"
       ],
-      "example_sentence": "In a Encanto-style memory scene, catalogue connects to family, gift, identity.",
-      "example_sentence_cn": "在 Encanto 风格的记忆画面中，catalogue 可以和可以联想到 Encanto 中 Madrigal 家族、魔法房子、每个人独特天赋、Mirabel 与家庭认同的主题。"
+      "example_sentence": "Mirabel makes a catalogue of every family gift, from healing food to weather-changing moods.",
+      "example_sentence_cn": "Mirabel 编了一份家族天赋目录，从治愈食物到改变天气的情绪都记录下来。",
+      "memory_prompt_cn": "catalogue = 目录/编目录。英式拼写，美式常作 catalog。",
+      "usage_focus_cn": "复习时抓动作链：谁在做、对谁做、做完造成什么结果；对应“目录 / 产品目录 / 编目录”。"
     },
     "memory_anchor": {
       "one_sentence": "catalogue 的核心记忆点是：a complete list of items; to list systematically",
