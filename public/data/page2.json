@@ -124,7 +124,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "anniversary 是每年转回来一次的重要日子。",
-      "visual_scene": "A simple scene showing the idea of anniversary.",
+      "visual_scene": "They celebrated their tenth anniversary.",
       "visual_scene_cn": "想象一个能体现 anniversary 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -230,7 +230,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "peripheral 是在中心之外、边缘附近的东西。",
-      "visual_scene": "A simple scene showing the idea of peripheral.",
+      "visual_scene": "The printer is a peripheral device.",
       "visual_scene_cn": "想象一个能体现 peripheral 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -395,7 +395,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "perimeter 是围着一个区域量出来的边界。",
-      "visual_scene": "A simple scene showing the idea of perimeter.",
+      "visual_scene": "Guards stood around the perimeter.",
       "visual_scene_cn": "想象一个能体现 perimeter 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -560,7 +560,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "anybody 就是“任何一个人”。",
-      "visual_scene": "A simple scene showing the idea of anybody.",
+      "visual_scene": "Does anybody know the answer?",
       "visual_scene_cn": "想象一个能体现 anybody 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -725,7 +725,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "responsible 是能对事情作出回应并承担后果。",
-      "visual_scene": "A simple scene showing the idea of responsible.",
+      "visual_scene": "She is responsible for the project.",
       "visual_scene_cn": "想象一个能体现 responsible 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -890,7 +890,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "consequence 是跟在行为后面的结果。",
-      "visual_scene": "A simple scene showing the idea of consequence.",
+      "visual_scene": "Every decision has consequences.",
       "visual_scene_cn": "想象一个能体现 consequence 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1044,7 +1044,7 @@
     },
     "memory_anchor": {
       "one_sentence": "category 是把相似东西放进同一个格子。",
-      "visual_scene": "A simple scene showing the idea of category.",
+      "visual_scene": "These words belong to the same category.",
       "visual_scene_cn": "想象一个能体现 category 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1231,7 +1231,7 @@
     },
     "memory_anchor": {
       "one_sentence": "species 是生物分类里的“物种”。",
-      "visual_scene": "A simple scene showing the idea of species.",
+      "visual_scene": "The island is home to many rare species.",
       "visual_scene_cn": "想象一个能体现 species 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1401,7 +1401,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "hearty 像从心里发出的热情，也像吃得很饱的一餐。",
-      "visual_scene": "A simple scene showing the idea of hearty.",
+      "visual_scene": "They gave us a hearty welcome.",
       "visual_scene_cn": "想象一个能体现 hearty 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1504,7 +1504,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "neutron 可以理解为 neutral particle，中性的粒子。",
-      "visual_scene": "A simple scene showing the idea of neutron.",
+      "visual_scene": "A neutron has no electric charge.",
       "visual_scene_cn": "想象一个能体现 neutron 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1671,7 +1671,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "intermediate 是夹在初级和高级中间的阶段。",
-      "visual_scene": "A simple scene showing the idea of intermediate.",
+      "visual_scene": "This class is for intermediate learners.",
       "visual_scene_cn": "想象一个能体现 intermediate 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1774,7 +1774,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "proton 带正电，是原子核里的基本粒子。",
-      "visual_scene": "A simple scene showing the idea of proton.",
+      "visual_scene": "A hydrogen atom has one proton.",
       "visual_scene_cn": "想象一个能体现 proton 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1878,7 +1878,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "qualitative 看性质，quantitative 看数量。",
-      "visual_scene": "A simple scene showing the idea of qualitative.",
+      "visual_scene": "The study uses qualitative interviews.",
       "visual_scene_cn": "想象一个能体现 qualitative 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2014,7 +2014,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "fabricate 可以是真制造，也可以是假编造。",
-      "visual_scene": "A simple scene showing the idea of fabricate.",
+      "visual_scene": "He fabricated an excuse for being late.",
       "visual_scene_cn": "想象一个能体现 fabricate 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2119,7 +2119,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "fabrication 是 fabricate 出来的东西，可能是制造品，也可能是假话。",
-      "visual_scene": "A simple scene showing the idea of fabrication.",
+      "visual_scene": "The report was a complete fabrication.",
       "visual_scene_cn": "想象一个能体现 fabrication 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2304,7 +2304,7 @@
     },
     "memory_anchor": {
       "one_sentence": "volunteer 是出于自己意愿主动帮忙的人。",
-      "visual_scene": "A simple scene showing the idea of volunteer.",
+      "visual_scene": "She volunteered to help at the clinic.",
       "visual_scene_cn": "想象一个能体现 volunteer 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2414,7 +2414,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "rebuke 是比较正式、严厉的一句斥责。",
-      "visual_scene": "A simple scene showing the idea of rebuke.",
+      "visual_scene": "The teacher rebuked him for cheating.",
       "visual_scene_cn": "想象一个能体现 rebuke 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2519,7 +2519,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "indicative 像一个指示牌，指向背后的含义。",
-      "visual_scene": "A simple scene showing the idea of indicative.",
+      "visual_scene": "The results are indicative of a larger problem.",
       "visual_scene_cn": "想象一个能体现 indicative 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2624,7 +2624,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "denote 是符号和含义之间的直接对应。",
-      "visual_scene": "A simple scene showing the idea of denote.",
+      "visual_scene": "The symbol denotes temperature.",
       "visual_scene_cn": "想象一个能体现 denote 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2730,7 +2730,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "designate 是给人或地方正式贴上一个标签。",
-      "visual_scene": "A simple scene showing the idea of designate.",
+      "visual_scene": "The room was designated as a study area.",
       "visual_scene_cn": "想象一个能体现 designate 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2855,7 +2855,7 @@
     },
     "memory_anchor": {
       "one_sentence": "colonial 和被外来力量控制的殖民地有关。",
-      "visual_scene": "A simple scene showing the idea of colonial.",
+      "visual_scene": "The country suffered under colonial rule.",
       "visual_scene_cn": "想象一个能体现 colonial 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2984,7 +2984,7 @@
     },
     "memory_anchor": {
       "one_sentence": "vocation 是内心被“召唤”去做的职业。",
-      "visual_scene": "A simple scene showing the idea of vocation.",
+      "visual_scene": "Teaching is more than a job; it is a vocation.",
       "visual_scene_cn": "想象一个能体现 vocation 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3125,7 +3125,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "notable 是值得记下一笔的东西。",
-      "visual_scene": "A simple scene showing the idea of notable.",
+      "visual_scene": "This is a notable improvement.",
       "visual_scene_cn": "想象一个能体现 notable 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3231,7 +3231,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "merit 是事情本身值得被认可的价值。",
-      "visual_scene": "A simple scene showing the idea of merit.",
+      "visual_scene": "The idea has some merit.",
       "visual_scene_cn": "想象一个能体现 merit 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3336,7 +3336,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "weaver 是把线一来一回编织起来的人。",
-      "visual_scene": "A simple scene showing the idea of weaver.",
+      "visual_scene": "The weaver made cloth by hand.",
       "visual_scene_cn": "想象一个能体现 weaver 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3493,7 +3493,7 @@
     },
     "memory_anchor": {
       "one_sentence": "brace 是用支架撑住，也是在心理上撑住自己。",
-      "visual_scene": "A simple scene showing the idea of brace.",
+      "visual_scene": "Brace yourself for bad news.",
       "visual_scene_cn": "想象一个能体现 brace 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3669,7 +3669,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "check 是停下来核对，也可以是把问题控制住。",
-      "visual_scene": "A simple scene showing the idea of check.",
+      "visual_scene": "Please check your work carefully.",
       "visual_scene_cn": "想象一个能体现 check 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3773,7 +3773,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "symptom 是身体或系统发出的“有问题”信号。",
-      "visual_scene": "A simple scene showing the idea of symptom.",
+      "visual_scene": "Fever is a common symptom of infection.",
       "visual_scene_cn": "想象一个能体现 symptom 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3897,7 +3897,7 @@
     },
     "memory_anchor": {
       "one_sentence": "regime 是一套统治或管理规则。",
-      "visual_scene": "A simple scene showing the idea of regime.",
+      "visual_scene": "The country experienced a change of regime.",
       "visual_scene_cn": "想象一个能体现 regime 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4071,7 +4071,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "second 是跟在第一后面的那个，也是一秒钟。",
-      "visual_scene": "A simple scene showing the idea of second.",
+      "visual_scene": "I need a second chance.",
       "visual_scene_cn": "想象一个能体现 second 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4237,7 +4237,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "bearing 的核心是“承载”：承载关系、方向、姿态或旋转。",
-      "visual_scene": "A simple scene showing the idea of bearing.",
+      "visual_scene": "The evidence has a bearing on the case.",
       "visual_scene_cn": "想象一个能体现 bearing 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4422,7 +4422,7 @@
     },
     "memory_anchor": {
       "one_sentence": "politics 是围绕公共权力和治理展开的活动。",
-      "visual_scene": "A simple scene showing the idea of politics.",
+      "visual_scene": "She studies politics at university.",
       "visual_scene_cn": "想象一个能体现 politics 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4612,7 +4612,7 @@
     },
     "memory_anchor": {
       "one_sentence": "platform 是一个承载人、车、观点或服务的平面/系统。",
-      "visual_scene": "A simple scene showing the idea of platform.",
+      "visual_scene": "The app became a popular learning platform.",
       "visual_scene_cn": "想象一个能体现 platform 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4781,7 +4781,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "confirmation 是把不确定变成确定。",
-      "visual_scene": "A simple scene showing the idea of confirmation.",
+      "visual_scene": "I received a confirmation email.",
       "visual_scene_cn": "想象一个能体现 confirmation 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4917,7 +4917,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "testify 是证人把看到的事实正式说出来。",
-      "visual_scene": "A simple scene showing the idea of testify.",
+      "visual_scene": "The witness testified in court.",
       "visual_scene_cn": "想象一个能体现 testify 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5082,7 +5082,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "audience 最早是“听的人”，现在也可以是观众和读者。",
-      "visual_scene": "A simple scene showing the idea of audience.",
+      "visual_scene": "The speaker attracted a large audience.",
       "visual_scene_cn": "想象一个能体现 audience 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5245,7 +5245,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "correctly 是没有错误地做某事。",
-      "visual_scene": "A simple scene showing the idea of correctly.",
+      "visual_scene": "Please spell the word correctly.",
       "visual_scene_cn": "想象一个能体现 correctly 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5433,7 +5433,7 @@
     },
     "memory_anchor": {
       "one_sentence": "positive 可以是积极、正数、阳性，也有“明确存在”的感觉。",
-      "visual_scene": "A simple scene showing the idea of positive.",
+      "visual_scene": "A positive attitude can help.",
       "visual_scene_cn": "想象一个能体现 positive 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5543,7 +5543,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "normalization 是把混乱或异常拉回标准状态。",
-      "visual_scene": "A simple scene showing the idea of normalization.",
+      "visual_scene": "Data normalization improves consistency.",
       "visual_scene_cn": "想象一个能体现 normalization 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5710,7 +5710,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "sign 是能让你知道某事的标记。",
-      "visual_scene": "A simple scene showing the idea of sign.",
+      "visual_scene": "Dark clouds are a sign of rain.",
       "visual_scene_cn": "想象一个能体现 sign 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5814,7 +5814,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "conqueror 是打败对方并取得控制的人。",
-      "visual_scene": "A simple scene showing the idea of conqueror.",
+      "visual_scene": "The conqueror took control of the city.",
       "visual_scene_cn": "想象一个能体现 conqueror 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5949,7 +5949,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "controversy 是观点相互对着转，形成争论。",
-      "visual_scene": "A simple scene showing the idea of controversy.",
+      "visual_scene": "The decision caused controversy.",
       "visual_scene_cn": "想象一个能体现 controversy 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6132,7 +6132,7 @@
     },
     "memory_anchor": {
       "one_sentence": "suppress 是把东西往下压，不让它冒出来。",
-      "visual_scene": "A simple scene showing the idea of suppress.",
+      "visual_scene": "He tried to suppress his anger.",
       "visual_scene_cn": "想象一个能体现 suppress 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6291,7 +6291,7 @@
     },
     "memory_anchor": {
       "one_sentence": "gust 是突然冲过来的一阵风。",
-      "visual_scene": "A simple scene showing the idea of gust.",
+      "visual_scene": "A gust of wind blew the door open.",
       "visual_scene_cn": "想象一个能体现 gust 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6479,7 +6479,7 @@
     },
     "memory_anchor": {
       "one_sentence": "clinic 是提供医疗检查和治疗的地方。",
-      "visual_scene": "A simple scene showing the idea of clinic.",
+      "visual_scene": "She went to the clinic for a checkup.",
       "visual_scene_cn": "想象一个能体现 clinic 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6607,7 +6607,7 @@
     },
     "memory_anchor": {
       "one_sentence": "diagnose 是通过检查获得“知道问题是什么”的结果。",
-      "visual_scene": "A simple scene showing the idea of diagnose.",
+      "visual_scene": "The doctor diagnosed the illness quickly.",
       "visual_scene_cn": "想象一个能体现 diagnose 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6716,7 +6716,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "sincerity 是没有假装的真心。",
-      "visual_scene": "A simple scene showing the idea of sincerity.",
+      "visual_scene": "I believe in the sincerity of her apology.",
       "visual_scene_cn": "想象一个能体现 sincerity 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6870,7 +6870,7 @@
     },
     "memory_anchor": {
       "one_sentence": "cherish 是把某人某物放在心里好好珍惜。",
-      "visual_scene": "A simple scene showing the idea of cherish.",
+      "visual_scene": "She cherished the memories of childhood.",
       "visual_scene_cn": "想象一个能体现 cherish 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7029,7 +7029,7 @@
     },
     "memory_anchor": {
       "one_sentence": "detective 是负责 uncover 真相的人。",
-      "visual_scene": "A simple scene showing the idea of detective.",
+      "visual_scene": "The detective solved the case.",
       "visual_scene_cn": "想象一个能体现 detective 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7140,7 +7140,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "underline 是在文字下面画线，也是在意思上强调。",
-      "visual_scene": "A simple scene showing the idea of underline.",
+      "visual_scene": "The report underlines the need for change.",
       "visual_scene_cn": "想象一个能体现 underline 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7247,7 +7247,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "grind 是反复摩擦碾压，也可以指日复一日苦干。",
-      "visual_scene": "A simple scene showing the idea of grind.",
+      "visual_scene": "She grinds coffee beans every morning.",
       "visual_scene_cn": "想象一个能体现 grind 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7353,7 +7353,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "discount 是从原价或重要性里“减掉一部分”。",
-      "visual_scene": "A simple scene showing the idea of discount.",
+      "visual_scene": "Students get a 20 percent discount.",
       "visual_scene_cn": "想象一个能体现 discount 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7519,7 +7519,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "literally 是按字面意思理解，也常被口语用来加强语气。",
-      "visual_scene": "A simple scene showing the idea of literally.",
+      "visual_scene": "The word literally means 'to throw out'.",
       "visual_scene_cn": "想象一个能体现 literally 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7624,7 +7624,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "illuminate 既能照亮空间，也能照亮理解。",
-      "visual_scene": "A simple scene showing the idea of illuminate.",
+      "visual_scene": "The lamp illuminated the room.",
       "visual_scene_cn": "想象一个能体现 illuminate 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7789,7 +7789,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "summon 是把人、力量或勇气叫到眼前。",
-      "visual_scene": "A simple scene showing the idea of summon.",
+      "visual_scene": "She summoned the courage to speak.",
       "visual_scene_cn": "想象一个能体现 summon 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7893,7 +7893,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "marsh 是长草的软湿地。",
-      "visual_scene": "A simple scene showing the idea of marsh.",
+      "visual_scene": "Birds live in the marsh near the river.",
       "visual_scene_cn": "想象一个能体现 marsh 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -8059,7 +8059,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "entertainment 是抓住注意力、让人开心的内容。",
-      "visual_scene": "A simple scene showing the idea of entertainment.",
+      "visual_scene": "Movies are a popular form of entertainment.",
       "visual_scene_cn": "想象一个能体现 entertainment 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -8164,7 +8164,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "hindrance 是挡在前进路上的麻烦。",
-      "visual_scene": "A simple scene showing the idea of hindrance.",
+      "visual_scene": "Lack of money was a hindrance to the plan.",
       "visual_scene_cn": "想象一个能体现 hindrance 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -8334,7 +8334,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "hose 是能弯曲、能输水的管子。",
-      "visual_scene": "A simple scene showing the idea of hose.",
+      "visual_scene": "He used a hose to water the garden.",
       "visual_scene_cn": "想象一个能体现 hose 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -8496,7 +8496,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "sofa 是客厅里可以坐也可以躺的长椅。",
-      "visual_scene": "A simple scene showing the idea of sofa.",
+      "visual_scene": "She fell asleep on the sofa.",
       "visual_scene_cn": "想象一个能体现 sofa 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -8600,7 +8600,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "tensile 是被拉伸时表现出的性质。",
-      "visual_scene": "A simple scene showing the idea of tensile.",
+      "visual_scene": "Steel has high tensile strength.",
       "visual_scene_cn": "想象一个能体现 tensile 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -8784,7 +8784,7 @@
     },
     "memory_anchor": {
       "one_sentence": "warfare 是战争的方式和行动体系。",
-      "visual_scene": "A simple scene showing the idea of warfare.",
+      "visual_scene": "Technology has changed modern warfare.",
       "visual_scene_cn": "想象一个能体现 warfare 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -8976,7 +8976,7 @@
     },
     "memory_anchor": {
       "one_sentence": "battle 可以是真战斗，也可以是长期斗争。",
-      "visual_scene": "A simple scene showing the idea of battle.",
+      "visual_scene": "They battled against the disease for years.",
       "visual_scene_cn": "想象一个能体现 battle 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -9105,7 +9105,7 @@
     },
     "memory_anchor": {
       "one_sentence": "predominant 是压过其他因素、最显眼或最主要的。",
-      "visual_scene": "A simple scene showing the idea of predominant.",
+      "visual_scene": "Blue is the predominant color in the painting.",
       "visual_scene_cn": "想象一个能体现 predominant 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -9246,7 +9246,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "unfold 是把折起来的东西打开，也指事情慢慢显现。",
-      "visual_scene": "A simple scene showing the idea of unfold.",
+      "visual_scene": "The story unfolds slowly.",
       "visual_scene_cn": "想象一个能体现 unfold 核心含义的画面。",
       "emotion_tags": [
         "core",

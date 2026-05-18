@@ -88,7 +88,7 @@
     },
     "memory_anchor": {
       "one_sentence": "cluster 的核心记忆点是：a group of similar things close together; to gather in a group",
-      "visual_scene": "A simple scene showing the idea of cluster.",
+      "visual_scene": "A cluster of students stood near the door.",
       "visual_scene_cn": "想象一个能体现 cluster 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -200,7 +200,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "generalization 的核心记忆点是：a broad statement or rule based on specific cases",
-      "visual_scene": "A simple scene showing the idea of generalization.",
+      "visual_scene": "This is only a rough generalization.",
       "visual_scene_cn": "想象一个能体现 generalization 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -295,7 +295,7 @@
     },
     "memory_anchor": {
       "one_sentence": "burglar 的核心记忆点是：a person who illegally enters a building to steal",
-      "visual_scene": "A simple scene showing the idea of burglar.",
+      "visual_scene": "The burglar entered through a window.",
       "visual_scene_cn": "想象一个能体现 burglar 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -437,7 +437,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "amateur 的核心记忆点是：a person who does something for interest rather than as a profession",
-      "visual_scene": "A simple scene showing the idea of amateur.",
+      "visual_scene": "He is an amateur photographer.",
       "visual_scene_cn": "想象一个能体现 amateur 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -591,7 +591,7 @@
     },
     "memory_anchor": {
       "one_sentence": "Jesus 的核心记忆点是：the central figure of Christianity",
-      "visual_scene": "A simple scene showing the idea of Jesus.",
+      "visual_scene": "Jesus is central to Christianity.",
       "visual_scene_cn": "想象一个能体现 Jesus 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -691,7 +691,7 @@
     },
     "memory_anchor": {
       "one_sentence": "metallurgy 的核心记忆点是：the science and technology of metals",
-      "visual_scene": "A simple scene showing the idea of metallurgy.",
+      "visual_scene": "Metallurgy studies how metals are produced and used.",
       "visual_scene_cn": "想象一个能体现 metallurgy 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -852,7 +852,7 @@
     },
     "memory_anchor": {
       "one_sentence": "fort 的核心记忆点是：a strong military building designed for defense",
-      "visual_scene": "A simple scene showing the idea of fort.",
+      "visual_scene": "The soldiers defended the fort.",
       "visual_scene_cn": "想象一个能体现 fort 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -984,7 +984,7 @@
     },
     "memory_anchor": {
       "one_sentence": "prescription 的核心记忆点是：an official medical order for medicine; a recommended rule",
-      "visual_scene": "A simple scene showing the idea of prescription.",
+      "visual_scene": "The doctor wrote a prescription.",
       "visual_scene_cn": "想象一个能体现 prescription 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1067,7 +1067,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "postulate 的核心记忆点是：to assume something as true; a basic assumption",
-      "visual_scene": "A simple scene showing the idea of postulate.",
+      "visual_scene": "The theory postulates a hidden force.",
       "visual_scene_cn": "想象一个能体现 postulate 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1206,7 +1206,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "wag 的核心记忆点是：to move from side to side, especially a tail",
-      "visual_scene": "A simple scene showing the idea of wag.",
+      "visual_scene": "The dog wagged its tail.",
       "visual_scene_cn": "想象一个能体现 wag 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1314,7 +1314,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "cradle 的核心记忆点是：a small bed for a baby; to hold gently; origin of something",
-      "visual_scene": "A simple scene showing the idea of cradle.",
+      "visual_scene": "The mother cradled the baby.",
       "visual_scene_cn": "想象一个能体现 cradle 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1389,7 +1389,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "oxide 的核心记忆点是：a chemical compound of oxygen with another element",
-      "visual_scene": "A simple scene showing the idea of oxide.",
+      "visual_scene": "Rust is a form of iron oxide.",
       "visual_scene_cn": "想象一个能体现 oxide 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1466,7 +1466,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "waver 的核心记忆点是：to move unsteadily or hesitate between choices",
-      "visual_scene": "A simple scene showing the idea of waver.",
+      "visual_scene": "She did not waver in her decision.",
       "visual_scene_cn": "想象一个能体现 waver 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1574,7 +1574,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "domestic 的核心记忆点是：relating to home, family, or one's own country",
-      "visual_scene": "A simple scene showing the idea of domestic.",
+      "visual_scene": "The policy affects the domestic market.",
       "visual_scene_cn": "想象一个能体现 domestic 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1650,7 +1650,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "oxidize 的核心记忆点是：to combine with oxygen or lose electrons",
-      "visual_scene": "A simple scene showing the idea of oxidize.",
+      "visual_scene": "Iron oxidizes when exposed to air and water.",
       "visual_scene_cn": "想象一个能体现 oxidize 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1727,7 +1727,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "banquet 的核心记忆点是：a formal large meal for many people",
-      "visual_scene": "A simple scene showing the idea of banquet.",
+      "visual_scene": "They attended a formal banquet.",
       "visual_scene_cn": "想象一个能体现 banquet 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1885,7 +1885,7 @@
     },
     "memory_anchor": {
       "one_sentence": "foster 的核心记忆点是：to encourage development; to care for a child not one's own",
-      "visual_scene": "A simple scene showing the idea of foster.",
+      "visual_scene": "The program fosters creativity.",
       "visual_scene_cn": "想象一个能体现 foster 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -1965,7 +1965,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "anode 的核心记忆点是：the positive electrode in many electrical devices",
-      "visual_scene": "A simple scene showing the idea of anode.",
+      "visual_scene": "Electrons move between the anode and cathode.",
       "visual_scene_cn": "想象一个能体现 anode 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2121,7 +2121,7 @@
     },
     "memory_anchor": {
       "one_sentence": "balcony 的核心记忆点是：a platform projecting from a building or upper seating area",
-      "visual_scene": "A simple scene showing the idea of balcony.",
+      "visual_scene": "She stood on the balcony.",
       "visual_scene_cn": "想象一个能体现 balcony 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2266,7 +2266,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "scope 的核心记忆点是：the range or extent of something",
-      "visual_scene": "A simple scene showing the idea of scope.",
+      "visual_scene": "The scope of the project is large.",
       "visual_scene_cn": "想象一个能体现 scope 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2342,7 +2342,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "proverb 的核心记忆点是：a short traditional saying expressing common wisdom",
-      "visual_scene": "A simple scene showing the idea of proverb.",
+      "visual_scene": "There is an old proverb about patience.",
       "visual_scene_cn": "想象一个能体现 proverb 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2498,7 +2498,7 @@
     },
     "memory_anchor": {
       "one_sentence": "cloak 的核心记忆点是：a loose outer garment; to hide or cover",
-      "visual_scene": "A simple scene showing the idea of cloak.",
+      "visual_scene": "The plan was cloaked in secrecy.",
       "visual_scene_cn": "想象一个能体现 cloak 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2579,7 +2579,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "prolong 的核心记忆点是：to make something last longer",
-      "visual_scene": "A simple scene showing the idea of prolong.",
+      "visual_scene": "The medicine can prolong life.",
       "visual_scene_cn": "想象一个能体现 prolong 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2715,7 +2715,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "sharply 的核心记忆点是：in a sharp, sudden, or severe way",
-      "visual_scene": "A simple scene showing the idea of sharply.",
+      "visual_scene": "Prices rose sharply.",
       "visual_scene_cn": "想象一个能体现 sharply 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2825,7 +2825,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "pickle 的核心记忆点是：food preserved in vinegar or salt; to preserve this way",
-      "visual_scene": "A simple scene showing the idea of pickle.",
+      "visual_scene": "She made pickles from cucumbers.",
       "visual_scene_cn": "想象一个能体现 pickle 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -2964,7 +2964,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "squash 的核心记忆点是：to crush flat; a vegetable; a racket sport",
-      "visual_scene": "A simple scene showing the idea of squash.",
+      "visual_scene": "He accidentally squashed the box.",
       "visual_scene_cn": "想象一个能体现 squash 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3040,7 +3040,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "retard 的核心记忆点是：to slow down or delay progress",
-      "visual_scene": "A simple scene showing the idea of retard.",
+      "visual_scene": "Cold weather can retard plant growth.",
       "visual_scene_cn": "想象一个能体现 retard 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3177,7 +3177,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "squeeze 的核心记忆点是：to press firmly from opposite sides",
-      "visual_scene": "A simple scene showing the idea of squeeze.",
+      "visual_scene": "She squeezed the lemon.",
       "visual_scene_cn": "想象一个能体现 squeeze 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3313,7 +3313,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "dentist 的核心记忆点是：a doctor who treats teeth",
-      "visual_scene": "A simple scene showing the idea of dentist.",
+      "visual_scene": "I need to see a dentist.",
       "visual_scene_cn": "想象一个能体现 dentist 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3468,7 +3468,7 @@
     },
     "memory_anchor": {
       "one_sentence": "overwhelming 的核心记忆点是：very great in amount, force, or effect",
-      "visual_scene": "A simple scene showing the idea of overwhelming.",
+      "visual_scene": "The evidence was overwhelming.",
       "visual_scene_cn": "想象一个能体现 overwhelming 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3567,7 +3567,7 @@
     },
     "memory_anchor": {
       "one_sentence": "opium 的核心记忆点是：a narcotic drug from poppy plants",
-      "visual_scene": "A simple scene showing the idea of opium.",
+      "visual_scene": "Opium was historically used as a drug.",
       "visual_scene_cn": "想象一个能体现 opium 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3649,7 +3649,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "overwhelm 的核心记忆点是：to affect someone very strongly or defeat completely",
-      "visual_scene": "A simple scene showing the idea of overwhelm.",
+      "visual_scene": "The news overwhelmed her.",
       "visual_scene_cn": "想象一个能体现 overwhelm 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3728,7 +3728,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "deposit 的核心记忆点是：money placed in a bank; to put down or store",
-      "visual_scene": "A simple scene showing the idea of deposit.",
+      "visual_scene": "She deposited money in the bank.",
       "visual_scene_cn": "想象一个能体现 deposit 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3823,7 +3823,7 @@
     },
     "memory_anchor": {
       "one_sentence": "velocity 的核心记忆点是：speed in a given direction",
-      "visual_scene": "A simple scene showing the idea of velocity.",
+      "visual_scene": "The object moved at high velocity.",
       "visual_scene_cn": "想象一个能体现 velocity 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -3904,7 +3904,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "compression 的核心记忆点是：the act of pressing together or reducing size",
-      "visual_scene": "A simple scene showing the idea of compression.",
+      "visual_scene": "Compression reduces file size.",
       "visual_scene_cn": "想象一个能体现 compression 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4060,7 +4060,7 @@
     },
     "memory_anchor": {
       "one_sentence": "patrol 的核心记忆点是：to move around an area to guard or inspect it",
-      "visual_scene": "A simple scene showing the idea of patrol.",
+      "visual_scene": "Soldiers patrol the border.",
       "visual_scene_cn": "想象一个能体现 patrol 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4161,7 +4161,7 @@
     },
     "memory_anchor": {
       "one_sentence": "circulation 的核心记忆点是：movement around a system; distribution",
-      "visual_scene": "A simple scene showing the idea of circulation.",
+      "visual_scene": "Exercise improves blood circulation.",
       "visual_scene_cn": "想象一个能体现 circulation 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4304,7 +4304,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "scholarship 的核心记忆点是：money for study; academic learning",
-      "visual_scene": "A simple scene showing the idea of scholarship.",
+      "visual_scene": "She won a scholarship to college.",
       "visual_scene_cn": "想象一个能体现 scholarship 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4460,7 +4460,7 @@
     },
     "memory_anchor": {
       "one_sentence": "cruise 的核心记忆点是：to travel steadily, especially by ship or vehicle",
-      "visual_scene": "A simple scene showing the idea of cruise.",
+      "visual_scene": "They went on a cruise.",
       "visual_scene_cn": "想象一个能体现 cruise 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4603,7 +4603,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "option 的核心记忆点是：a choice or possibility",
-      "visual_scene": "A simple scene showing the idea of option.",
+      "visual_scene": "We have several options.",
       "visual_scene_cn": "想象一个能体现 option 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4678,7 +4678,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "cigar 的核心记忆点是：a roll of tobacco leaves for smoking",
-      "visual_scene": "A simple scene showing the idea of cigar.",
+      "visual_scene": "He lit a cigar.",
       "visual_scene_cn": "想象一个能体现 cigar 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4817,7 +4817,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "cock 的核心记忆点是：a male chicken; to raise or tilt something",
-      "visual_scene": "A simple scene showing the idea of cock.",
+      "visual_scene": "The bird cocked its head.",
       "visual_scene_cn": "想象一个能体现 cock 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -4975,7 +4975,7 @@
     },
     "memory_anchor": {
       "one_sentence": "quest 的核心记忆点是：a long search for something important",
-      "visual_scene": "A simple scene showing the idea of quest.",
+      "visual_scene": "They began a quest for treasure.",
       "visual_scene_cn": "想象一个能体现 quest 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5135,7 +5135,7 @@
     },
     "memory_anchor": {
       "one_sentence": "melody 的核心记忆点是：a sequence of musical notes that is pleasant or memorable",
-      "visual_scene": "A simple scene showing the idea of melody.",
+      "visual_scene": "The song has a simple melody.",
       "visual_scene_cn": "想象一个能体现 melody 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5297,7 +5297,7 @@
     },
     "memory_anchor": {
       "one_sentence": "radiant 的核心记忆点是：shining brightly; showing happiness or energy",
-      "visual_scene": "A simple scene showing the idea of radiant.",
+      "visual_scene": "She had a radiant smile.",
       "visual_scene_cn": "想象一个能体现 radiant 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5458,7 +5458,7 @@
     },
     "memory_anchor": {
       "one_sentence": "gorgeous 的核心记忆点是：very beautiful or attractive",
-      "visual_scene": "A simple scene showing the idea of gorgeous.",
+      "visual_scene": "The sunset was gorgeous.",
       "visual_scene_cn": "想象一个能体现 gorgeous 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5540,7 +5540,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "overhang 的核心记忆点是：to stick out over something; a projecting part",
-      "visual_scene": "A simple scene showing the idea of overhang.",
+      "visual_scene": "The roof overhangs the entrance.",
       "visual_scene_cn": "想象一个能体现 overhang 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5616,7 +5616,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "narration 的核心记忆点是：the act of telling a story or describing events",
-      "visual_scene": "A simple scene showing the idea of narration.",
+      "visual_scene": "The narration explains the story.",
       "visual_scene_cn": "想象一个能体现 narration 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5771,7 +5771,7 @@
     },
     "memory_anchor": {
       "one_sentence": "propaganda 的核心记忆点是：information spread to influence people's opinions",
-      "visual_scene": "A simple scene showing the idea of propaganda.",
+      "visual_scene": "The poster was used as propaganda.",
       "visual_scene_cn": "想象一个能体现 propaganda 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -5855,7 +5855,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "warrant 的核心记忆点是：an official order; justification for action",
-      "visual_scene": "A simple scene showing the idea of warrant.",
+      "visual_scene": "The police obtained a warrant.",
       "visual_scene_cn": "想象一个能体现 warrant 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6013,7 +6013,7 @@
     },
     "memory_anchor": {
       "one_sentence": "console 的核心记忆点是：to comfort someone; a control panel or game system",
-      "visual_scene": "A simple scene showing the idea of console.",
+      "visual_scene": "She tried to console her friend.",
       "visual_scene_cn": "想象一个能体现 console 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6144,7 +6144,7 @@
     },
     "memory_anchor": {
       "one_sentence": "declaration 的核心记忆点是：a formal or official statement",
-      "visual_scene": "A simple scene showing the idea of declaration.",
+      "visual_scene": "The leader made a declaration.",
       "visual_scene_cn": "想象一个能体现 declaration 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6288,7 +6288,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "sequence 的核心记忆点是：an ordered series of things or events",
-      "visual_scene": "A simple scene showing the idea of sequence.",
+      "visual_scene": "The sequence of events is unclear.",
       "visual_scene_cn": "想象一个能体现 sequence 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6414,7 +6414,7 @@
     },
     "memory_anchor": {
       "one_sentence": "nun 的核心记忆点是：a woman who belongs to a religious community",
-      "visual_scene": "A simple scene showing the idea of nun.",
+      "visual_scene": "The nun lived in a convent.",
       "visual_scene_cn": "想象一个能体现 nun 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6514,7 +6514,7 @@
     },
     "memory_anchor": {
       "one_sentence": "embroidery 的核心记忆点是：decorative sewing on cloth",
-      "visual_scene": "A simple scene showing the idea of embroidery.",
+      "visual_scene": "The dress has beautiful embroidery.",
       "visual_scene_cn": "想象一个能体现 embroidery 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6614,7 +6614,7 @@
     },
     "memory_anchor": {
       "one_sentence": "eloquence 的核心记忆点是：fluent, powerful, and persuasive speaking",
-      "visual_scene": "A simple scene showing the idea of eloquence.",
+      "visual_scene": "He spoke with great eloquence.",
       "visual_scene_cn": "想象一个能体现 eloquence 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6696,7 +6696,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "requisite 的核心记忆点是：necessary for a particular purpose",
-      "visual_scene": "A simple scene showing the idea of requisite.",
+      "visual_scene": "She lacks the requisite experience.",
       "visual_scene_cn": "想象一个能体现 requisite 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6821,7 +6821,7 @@
     },
     "memory_anchor": {
       "one_sentence": "pacific 的核心记忆点是：peaceful or calm",
-      "visual_scene": "A simple scene showing the idea of pacific.",
+      "visual_scene": "His pacific attitude helped solve the conflict.",
       "visual_scene_cn": "想象一个能体现 pacific 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -6980,7 +6980,7 @@
     },
     "memory_anchor": {
       "one_sentence": "survival 的核心记忆点是：the state of continuing to live or exist",
-      "visual_scene": "A simple scene showing the idea of survival.",
+      "visual_scene": "Water is necessary for survival.",
       "visual_scene_cn": "想象一个能体现 survival 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7125,7 +7125,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "flush 的核心记忆点是：to wash out with water; become red; level with a surface",
-      "visual_scene": "A simple scene showing the idea of flush.",
+      "visual_scene": "He flushed with embarrassment.",
       "visual_scene_cn": "想象一个能体现 flush 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7283,7 +7283,7 @@
     },
     "memory_anchor": {
       "one_sentence": "wind 的核心记忆点是：moving air; to turn or twist around something",
-      "visual_scene": "A simple scene showing the idea of wind.",
+      "visual_scene": "The road winds through the hills.",
       "visual_scene_cn": "想象一个能体现 wind 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7423,7 +7423,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "formal 的核心记忆点是：official, serious, or following rules",
-      "visual_scene": "A simple scene showing the idea of formal.",
+      "visual_scene": "They attended a formal meeting.",
       "visual_scene_cn": "想象一个能体现 formal 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7531,7 +7531,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "directory 的核心记忆点是：a list of names or files; a folder in computing",
-      "visual_scene": "A simple scene showing the idea of directory.",
+      "visual_scene": "The file is saved in this directory.",
       "visual_scene_cn": "想象一个能体现 directory 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7628,7 +7628,7 @@
     },
     "memory_anchor": {
       "one_sentence": "constituent 的核心记忆点是：a part of a whole; a voter represented by an official",
-      "visual_scene": "A simple scene showing the idea of constituent.",
+      "visual_scene": "Water's constituent elements are hydrogen and oxygen.",
       "visual_scene_cn": "想象一个能体现 constituent 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7710,7 +7710,7 @@
     "theme_association": null,
     "memory_anchor": {
       "one_sentence": "scarlet 的核心记忆点是：bright red color",
-      "visual_scene": "A simple scene showing the idea of scarlet.",
+      "visual_scene": "She wore a scarlet dress.",
       "visual_scene_cn": "想象一个能体现 scarlet 核心含义的画面。",
       "emotion_tags": [
         "core",
@@ -7836,7 +7836,7 @@
     },
     "memory_anchor": {
       "one_sentence": "regenerative 的核心记忆点是：able to grow again, renew, or restore",
-      "visual_scene": "A simple scene showing the idea of regenerative.",
+      "visual_scene": "Regenerative medicine aims to repair damaged tissue.",
       "visual_scene_cn": "想象一个能体现 regenerative 核心含义的画面。",
       "emotion_tags": [
         "core",
