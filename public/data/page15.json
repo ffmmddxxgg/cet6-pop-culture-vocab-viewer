@@ -25,7 +25,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "masculine",
+        "relation": "headword / core form",
+        "meaning": "relating to men or traditionally male qualities; grammatical masculine gender",
+        "meaning_cn": "男性的；阳性的；男子气概的"
+      },
+      {
+        "word": "mascul",
+        "relation": "root / base form",
+        "meaning": "core form connected with masculine",
+        "meaning_cn": "和 masculine 有关的核心词根/基础形式"
+      },
+      {
+        "word": "masculine voice",
+        "relation": "common collocation",
+        "meaning": "a common phrase using masculine",
+        "meaning_cn": "常见搭配：masculine voice"
+      },
+      {
+        "word": "masculines",
+        "relation": "plural form",
+        "meaning": "more than one masculine",
+        "meaning_cn": "masculine 的复数形式"
+      },
+      {
+        "word": "masculinely",
+        "relation": "adverb form",
+        "meaning": "in a masculine way",
+        "meaning_cn": "以 masculine 的方式"
+      },
+      {
+        "word": "He has a deep masculine voice.",
+        "relation": "example usage",
+        "meaning": "sentence showing masculine in context",
+        "meaning_cn": "他有低沉的男性嗓音。"
+      }
+    ],
     "common_collocations": [
       "masculine voice"
     ],
@@ -186,7 +223,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "endurance",
+        "relation": "headword / core form",
+        "meaning": "the ability to continue despite difficulty, pain, or fatigue",
+        "meaning_cn": "耐力；忍耐力；持久力"
+      },
+      {
+        "word": "endure",
+        "relation": "root / base form",
+        "meaning": "core form connected with endurance",
+        "meaning_cn": "和 endurance 有关的核心词根/基础形式"
+      },
+      {
+        "word": "physical endurance",
+        "relation": "common collocation",
+        "meaning": "a common phrase using endurance",
+        "meaning_cn": "常见搭配：physical endurance"
+      },
+      {
+        "word": "endurances",
+        "relation": "plural form",
+        "meaning": "more than one endurance",
+        "meaning_cn": "endurance 的复数形式"
+      },
+      {
+        "word": "Long-distance running requires endurance.",
+        "relation": "example usage",
+        "meaning": "sentence showing endurance in context",
+        "meaning_cn": "长跑需要耐力。"
+      }
+    ],
     "common_collocations": [
       "physical endurance"
     ],
@@ -317,7 +385,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "baron",
+        "relation": "headword / core form",
+        "meaning": "a low-ranking nobleman; a powerful person in business",
+        "meaning_cn": "男爵；巨头"
+      },
+      {
+        "word": "oil baron",
+        "relation": "common collocation",
+        "meaning": "a common phrase using baron",
+        "meaning_cn": "常见搭配：oil baron"
+      },
+      {
+        "word": "barons",
+        "relation": "plural form",
+        "meaning": "more than one baron",
+        "meaning_cn": "baron 的复数形式"
+      },
+      {
+        "word": "The baron owned a large estate.",
+        "relation": "example usage",
+        "meaning": "sentence showing baron in context",
+        "meaning_cn": "男爵拥有一大片庄园。"
+      }
+    ],
     "common_collocations": [
       "oil baron"
     ],
@@ -479,7 +572,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "intent",
+        "relation": "headword / core form",
+        "meaning": "purpose or aim; strongly focused on something",
+        "meaning_cn": "意图；目的；专注的"
+      },
+      {
+        "word": "intend",
+        "relation": "root / base form",
+        "meaning": "core form connected with intent",
+        "meaning_cn": "和 intent 有关的核心词根/基础形式"
+      },
+      {
+        "word": "with intent",
+        "relation": "common collocation",
+        "meaning": "a common phrase using intent",
+        "meaning_cn": "常见搭配：with intent"
+      },
+      {
+        "word": "intents",
+        "relation": "plural form",
+        "meaning": "more than one intent",
+        "meaning_cn": "intent 的复数形式"
+      },
+      {
+        "word": "intently",
+        "relation": "adverb form",
+        "meaning": "in an intent way",
+        "meaning_cn": "以 intent 的方式"
+      },
+      {
+        "word": "She listened with intent attention.",
+        "relation": "example usage",
+        "meaning": "sentence showing intent in context",
+        "meaning_cn": "她专注地听着。"
+      }
+    ],
     "common_collocations": [
       "with intent"
     ],
@@ -640,7 +770,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "pasture",
+        "relation": "headword / core form",
+        "meaning": "land covered with grass for animals to feed on",
+        "meaning_cn": "牧场；草地；放牧"
+      },
+      {
+        "word": "past",
+        "relation": "root / base form",
+        "meaning": "core form connected with pasture",
+        "meaning_cn": "和 pasture 有关的核心词根/基础形式"
+      },
+      {
+        "word": "green pasture",
+        "relation": "common collocation",
+        "meaning": "a common phrase using pasture",
+        "meaning_cn": "常见搭配：green pasture"
+      },
+      {
+        "word": "pasturing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of pasture",
+        "meaning_cn": "pasture 的现在分词/动名词形式"
+      },
+      {
+        "word": "pastured",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of pasture",
+        "meaning_cn": "pasture 的过去式或过去分词形式"
+      },
+      {
+        "word": "pastures",
+        "relation": "plural form",
+        "meaning": "more than one pasture",
+        "meaning_cn": "pasture 的复数形式"
+      }
+    ],
     "common_collocations": [
       "green pasture"
     ],
@@ -739,7 +906,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "sodium",
+        "relation": "headword / core form",
+        "meaning": "a soft silver chemical element, common in salt",
+        "meaning_cn": "钠"
+      },
+      {
+        "word": "sodium chloride",
+        "relation": "common collocation",
+        "meaning": "a common phrase using sodium",
+        "meaning_cn": "常见搭配：sodium chloride"
+      },
+      {
+        "word": "sodiums",
+        "relation": "plural form",
+        "meaning": "more than one sodium",
+        "meaning_cn": "sodium 的复数形式"
+      },
+      {
+        "word": "Table salt contains sodium chloride.",
+        "relation": "example usage",
+        "meaning": "sentence showing sodium in context",
+        "meaning_cn": "食盐含有氯化钠。"
+      }
+    ],
     "common_collocations": [
       "sodium chloride"
     ],
@@ -871,7 +1063,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "end",
+        "relation": "headword / core form",
+        "meaning": "the final part of something; to finish",
+        "meaning_cn": "结束；末端；终止"
+      },
+      {
+        "word": "at the end",
+        "relation": "common collocation",
+        "meaning": "a common phrase using end",
+        "meaning_cn": "常见搭配：at the end"
+      },
+      {
+        "word": "ending",
+        "relation": "-ing form",
+        "meaning": "ongoing action of end",
+        "meaning_cn": "end 的现在分词/动名词形式"
+      },
+      {
+        "word": "ended",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of end",
+        "meaning_cn": "end 的过去式或过去分词形式"
+      },
+      {
+        "word": "ends",
+        "relation": "plural form",
+        "meaning": "more than one end",
+        "meaning_cn": "end 的复数形式"
+      },
+      {
+        "word": "The story has a happy end.",
+        "relation": "example usage",
+        "meaning": "sentence showing end in context",
+        "meaning_cn": "这个故事有一个幸福的结局。"
+      }
+    ],
     "common_collocations": [
       "at the end"
     ],
@@ -1006,7 +1235,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "oyster",
+        "relation": "headword / core form",
+        "meaning": "a shellfish that can be eaten and sometimes produces pearls",
+        "meaning_cn": "牡蛎；蚝"
+      },
+      {
+        "word": "oyster shell",
+        "relation": "common collocation",
+        "meaning": "a common phrase using oyster",
+        "meaning_cn": "常见搭配：oyster shell"
+      },
+      {
+        "word": "oysters",
+        "relation": "plural form",
+        "meaning": "more than one oyster",
+        "meaning_cn": "oyster 的复数形式"
+      },
+      {
+        "word": "They ate fresh oysters by the sea.",
+        "relation": "example usage",
+        "meaning": "sentence showing oyster in context",
+        "meaning_cn": "他们在海边吃了新鲜牡蛎。"
+      }
+    ],
     "common_collocations": [
       "oyster shell"
     ],
@@ -1105,7 +1359,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "skyscraper",
+        "relation": "headword / core form",
+        "meaning": "a very tall modern building",
+        "meaning_cn": "摩天大楼"
+      },
+      {
+        "word": "sky + scrape",
+        "relation": "compound root",
+        "meaning": "parts that build the meaning of skyscraper",
+        "meaning_cn": "构成 skyscraper 词义的组合部分"
+      },
+      {
+        "word": "modern skyscraper",
+        "relation": "common collocation",
+        "meaning": "a common phrase using skyscraper",
+        "meaning_cn": "常见搭配：modern skyscraper"
+      },
+      {
+        "word": "skyscrapers",
+        "relation": "plural form",
+        "meaning": "more than one skyscraper",
+        "meaning_cn": "skyscraper 的复数形式"
+      },
+      {
+        "word": "The city is full of skyscrapers.",
+        "relation": "example usage",
+        "meaning": "sentence showing skyscraper in context",
+        "meaning_cn": "这座城市到处都是摩天大楼。"
+      }
+    ],
     "common_collocations": [
       "modern skyscraper"
     ],
@@ -1266,7 +1551,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "magician",
+        "relation": "headword / core form",
+        "meaning": "a person who performs magic tricks",
+        "meaning_cn": "魔术师；巫师"
+      },
+      {
+        "word": "magic",
+        "relation": "root / base form",
+        "meaning": "core form connected with magician",
+        "meaning_cn": "和 magician 有关的核心词根/基础形式"
+      },
+      {
+        "word": "stage magician",
+        "relation": "common collocation",
+        "meaning": "a common phrase using magician",
+        "meaning_cn": "常见搭配：stage magician"
+      },
+      {
+        "word": "magicians",
+        "relation": "plural form",
+        "meaning": "more than one magician",
+        "meaning_cn": "magician 的复数形式"
+      },
+      {
+        "word": "The magician pulled a rabbit from a hat.",
+        "relation": "example usage",
+        "meaning": "sentence showing magician in context",
+        "meaning_cn": "魔术师从帽子里变出一只兔子。"
+      }
+    ],
     "common_collocations": [
       "stage magician"
     ],
@@ -1426,7 +1742,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "module",
+        "relation": "headword / core form",
+        "meaning": "a separate unit that can be combined with others in a system",
+        "meaning_cn": "模块；组件；舱"
+      },
+      {
+        "word": "mod",
+        "relation": "root / base form",
+        "meaning": "core form connected with module",
+        "meaning_cn": "和 module 有关的核心词根/基础形式"
+      },
+      {
+        "word": "software module",
+        "relation": "common collocation",
+        "meaning": "a common phrase using module",
+        "meaning_cn": "常见搭配：software module"
+      },
+      {
+        "word": "modules",
+        "relation": "plural form",
+        "meaning": "more than one module",
+        "meaning_cn": "module 的复数形式"
+      },
+      {
+        "word": "This software module controls login.",
+        "relation": "example usage",
+        "meaning": "sentence showing module in context",
+        "meaning_cn": "这个软件模块控制登录。"
+      }
+    ],
     "common_collocations": [
       "software module"
     ],
@@ -1529,7 +1876,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "feel",
+        "relation": "headword / core form",
+        "meaning": "to experience a sensation or emotion; to touch",
+        "meaning_cn": "感觉；触摸；觉得；手感"
+      },
+      {
+        "word": "feel tired",
+        "relation": "common collocation",
+        "meaning": "a common phrase using feel",
+        "meaning_cn": "常见搭配：feel tired"
+      },
+      {
+        "word": "feeling",
+        "relation": "-ing form",
+        "meaning": "ongoing action of feel",
+        "meaning_cn": "feel 的现在分词/动名词形式"
+      },
+      {
+        "word": "feeled",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of feel",
+        "meaning_cn": "feel 的过去式或过去分词形式"
+      },
+      {
+        "word": "feels",
+        "relation": "plural form",
+        "meaning": "more than one feel",
+        "meaning_cn": "feel 的复数形式"
+      },
+      {
+        "word": "I feel tired today.",
+        "relation": "example usage",
+        "meaning": "sentence showing feel in context",
+        "meaning_cn": "我今天感到疲惫。"
+      }
+    ],
     "common_collocations": [
       "feel tired"
     ],
@@ -1664,7 +2048,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "ambiguous",
+        "relation": "headword / core form",
+        "meaning": "having more than one possible meaning; unclear",
+        "meaning_cn": "模棱两可的；含糊的"
+      },
+      {
+        "word": "ambi + ag",
+        "relation": "compound root",
+        "meaning": "parts that build the meaning of ambiguous",
+        "meaning_cn": "构成 ambiguous 词义的组合部分"
+      },
+      {
+        "word": "ambiguous sentence",
+        "relation": "common collocation",
+        "meaning": "a common phrase using ambiguous",
+        "meaning_cn": "常见搭配：ambiguous sentence"
+      },
+      {
+        "word": "ambiguously",
+        "relation": "adverb form",
+        "meaning": "in an ambiguous way",
+        "meaning_cn": "以 ambiguous 的方式"
+      },
+      {
+        "word": "The instruction was ambiguous.",
+        "relation": "example usage",
+        "meaning": "sentence showing ambiguous in context",
+        "meaning_cn": "这个指令很含糊。"
+      }
+    ],
     "common_collocations": [
       "ambiguous sentence"
     ],
@@ -1764,7 +2179,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "destiny",
+        "relation": "headword / core form",
+        "meaning": "the future believed to be fixed or meant to happen",
+        "meaning_cn": "命运；天命"
+      },
+      {
+        "word": "destine",
+        "relation": "root / base form",
+        "meaning": "core form connected with destiny",
+        "meaning_cn": "和 destiny 有关的核心词根/基础形式"
+      },
+      {
+        "word": "meet one's destiny",
+        "relation": "common collocation",
+        "meaning": "a common phrase using destiny",
+        "meaning_cn": "常见搭配：meet one's destiny"
+      },
+      {
+        "word": "destinies",
+        "relation": "plural form",
+        "meaning": "more than one destiny",
+        "meaning_cn": "destiny 的复数形式"
+      },
+      {
+        "word": "He believed it was his destiny.",
+        "relation": "example usage",
+        "meaning": "sentence showing destiny in context",
+        "meaning_cn": "他相信这是他的命运。"
+      }
+    ],
     "common_collocations": [
       "meet one's destiny"
     ],
@@ -1927,7 +2373,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "doom",
+        "relation": "headword / core form",
+        "meaning": "terrible fate or destruction; to make failure certain",
+        "meaning_cn": "厄运；毁灭；注定失败"
+      },
+      {
+        "word": "doom and gloom",
+        "relation": "common collocation",
+        "meaning": "a common phrase using doom",
+        "meaning_cn": "常见搭配：doom and gloom"
+      },
+      {
+        "word": "dooming",
+        "relation": "-ing form",
+        "meaning": "ongoing action of doom",
+        "meaning_cn": "doom 的现在分词/动名词形式"
+      },
+      {
+        "word": "doomed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of doom",
+        "meaning_cn": "doom 的过去式或过去分词形式"
+      },
+      {
+        "word": "dooms",
+        "relation": "plural form",
+        "meaning": "more than one doom",
+        "meaning_cn": "doom 的复数形式"
+      },
+      {
+        "word": "The decision doomed the project.",
+        "relation": "example usage",
+        "meaning": "sentence showing doom in context",
+        "meaning_cn": "这个决定使项目注定失败。"
+      }
+    ],
     "common_collocations": [
       "doom and gloom"
     ],
@@ -2089,7 +2572,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "proposition",
+        "relation": "headword / core form",
+        "meaning": "a statement, proposal, or idea for consideration",
+        "meaning_cn": "命题；提议；主张"
+      },
+      {
+        "word": "posit",
+        "relation": "root / base form",
+        "meaning": "core form connected with proposition",
+        "meaning_cn": "和 proposition 有关的核心词根/基础形式"
+      },
+      {
+        "word": "basic proposition",
+        "relation": "common collocation",
+        "meaning": "a common phrase using proposition",
+        "meaning_cn": "常见搭配：basic proposition"
+      },
+      {
+        "word": "propositions",
+        "relation": "plural form",
+        "meaning": "more than one proposition",
+        "meaning_cn": "proposition 的复数形式"
+      },
+      {
+        "word": "The theory is based on a simple proposition.",
+        "relation": "example usage",
+        "meaning": "sentence showing proposition in context",
+        "meaning_cn": "这个理论基于一个简单命题。"
+      }
+    ],
     "common_collocations": [
       "basic proposition"
     ],
@@ -2167,7 +2681,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "bid",
+        "relation": "headword / core form",
+        "meaning": "an offer of money; an attempt to obtain something",
+        "meaning_cn": "出价；投标；努力争取"
+      },
+      {
+        "word": "make a bid",
+        "relation": "common collocation",
+        "meaning": "a common phrase using bid",
+        "meaning_cn": "常见搭配：make a bid"
+      },
+      {
+        "word": "biding",
+        "relation": "-ing form",
+        "meaning": "ongoing action of bid",
+        "meaning_cn": "bid 的现在分词/动名词形式"
+      },
+      {
+        "word": "bided",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of bid",
+        "meaning_cn": "bid 的过去式或过去分词形式"
+      },
+      {
+        "word": "bids",
+        "relation": "plural form",
+        "meaning": "more than one bid",
+        "meaning_cn": "bid 的复数形式"
+      },
+      {
+        "word": "The company made a bid for the contract.",
+        "relation": "example usage",
+        "meaning": "sentence showing bid in context",
+        "meaning_cn": "公司投标争取合同。"
+      }
+    ],
     "common_collocations": [
       "make a bid"
     ],
@@ -2298,7 +2849,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "decidedly",
+        "relation": "headword / core form",
+        "meaning": "clearly and definitely",
+        "meaning_cn": "明确地；显然；果断地"
+      },
+      {
+        "word": "decide",
+        "relation": "root / base form",
+        "meaning": "core form connected with decidedly",
+        "meaning_cn": "和 decidedly 有关的核心词根/基础形式"
+      },
+      {
+        "word": "decidedly different",
+        "relation": "common collocation",
+        "meaning": "a common phrase using decidedly",
+        "meaning_cn": "常见搭配：decidedly different"
+      },
+      {
+        "word": "decided",
+        "relation": "adjective base",
+        "meaning": "adjective form behind decidedly",
+        "meaning_cn": "decidedly 对应的形容词基础"
+      },
+      {
+        "word": "The two versions are decidedly different.",
+        "relation": "example usage",
+        "meaning": "sentence showing decidedly in context",
+        "meaning_cn": "这两个版本明显不同。"
+      }
+    ],
     "common_collocations": [
       "decidedly different"
     ],
@@ -2375,7 +2957,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "destine",
+        "relation": "headword / core form",
+        "meaning": "to intend or determine for a particular fate or purpose",
+        "meaning_cn": "命定；预定；注定"
+      },
+      {
+        "word": "destin",
+        "relation": "root / base form",
+        "meaning": "core form connected with destine",
+        "meaning_cn": "和 destine 有关的核心词根/基础形式"
+      },
+      {
+        "word": "be destined for",
+        "relation": "common collocation",
+        "meaning": "a common phrase using destine",
+        "meaning_cn": "常见搭配：be destined for"
+      },
+      {
+        "word": "destining",
+        "relation": "-ing form",
+        "meaning": "ongoing action of destine",
+        "meaning_cn": "destine 的现在分词/动名词形式"
+      },
+      {
+        "word": "destined",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of destine",
+        "meaning_cn": "destine 的过去式或过去分词形式"
+      },
+      {
+        "word": "She seemed destined for success.",
+        "relation": "example usage",
+        "meaning": "sentence showing destine in context",
+        "meaning_cn": "她似乎注定会成功。"
+      }
+    ],
     "common_collocations": [
       "be destined for"
     ],
@@ -2452,7 +3071,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "formulation",
+        "relation": "headword / core form",
+        "meaning": "the process or result of forming a plan, statement, or mixture",
+        "meaning_cn": "制定；表述；配方"
+      },
+      {
+        "word": "formula",
+        "relation": "root / base form",
+        "meaning": "core form connected with formulation",
+        "meaning_cn": "和 formulation 有关的核心词根/基础形式"
+      },
+      {
+        "word": "policy formulation",
+        "relation": "common collocation",
+        "meaning": "a common phrase using formulation",
+        "meaning_cn": "常见搭配：policy formulation"
+      },
+      {
+        "word": "formulations",
+        "relation": "plural form",
+        "meaning": "more than one formulation",
+        "meaning_cn": "formulation 的复数形式"
+      },
+      {
+        "word": "The formulation of the policy took months.",
+        "relation": "example usage",
+        "meaning": "sentence showing formulation in context",
+        "meaning_cn": "政策制定花了几个月。"
+      }
+    ],
     "common_collocations": [
       "policy formulation"
     ],
@@ -2529,7 +3179,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "explicit",
+        "relation": "headword / core form",
+        "meaning": "stated clearly and directly",
+        "meaning_cn": "明确的；直白的；详尽的"
+      },
+      {
+        "word": "plic",
+        "relation": "root / base form",
+        "meaning": "core form connected with explicit",
+        "meaning_cn": "和 explicit 有关的核心词根/基础形式"
+      },
+      {
+        "word": "explicit instruction",
+        "relation": "common collocation",
+        "meaning": "a common phrase using explicit",
+        "meaning_cn": "常见搭配：explicit instruction"
+      },
+      {
+        "word": "explicitly",
+        "relation": "adverb form",
+        "meaning": "in an explicit way",
+        "meaning_cn": "以 explicit 的方式"
+      },
+      {
+        "word": "The teacher gave explicit instructions.",
+        "relation": "example usage",
+        "meaning": "sentence showing explicit in context",
+        "meaning_cn": "老师给出了明确指示。"
+      }
+    ],
     "common_collocations": [
       "explicit instruction"
     ],
@@ -2631,7 +3312,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "classic",
+        "relation": "headword / core form",
+        "meaning": "judged high-quality over time; typical of its kind",
+        "meaning_cn": "经典的；典型的；经典作品"
+      },
+      {
+        "word": "class",
+        "relation": "root / base form",
+        "meaning": "core form connected with classic",
+        "meaning_cn": "和 classic 有关的核心词根/基础形式"
+      },
+      {
+        "word": "classic novel",
+        "relation": "common collocation",
+        "meaning": "a common phrase using classic",
+        "meaning_cn": "常见搭配：classic novel"
+      },
+      {
+        "word": "classics",
+        "relation": "plural form",
+        "meaning": "more than one classic",
+        "meaning_cn": "classic 的复数形式"
+      },
+      {
+        "word": "classically",
+        "relation": "adverb form",
+        "meaning": "in a classic way",
+        "meaning_cn": "以 classic 的方式"
+      },
+      {
+        "word": "This is a classic example.",
+        "relation": "example usage",
+        "meaning": "sentence showing classic in context",
+        "meaning_cn": "这是一个典型例子。"
+      }
+    ],
     "common_collocations": [
       "classic novel"
     ],
@@ -2769,7 +3487,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "sensible",
+        "relation": "headword / core form",
+        "meaning": "practical and reasonable; able to be sensed",
+        "meaning_cn": "明智的；合理的；能感觉到的"
+      },
+      {
+        "word": "sense",
+        "relation": "root / base form",
+        "meaning": "core form connected with sensible",
+        "meaning_cn": "和 sensible 有关的核心词根/基础形式"
+      },
+      {
+        "word": "sensible decision",
+        "relation": "common collocation",
+        "meaning": "a common phrase using sensible",
+        "meaning_cn": "常见搭配：sensible decision"
+      },
+      {
+        "word": "sensibly",
+        "relation": "adverb form",
+        "meaning": "in a sensible way",
+        "meaning_cn": "以 sensible 的方式"
+      },
+      {
+        "word": "It was a sensible decision.",
+        "relation": "example usage",
+        "meaning": "sentence showing sensible in context",
+        "meaning_cn": "这是一个明智的决定。"
+      }
+    ],
     "common_collocations": [
       "sensible decision"
     ],
@@ -2845,7 +3594,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "promptly",
+        "relation": "headword / core form",
+        "meaning": "quickly and without delay",
+        "meaning_cn": "迅速地；准时地"
+      },
+      {
+        "word": "prompt",
+        "relation": "root / base form",
+        "meaning": "core form connected with promptly",
+        "meaning_cn": "和 promptly 有关的核心词根/基础形式"
+      },
+      {
+        "word": "respond promptly",
+        "relation": "common collocation",
+        "meaning": "a common phrase using promptly",
+        "meaning_cn": "常见搭配：respond promptly"
+      },
+      {
+        "word": "Please reply promptly.",
+        "relation": "example usage",
+        "meaning": "sentence showing promptly in context",
+        "meaning_cn": "请尽快回复。"
+      }
+    ],
     "common_collocations": [
       "respond promptly"
     ],
@@ -2982,7 +3756,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "brightness",
+        "relation": "headword / core form",
+        "meaning": "the quality of giving or reflecting light; vividness",
+        "meaning_cn": "明亮；亮度；聪明"
+      },
+      {
+        "word": "bright",
+        "relation": "root / base form",
+        "meaning": "core form connected with brightness",
+        "meaning_cn": "和 brightness 有关的核心词根/基础形式"
+      },
+      {
+        "word": "screen brightness",
+        "relation": "common collocation",
+        "meaning": "a common phrase using brightness",
+        "meaning_cn": "常见搭配：screen brightness"
+      },
+      {
+        "word": "brightnesses",
+        "relation": "plural form",
+        "meaning": "more than one brightness",
+        "meaning_cn": "brightness 的复数形式"
+      },
+      {
+        "word": "Adjust the screen brightness.",
+        "relation": "example usage",
+        "meaning": "sentence showing brightness in context",
+        "meaning_cn": "调整屏幕亮度。"
+      }
+    ],
     "common_collocations": [
       "screen brightness"
     ],
@@ -3083,7 +3888,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "deposition",
+        "relation": "headword / core form",
+        "meaning": "the process of depositing; formal testimony; removal from office",
+        "meaning_cn": "沉积；证词；罢免"
+      },
+      {
+        "word": "posit",
+        "relation": "root / base form",
+        "meaning": "core form connected with deposition",
+        "meaning_cn": "和 deposition 有关的核心词根/基础形式"
+      },
+      {
+        "word": "sediment deposition",
+        "relation": "common collocation",
+        "meaning": "a common phrase using deposition",
+        "meaning_cn": "常见搭配：sediment deposition"
+      },
+      {
+        "word": "depositions",
+        "relation": "plural form",
+        "meaning": "more than one deposition",
+        "meaning_cn": "deposition 的复数形式"
+      },
+      {
+        "word": "Deposition formed layers of rock.",
+        "relation": "example usage",
+        "meaning": "sentence showing deposition in context",
+        "meaning_cn": "沉积形成了岩层。"
+      }
+    ],
     "common_collocations": [
       "sediment deposition"
     ],
@@ -3160,7 +3996,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "sensitivity",
+        "relation": "headword / core form",
+        "meaning": "the quality of reacting strongly or noticing small changes",
+        "meaning_cn": "敏感性；灵敏度；体贴"
+      },
+      {
+        "word": "sense",
+        "relation": "root / base form",
+        "meaning": "core form connected with sensitivity",
+        "meaning_cn": "和 sensitivity 有关的核心词根/基础形式"
+      },
+      {
+        "word": "high sensitivity",
+        "relation": "common collocation",
+        "meaning": "a common phrase using sensitivity",
+        "meaning_cn": "常见搭配：high sensitivity"
+      },
+      {
+        "word": "sensitivities",
+        "relation": "plural form",
+        "meaning": "more than one sensitivity",
+        "meaning_cn": "sensitivity 的复数形式"
+      },
+      {
+        "word": "The instrument has high sensitivity.",
+        "relation": "example usage",
+        "meaning": "sentence showing sensitivity in context",
+        "meaning_cn": "这个仪器灵敏度很高。"
+      }
+    ],
     "common_collocations": [
       "high sensitivity"
     ],
@@ -3260,7 +4127,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "enchant",
+        "relation": "headword / core form",
+        "meaning": "to delight greatly or put under a magic spell",
+        "meaning_cn": "使着迷；施魔法"
+      },
+      {
+        "word": "chant",
+        "relation": "root / base form",
+        "meaning": "core form connected with enchant",
+        "meaning_cn": "和 enchant 有关的核心词根/基础形式"
+      },
+      {
+        "word": "enchant the audience",
+        "relation": "common collocation",
+        "meaning": "a common phrase using enchant",
+        "meaning_cn": "常见搭配：enchant the audience"
+      },
+      {
+        "word": "enchanting",
+        "relation": "-ing form",
+        "meaning": "ongoing action of enchant",
+        "meaning_cn": "enchant 的现在分词/动名词形式"
+      },
+      {
+        "word": "enchanted",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of enchant",
+        "meaning_cn": "enchant 的过去式或过去分词形式"
+      },
+      {
+        "word": "The music enchanted the audience.",
+        "relation": "example usage",
+        "meaning": "sentence showing enchant in context",
+        "meaning_cn": "音乐使观众着迷。"
+      }
+    ],
     "common_collocations": [
       "enchant the audience"
     ],
@@ -3391,7 +4295,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "representation",
+        "relation": "headword / core form",
+        "meaning": "the act of showing, describing, or speaking for someone",
+        "meaning_cn": "代表；表现；陈述"
+      },
+      {
+        "word": "present",
+        "relation": "root / base form",
+        "meaning": "core form connected with representation",
+        "meaning_cn": "和 representation 有关的核心词根/基础形式"
+      },
+      {
+        "word": "visual representation",
+        "relation": "common collocation",
+        "meaning": "a common phrase using representation",
+        "meaning_cn": "常见搭配：visual representation"
+      },
+      {
+        "word": "representations",
+        "relation": "plural form",
+        "meaning": "more than one representation",
+        "meaning_cn": "representation 的复数形式"
+      },
+      {
+        "word": "The chart is a visual representation of data.",
+        "relation": "example usage",
+        "meaning": "sentence showing representation in context",
+        "meaning_cn": "图表是数据的视觉表现。"
+      }
+    ],
     "common_collocations": [
       "visual representation"
     ],
@@ -3491,7 +4426,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "confidential",
+        "relation": "headword / core form",
+        "meaning": "intended to be kept secret",
+        "meaning_cn": "机密的；秘密的"
+      },
+      {
+        "word": "confide",
+        "relation": "root / base form",
+        "meaning": "core form connected with confidential",
+        "meaning_cn": "和 confidential 有关的核心词根/基础形式"
+      },
+      {
+        "word": "confidential information",
+        "relation": "common collocation",
+        "meaning": "a common phrase using confidential",
+        "meaning_cn": "常见搭配：confidential information"
+      },
+      {
+        "word": "confidentially",
+        "relation": "adverb form",
+        "meaning": "in a confidential way",
+        "meaning_cn": "以 confidential 的方式"
+      },
+      {
+        "word": "This file is confidential.",
+        "relation": "example usage",
+        "meaning": "sentence showing confidential in context",
+        "meaning_cn": "这个文件是机密的。"
+      }
+    ],
     "common_collocations": [
       "confidential information"
     ],
@@ -3592,7 +4558,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "nursery",
+        "relation": "headword / core form",
+        "meaning": "a place for young children or young plants",
+        "meaning_cn": "托儿所；苗圃；育儿室"
+      },
+      {
+        "word": "nurse",
+        "relation": "root / base form",
+        "meaning": "core form connected with nursery",
+        "meaning_cn": "和 nursery 有关的核心词根/基础形式"
+      },
+      {
+        "word": "plant nursery",
+        "relation": "common collocation",
+        "meaning": "a common phrase using nursery",
+        "meaning_cn": "常见搭配：plant nursery"
+      },
+      {
+        "word": "nurseries",
+        "relation": "plural form",
+        "meaning": "more than one nursery",
+        "meaning_cn": "nursery 的复数形式"
+      },
+      {
+        "word": "The child goes to nursery every morning.",
+        "relation": "example usage",
+        "meaning": "sentence showing nursery in context",
+        "meaning_cn": "孩子每天早上去托儿所。"
+      }
+    ],
     "common_collocations": [
       "plant nursery"
     ],
@@ -3753,7 +4750,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "fascinate",
+        "relation": "headword / core form",
+        "meaning": "to attract and hold attention strongly",
+        "meaning_cn": "使着迷；深深吸引"
+      },
+      {
+        "word": "fascin",
+        "relation": "root / base form",
+        "meaning": "core form connected with fascinate",
+        "meaning_cn": "和 fascinate 有关的核心词根/基础形式"
+      },
+      {
+        "word": "fascinate someone",
+        "relation": "common collocation",
+        "meaning": "a common phrase using fascinate",
+        "meaning_cn": "常见搭配：fascinate someone"
+      },
+      {
+        "word": "fascinating",
+        "relation": "-ing form",
+        "meaning": "ongoing action of fascinate",
+        "meaning_cn": "fascinate 的现在分词/动名词形式"
+      },
+      {
+        "word": "fascinated",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of fascinate",
+        "meaning_cn": "fascinate 的过去式或过去分词形式"
+      },
+      {
+        "word": "The story fascinated the children.",
+        "relation": "example usage",
+        "meaning": "sentence showing fascinate in context",
+        "meaning_cn": "这个故事使孩子们着迷。"
+      }
+    ],
     "common_collocations": [
       "fascinate someone"
     ],
@@ -3852,7 +4886,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "superstition",
+        "relation": "headword / core form",
+        "meaning": "a belief not based on reason, often about luck or magic",
+        "meaning_cn": "迷信"
+      },
+      {
+        "word": "super + stit",
+        "relation": "compound root",
+        "meaning": "parts that build the meaning of superstition",
+        "meaning_cn": "构成 superstition 词义的组合部分"
+      },
+      {
+        "word": "common superstition",
+        "relation": "common collocation",
+        "meaning": "a common phrase using superstition",
+        "meaning_cn": "常见搭配：common superstition"
+      },
+      {
+        "word": "superstitions",
+        "relation": "plural form",
+        "meaning": "more than one superstition",
+        "meaning_cn": "superstition 的复数形式"
+      },
+      {
+        "word": "Breaking a mirror is a superstition about bad luck.",
+        "relation": "example usage",
+        "meaning": "sentence showing superstition in context",
+        "meaning_cn": "打碎镜子会倒霉是一种迷信。"
+      }
+    ],
     "common_collocations": [
       "common superstition"
     ],
@@ -4012,7 +5077,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "perplex",
+        "relation": "headword / core form",
+        "meaning": "to confuse or puzzle someone",
+        "meaning_cn": "使困惑；使复杂化"
+      },
+      {
+        "word": "plex",
+        "relation": "root / base form",
+        "meaning": "core form connected with perplex",
+        "meaning_cn": "和 perplex 有关的核心词根/基础形式"
+      },
+      {
+        "word": "perplex the reader",
+        "relation": "common collocation",
+        "meaning": "a common phrase using perplex",
+        "meaning_cn": "常见搭配：perplex the reader"
+      },
+      {
+        "word": "perplexing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of perplex",
+        "meaning_cn": "perplex 的现在分词/动名词形式"
+      },
+      {
+        "word": "perplexed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of perplex",
+        "meaning_cn": "perplex 的过去式或过去分词形式"
+      },
+      {
+        "word": "The strange result perplexed scientists.",
+        "relation": "example usage",
+        "meaning": "sentence showing perplex in context",
+        "meaning_cn": "这个奇怪结果使科学家困惑。"
+      }
+    ],
     "common_collocations": [
       "perplex the reader"
     ],
@@ -4115,7 +5217,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "stray",
+        "relation": "headword / core form",
+        "meaning": "to wander away from the correct place or path",
+        "meaning_cn": "迷路；偏离；走失的"
+      },
+      {
+        "word": "stray dog",
+        "relation": "common collocation",
+        "meaning": "a common phrase using stray",
+        "meaning_cn": "常见搭配：stray dog"
+      },
+      {
+        "word": "straying",
+        "relation": "-ing form",
+        "meaning": "ongoing action of stray",
+        "meaning_cn": "stray 的现在分词/动名词形式"
+      },
+      {
+        "word": "strayed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of stray",
+        "meaning_cn": "stray 的过去式或过去分词形式"
+      },
+      {
+        "word": "strays",
+        "relation": "plural form",
+        "meaning": "more than one stray",
+        "meaning_cn": "stray 的复数形式"
+      },
+      {
+        "word": "straily",
+        "relation": "adverb form",
+        "meaning": "in a stray way",
+        "meaning_cn": "以 stray 的方式"
+      }
+    ],
     "common_collocations": [
       "stray dog"
     ],
@@ -4275,7 +5414,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "bewilder",
+        "relation": "headword / core form",
+        "meaning": "to confuse someone completely",
+        "meaning_cn": "使迷惑；使不知所措"
+      },
+      {
+        "word": "wild",
+        "relation": "root / base form",
+        "meaning": "core form connected with bewilder",
+        "meaning_cn": "和 bewilder 有关的核心词根/基础形式"
+      },
+      {
+        "word": "bewilder someone",
+        "relation": "common collocation",
+        "meaning": "a common phrase using bewilder",
+        "meaning_cn": "常见搭配：bewilder someone"
+      },
+      {
+        "word": "bewildering",
+        "relation": "-ing form",
+        "meaning": "ongoing action of bewilder",
+        "meaning_cn": "bewilder 的现在分词/动名词形式"
+      },
+      {
+        "word": "bewildered",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of bewilder",
+        "meaning_cn": "bewilder 的过去式或过去分词形式"
+      },
+      {
+        "word": "The complex rules bewildered me.",
+        "relation": "example usage",
+        "meaning": "sentence showing bewilder in context",
+        "meaning_cn": "复杂规则让我迷惑。"
+      }
+    ],
     "common_collocations": [
       "bewilder someone"
     ],
@@ -4377,7 +5553,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "hurl",
+        "relation": "headword / core form",
+        "meaning": "to throw forcefully; to say angrily",
+        "meaning_cn": "猛投；猛掷；大声说出"
+      },
+      {
+        "word": "hurl a stone",
+        "relation": "common collocation",
+        "meaning": "a common phrase using hurl",
+        "meaning_cn": "常见搭配：hurl a stone"
+      },
+      {
+        "word": "hurling",
+        "relation": "-ing form",
+        "meaning": "ongoing action of hurl",
+        "meaning_cn": "hurl 的现在分词/动名词形式"
+      },
+      {
+        "word": "hurled",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of hurl",
+        "meaning_cn": "hurl 的过去式或过去分词形式"
+      },
+      {
+        "word": "hurls",
+        "relation": "plural form",
+        "meaning": "more than one hurl",
+        "meaning_cn": "hurl 的复数形式"
+      },
+      {
+        "word": "He hurled the ball across the field.",
+        "relation": "example usage",
+        "meaning": "sentence showing hurl in context",
+        "meaning_cn": "他把球猛地扔过球场。"
+      }
+    ],
     "common_collocations": [
       "hurl a stone"
     ],
@@ -4479,7 +5692,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "pore",
+        "relation": "headword / core form",
+        "meaning": "a tiny opening in skin or material; to study carefully",
+        "meaning_cn": "毛孔；小孔；仔细阅读"
+      },
+      {
+        "word": "skin pore",
+        "relation": "common collocation",
+        "meaning": "a common phrase using pore",
+        "meaning_cn": "常见搭配：skin pore"
+      },
+      {
+        "word": "poring",
+        "relation": "-ing form",
+        "meaning": "ongoing action of pore",
+        "meaning_cn": "pore 的现在分词/动名词形式"
+      },
+      {
+        "word": "pored",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of pore",
+        "meaning_cn": "pore 的过去式或过去分词形式"
+      },
+      {
+        "word": "pores",
+        "relation": "plural form",
+        "meaning": "more than one pore",
+        "meaning_cn": "pore 的复数形式"
+      },
+      {
+        "word": "She pored over the old letters.",
+        "relation": "example usage",
+        "meaning": "sentence showing pore in context",
+        "meaning_cn": "她仔细阅读那些旧信。"
+      }
+    ],
     "common_collocations": [
       "skin pore"
     ],
@@ -4581,7 +5831,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "jerk",
+        "relation": "headword / core form",
+        "meaning": "a sudden sharp movement; to move suddenly",
+        "meaning_cn": "猛拉；急动；蠢人"
+      },
+      {
+        "word": "sudden jerk",
+        "relation": "common collocation",
+        "meaning": "a common phrase using jerk",
+        "meaning_cn": "常见搭配：sudden jerk"
+      },
+      {
+        "word": "jerking",
+        "relation": "-ing form",
+        "meaning": "ongoing action of jerk",
+        "meaning_cn": "jerk 的现在分词/动名词形式"
+      },
+      {
+        "word": "jerked",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of jerk",
+        "meaning_cn": "jerk 的过去式或过去分词形式"
+      },
+      {
+        "word": "jerks",
+        "relation": "plural form",
+        "meaning": "more than one jerk",
+        "meaning_cn": "jerk 的复数形式"
+      },
+      {
+        "word": "The car stopped with a jerk.",
+        "relation": "example usage",
+        "meaning": "sentence showing jerk in context",
+        "meaning_cn": "汽车猛地停住。"
+      }
+    ],
     "common_collocations": [
       "sudden jerk"
     ],
@@ -4743,7 +6030,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "fuss",
+        "relation": "headword / core form",
+        "meaning": "unnecessary worry or activity about small things",
+        "meaning_cn": "大惊小怪；忙乱；小题大做"
+      },
+      {
+        "word": "make a fuss",
+        "relation": "common collocation",
+        "meaning": "a common phrase using fuss",
+        "meaning_cn": "常见搭配：make a fuss"
+      },
+      {
+        "word": "fussing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of fuss",
+        "meaning_cn": "fuss 的现在分词/动名词形式"
+      },
+      {
+        "word": "fussed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of fuss",
+        "meaning_cn": "fuss 的过去式或过去分词形式"
+      },
+      {
+        "word": "fusses",
+        "relation": "plural form",
+        "meaning": "more than one fuss",
+        "meaning_cn": "fuss 的复数形式"
+      },
+      {
+        "word": "Do not make a fuss about it.",
+        "relation": "example usage",
+        "meaning": "sentence showing fuss in context",
+        "meaning_cn": "别为这事大惊小怪。"
+      }
+    ],
     "common_collocations": [
       "make a fuss"
     ],
@@ -4882,7 +6206,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "snap",
+        "relation": "headword / core form",
+        "meaning": "to break suddenly, make a sharp sound, or take a quick photo",
+        "meaning_cn": "咔嚓声；猛咬；突然折断；快照"
+      },
+      {
+        "word": "snap a photo",
+        "relation": "common collocation",
+        "meaning": "a common phrase using snap",
+        "meaning_cn": "常见搭配：snap a photo"
+      },
+      {
+        "word": "snaping",
+        "relation": "-ing form",
+        "meaning": "ongoing action of snap",
+        "meaning_cn": "snap 的现在分词/动名词形式"
+      },
+      {
+        "word": "snaped",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of snap",
+        "meaning_cn": "snap 的过去式或过去分词形式"
+      },
+      {
+        "word": "snaps",
+        "relation": "plural form",
+        "meaning": "more than one snap",
+        "meaning_cn": "snap 的复数形式"
+      },
+      {
+        "word": "The branch snapped in the wind.",
+        "relation": "example usage",
+        "meaning": "sentence showing snap in context",
+        "meaning_cn": "树枝在风中啪地折断了。"
+      }
+    ],
     "common_collocations": [
       "snap a photo"
     ],
@@ -5044,7 +6405,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "offensive",
+        "relation": "headword / core form",
+        "meaning": "causing anger or upset; related to attack",
+        "meaning_cn": "冒犯的；进攻的；攻势"
+      },
+      {
+        "word": "offend",
+        "relation": "root / base form",
+        "meaning": "core form connected with offensive",
+        "meaning_cn": "和 offensive 有关的核心词根/基础形式"
+      },
+      {
+        "word": "offensive remark",
+        "relation": "common collocation",
+        "meaning": "a common phrase using offensive",
+        "meaning_cn": "常见搭配：offensive remark"
+      },
+      {
+        "word": "offensives",
+        "relation": "plural form",
+        "meaning": "more than one offensive",
+        "meaning_cn": "offensive 的复数形式"
+      },
+      {
+        "word": "offensively",
+        "relation": "adverb form",
+        "meaning": "in an offensive way",
+        "meaning_cn": "以 offensive 的方式"
+      },
+      {
+        "word": "His joke was offensive.",
+        "relation": "example usage",
+        "meaning": "sentence showing offensive in context",
+        "meaning_cn": "他的笑话很冒犯人。"
+      }
+    ],
     "common_collocations": [
       "offensive remark"
     ],
@@ -5207,7 +6605,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "ally",
+        "relation": "headword / core form",
+        "meaning": "a person, group, or country that supports another",
+        "meaning_cn": "盟友；同盟国；结盟"
+      },
+      {
+        "word": "close ally",
+        "relation": "common collocation",
+        "meaning": "a common phrase using ally",
+        "meaning_cn": "常见搭配：close ally"
+      },
+      {
+        "word": "allying",
+        "relation": "-ing form",
+        "meaning": "ongoing action of ally",
+        "meaning_cn": "ally 的现在分词/动名词形式"
+      },
+      {
+        "word": "allied",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of ally",
+        "meaning_cn": "ally 的过去式或过去分词形式"
+      },
+      {
+        "word": "allies",
+        "relation": "plural form",
+        "meaning": "more than one ally",
+        "meaning_cn": "ally 的复数形式"
+      },
+      {
+        "word": "The two countries became allies.",
+        "relation": "example usage",
+        "meaning": "sentence showing ally in context",
+        "meaning_cn": "两国成为盟友。"
+      }
+    ],
     "common_collocations": [
       "close ally"
     ],
@@ -5368,7 +6803,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "cartoon",
+        "relation": "headword / core form",
+        "meaning": "a simple drawing or animated film, often humorous",
+        "meaning_cn": "卡通；漫画"
+      },
+      {
+        "word": "cartoon character",
+        "relation": "common collocation",
+        "meaning": "a common phrase using cartoon",
+        "meaning_cn": "常见搭配：cartoon character"
+      },
+      {
+        "word": "cartooning",
+        "relation": "-ing form",
+        "meaning": "ongoing action of cartoon",
+        "meaning_cn": "cartoon 的现在分词/动名词形式"
+      },
+      {
+        "word": "cartooned",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of cartoon",
+        "meaning_cn": "cartoon 的过去式或过去分词形式"
+      },
+      {
+        "word": "cartoons",
+        "relation": "plural form",
+        "meaning": "more than one cartoon",
+        "meaning_cn": "cartoon 的复数形式"
+      },
+      {
+        "word": "Children love this cartoon character.",
+        "relation": "example usage",
+        "meaning": "sentence showing cartoon in context",
+        "meaning_cn": "孩子们喜欢这个卡通角色。"
+      }
+    ],
     "common_collocations": [
       "cartoon character"
     ],
@@ -5528,7 +7000,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "threshold",
+        "relation": "headword / core form",
+        "meaning": "the point at which something begins; entrance level",
+        "meaning_cn": "门槛；阈值；开端"
+      },
+      {
+        "word": "threshold of pain",
+        "relation": "common collocation",
+        "meaning": "a common phrase using threshold",
+        "meaning_cn": "常见搭配：threshold of pain"
+      },
+      {
+        "word": "thresholds",
+        "relation": "plural form",
+        "meaning": "more than one threshold",
+        "meaning_cn": "threshold 的复数形式"
+      },
+      {
+        "word": "The sound was below the hearing threshold.",
+        "relation": "example usage",
+        "meaning": "sentence showing threshold in context",
+        "meaning_cn": "声音低于听觉阈值。"
+      }
+    ],
     "common_collocations": [
       "threshold of pain"
     ],
@@ -5628,7 +7125,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "vine",
+        "relation": "headword / core form",
+        "meaning": "a climbing plant with long stems",
+        "meaning_cn": "藤；藤蔓"
+      },
+      {
+        "word": "grape vine",
+        "relation": "common collocation",
+        "meaning": "a common phrase using vine",
+        "meaning_cn": "常见搭配：grape vine"
+      },
+      {
+        "word": "vines",
+        "relation": "plural form",
+        "meaning": "more than one vine",
+        "meaning_cn": "vine 的复数形式"
+      },
+      {
+        "word": "The vine climbed the wall.",
+        "relation": "example usage",
+        "meaning": "sentence showing vine in context",
+        "meaning_cn": "藤蔓爬上了墙。"
+      }
+    ],
     "common_collocations": [
       "grape vine"
     ],
@@ -5791,7 +7313,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "charm",
+        "relation": "headword / core form",
+        "meaning": "an attractive quality; to delight or attract",
+        "meaning_cn": "魅力；护身符；吸引"
+      },
+      {
+        "word": "personal charm",
+        "relation": "common collocation",
+        "meaning": "a common phrase using charm",
+        "meaning_cn": "常见搭配：personal charm"
+      },
+      {
+        "word": "charming",
+        "relation": "-ing form",
+        "meaning": "ongoing action of charm",
+        "meaning_cn": "charm 的现在分词/动名词形式"
+      },
+      {
+        "word": "charmed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of charm",
+        "meaning_cn": "charm 的过去式或过去分词形式"
+      },
+      {
+        "word": "charms",
+        "relation": "plural form",
+        "meaning": "more than one charm",
+        "meaning_cn": "charm 的复数形式"
+      },
+      {
+        "word": "Her charm won everyone over.",
+        "relation": "example usage",
+        "meaning": "sentence showing charm in context",
+        "meaning_cn": "她的魅力征服了所有人。"
+      }
+    ],
     "common_collocations": [
       "personal charm"
     ],
@@ -5952,7 +7511,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "expire",
+        "relation": "headword / core form",
+        "meaning": "to come to an end or become no longer valid",
+        "meaning_cn": "到期；失效；死亡"
+      },
+      {
+        "word": "expire soon",
+        "relation": "common collocation",
+        "meaning": "a common phrase using expire",
+        "meaning_cn": "常见搭配：expire soon"
+      },
+      {
+        "word": "expiring",
+        "relation": "-ing form",
+        "meaning": "ongoing action of expire",
+        "meaning_cn": "expire 的现在分词/动名词形式"
+      },
+      {
+        "word": "expired",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of expire",
+        "meaning_cn": "expire 的过去式或过去分词形式"
+      },
+      {
+        "word": "My passport will expire next month.",
+        "relation": "example usage",
+        "meaning": "sentence showing expire in context",
+        "meaning_cn": "我的护照下个月到期。"
+      }
+    ],
     "common_collocations": [
       "expire soon"
     ],
@@ -6085,7 +7675,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "fair",
+        "relation": "headword / core form",
+        "meaning": "just and reasonable; light-colored; a public event",
+        "meaning_cn": "公平的；集市；相当"
+      },
+      {
+        "word": "fair treatment",
+        "relation": "common collocation",
+        "meaning": "a common phrase using fair",
+        "meaning_cn": "常见搭配：fair treatment"
+      },
+      {
+        "word": "fairs",
+        "relation": "plural form",
+        "meaning": "more than one fair",
+        "meaning_cn": "fair 的复数形式"
+      },
+      {
+        "word": "fairly",
+        "relation": "adverb form",
+        "meaning": "in a fair way",
+        "meaning_cn": "以 fair 的方式"
+      },
+      {
+        "word": "Everyone deserves fair treatment.",
+        "relation": "example usage",
+        "meaning": "sentence showing fair in context",
+        "meaning_cn": "每个人都应得到公平对待。"
+      }
+    ],
     "common_collocations": [
       "fair treatment"
     ],
@@ -6247,7 +7868,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "bull",
+        "relation": "headword / core form",
+        "meaning": "a male cow; a person expecting prices to rise",
+        "meaning_cn": "公牛；多头；荒谬话"
+      },
+      {
+        "word": "bull market",
+        "relation": "common collocation",
+        "meaning": "a common phrase using bull",
+        "meaning_cn": "常见搭配：bull market"
+      },
+      {
+        "word": "bulls",
+        "relation": "plural form",
+        "meaning": "more than one bull",
+        "meaning_cn": "bull 的复数形式"
+      },
+      {
+        "word": "The bull stood in the field.",
+        "relation": "example usage",
+        "meaning": "sentence showing bull in context",
+        "meaning_cn": "公牛站在田野里。"
+      }
+    ],
     "common_collocations": [
       "bull market"
     ],
@@ -6407,7 +8053,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "wharf",
+        "relation": "headword / core form",
+        "meaning": "a structure beside water where ships load and unload",
+        "meaning_cn": "码头"
+      },
+      {
+        "word": "cargo wharf",
+        "relation": "common collocation",
+        "meaning": "a common phrase using wharf",
+        "meaning_cn": "常见搭配：cargo wharf"
+      },
+      {
+        "word": "wharfs",
+        "relation": "plural form",
+        "meaning": "more than one wharf",
+        "meaning_cn": "wharf 的复数形式"
+      },
+      {
+        "word": "The ship tied up at the wharf.",
+        "relation": "example usage",
+        "meaning": "sentence showing wharf in context",
+        "meaning_cn": "船停靠在码头。"
+      }
+    ],
     "common_collocations": [
       "cargo wharf"
     ],
@@ -6507,7 +8178,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "circus",
+        "relation": "headword / core form",
+        "meaning": "a traveling show with performers and animals; a chaotic situation",
+        "meaning_cn": "马戏团；喧闹场面"
+      },
+      {
+        "word": "circus tent",
+        "relation": "common collocation",
+        "meaning": "a common phrase using circus",
+        "meaning_cn": "常见搭配：circus tent"
+      },
+      {
+        "word": "circuses",
+        "relation": "plural form",
+        "meaning": "more than one circus",
+        "meaning_cn": "circus 的复数形式"
+      },
+      {
+        "word": "The circus came to town.",
+        "relation": "example usage",
+        "meaning": "sentence showing circus in context",
+        "meaning_cn": "马戏团来到了镇上。"
+      }
+    ],
     "common_collocations": [
       "circus tent"
     ],
@@ -6668,7 +8364,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "ass",
+        "relation": "headword / core form",
+        "meaning": "a donkey; a foolish person",
+        "meaning_cn": "驴；蠢人"
+      },
+      {
+        "word": "wild ass",
+        "relation": "common collocation",
+        "meaning": "a common phrase using ass",
+        "meaning_cn": "常见搭配：wild ass"
+      },
+      {
+        "word": "asses",
+        "relation": "plural form",
+        "meaning": "more than one ass",
+        "meaning_cn": "ass 的复数形式"
+      },
+      {
+        "word": "The farmer owned an ass.",
+        "relation": "example usage",
+        "meaning": "sentence showing ass in context",
+        "meaning_cn": "农夫有一头驴。"
+      }
+    ],
     "common_collocations": [
       "wild ass"
     ],
@@ -6807,7 +8528,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "filter",
+        "relation": "headword / core form",
+        "meaning": "a device or process that removes unwanted parts",
+        "meaning_cn": "过滤器；过滤；筛选"
+      },
+      {
+        "word": "water filter",
+        "relation": "common collocation",
+        "meaning": "a common phrase using filter",
+        "meaning_cn": "常见搭配：water filter"
+      },
+      {
+        "word": "filtering",
+        "relation": "-ing form",
+        "meaning": "ongoing action of filter",
+        "meaning_cn": "filter 的现在分词/动名词形式"
+      },
+      {
+        "word": "filtered",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of filter",
+        "meaning_cn": "filter 的过去式或过去分词形式"
+      },
+      {
+        "word": "filters",
+        "relation": "plural form",
+        "meaning": "more than one filter",
+        "meaning_cn": "filter 的复数形式"
+      },
+      {
+        "word": "The filter removes dirt from water.",
+        "relation": "example usage",
+        "meaning": "sentence showing filter in context",
+        "meaning_cn": "过滤器去除水中的污物。"
+      }
+    ],
     "common_collocations": [
       "water filter"
     ],
@@ -6907,7 +8665,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "propeller",
+        "relation": "headword / core form",
+        "meaning": "a rotating device that pushes a boat or aircraft forward",
+        "meaning_cn": "螺旋桨；推进器"
+      },
+      {
+        "word": "propel",
+        "relation": "root / base form",
+        "meaning": "core form connected with propeller",
+        "meaning_cn": "和 propeller 有关的核心词根/基础形式"
+      },
+      {
+        "word": "aircraft propeller",
+        "relation": "common collocation",
+        "meaning": "a common phrase using propeller",
+        "meaning_cn": "常见搭配：aircraft propeller"
+      },
+      {
+        "word": "propellers",
+        "relation": "plural form",
+        "meaning": "more than one propeller",
+        "meaning_cn": "propeller 的复数形式"
+      },
+      {
+        "word": "The propeller began to spin.",
+        "relation": "example usage",
+        "meaning": "sentence showing propeller in context",
+        "meaning_cn": "螺旋桨开始旋转。"
+      }
+    ],
     "common_collocations": [
       "aircraft propeller"
     ],
@@ -7010,7 +8799,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "spiral",
+        "relation": "headword / core form",
+        "meaning": "a curve winding around a center; to rise or fall in a spiral way",
+        "meaning_cn": "螺旋；螺旋上升；盘旋"
+      },
+      {
+        "word": "spiral staircase",
+        "relation": "common collocation",
+        "meaning": "a common phrase using spiral",
+        "meaning_cn": "常见搭配：spiral staircase"
+      },
+      {
+        "word": "spiraling",
+        "relation": "-ing form",
+        "meaning": "ongoing action of spiral",
+        "meaning_cn": "spiral 的现在分词/动名词形式"
+      },
+      {
+        "word": "spiraled",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of spiral",
+        "meaning_cn": "spiral 的过去式或过去分词形式"
+      },
+      {
+        "word": "spirals",
+        "relation": "plural form",
+        "meaning": "more than one spiral",
+        "meaning_cn": "spiral 的复数形式"
+      },
+      {
+        "word": "spirally",
+        "relation": "adverb form",
+        "meaning": "in a spiral way",
+        "meaning_cn": "以 spiral 的方式"
+      }
+    ],
     "common_collocations": [
       "spiral staircase"
     ],
@@ -7111,7 +8937,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "nut",
+        "relation": "headword / core form",
+        "meaning": "a hard-shelled seed; a small metal fastener",
+        "meaning_cn": "坚果；螺母；怪人"
+      },
+      {
+        "word": "tighten a nut",
+        "relation": "common collocation",
+        "meaning": "a common phrase using nut",
+        "meaning_cn": "常见搭配：tighten a nut"
+      },
+      {
+        "word": "nuts",
+        "relation": "plural form",
+        "meaning": "more than one nut",
+        "meaning_cn": "nut 的复数形式"
+      },
+      {
+        "word": "Use a wrench to tighten the nut.",
+        "relation": "example usage",
+        "meaning": "sentence showing nut in context",
+        "meaning_cn": "用扳手拧紧螺母。"
+      }
+    ],
     "common_collocations": [
       "tighten a nut"
     ],
@@ -7218,7 +9069,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "oval",
+        "relation": "headword / core form",
+        "meaning": "shaped like an egg or ellipse",
+        "meaning_cn": "椭圆形的；椭圆"
+      },
+      {
+        "word": "oval shape",
+        "relation": "common collocation",
+        "meaning": "a common phrase using oval",
+        "meaning_cn": "常见搭配：oval shape"
+      },
+      {
+        "word": "ovals",
+        "relation": "plural form",
+        "meaning": "more than one oval",
+        "meaning_cn": "oval 的复数形式"
+      },
+      {
+        "word": "ovally",
+        "relation": "adverb form",
+        "meaning": "in an oval way",
+        "meaning_cn": "以 oval 的方式"
+      },
+      {
+        "word": "The mirror has an oval shape.",
+        "relation": "example usage",
+        "meaning": "sentence showing oval in context",
+        "meaning_cn": "镜子是椭圆形的。"
+      }
+    ],
     "common_collocations": [
       "oval shape"
     ],
@@ -7378,7 +9260,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "roman",
+        "relation": "headword / core form",
+        "meaning": "relating to ancient or modern Rome",
+        "meaning_cn": "罗马的；罗马人"
+      },
+      {
+        "word": "Rome",
+        "relation": "root / base form",
+        "meaning": "core form connected with Roman",
+        "meaning_cn": "和 Roman 有关的核心词根/基础形式"
+      },
+      {
+        "word": "Roman Empire",
+        "relation": "common collocation",
+        "meaning": "a common phrase using Roman",
+        "meaning_cn": "常见搭配：Roman Empire"
+      },
+      {
+        "word": "romans",
+        "relation": "plural form",
+        "meaning": "more than one Roman",
+        "meaning_cn": "Roman 的复数形式"
+      },
+      {
+        "word": "romanly",
+        "relation": "adverb form",
+        "meaning": "in a Roman way",
+        "meaning_cn": "以 Roman 的方式"
+      },
+      {
+        "word": "The Roman Empire was powerful.",
+        "relation": "example usage",
+        "meaning": "sentence showing Roman in context",
+        "meaning_cn": "罗马帝国曾很强大。"
+      }
+    ],
     "common_collocations": [
       "Roman Empire"
     ],
@@ -7480,7 +9399,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "video",
+        "relation": "headword / core form",
+        "meaning": "moving visual images recorded or broadcast",
+        "meaning_cn": "视频；录像"
+      },
+      {
+        "word": "video clip",
+        "relation": "common collocation",
+        "meaning": "a common phrase using video",
+        "meaning_cn": "常见搭配：video clip"
+      },
+      {
+        "word": "videoing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of video",
+        "meaning_cn": "video 的现在分词/动名词形式"
+      },
+      {
+        "word": "videoed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of video",
+        "meaning_cn": "video 的过去式或过去分词形式"
+      },
+      {
+        "word": "videos",
+        "relation": "plural form",
+        "meaning": "more than one video",
+        "meaning_cn": "video 的复数形式"
+      },
+      {
+        "word": "videoly",
+        "relation": "adverb form",
+        "meaning": "in a video way",
+        "meaning_cn": "以 video 的方式"
+      }
+    ],
     "common_collocations": [
       "video clip"
     ],
@@ -7640,7 +9596,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "thesis",
+        "relation": "headword / core form",
+        "meaning": "a long research paper or main argument",
+        "meaning_cn": "论文；论点"
+      },
+      {
+        "word": "doctoral thesis",
+        "relation": "common collocation",
+        "meaning": "a common phrase using thesis",
+        "meaning_cn": "常见搭配：doctoral thesis"
+      },
+      {
+        "word": "thesises",
+        "relation": "plural form",
+        "meaning": "more than one thesis",
+        "meaning_cn": "thesis 的复数形式"
+      },
+      {
+        "word": "She is writing her thesis.",
+        "relation": "example usage",
+        "meaning": "sentence showing thesis in context",
+        "meaning_cn": "她正在写论文。"
+      }
+    ],
     "common_collocations": [
       "doctoral thesis"
     ],
@@ -7799,7 +9780,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "reed",
+        "relation": "headword / core form",
+        "meaning": "a tall grass-like plant; a thin piece in some instruments",
+        "meaning_cn": "芦苇；簧片"
+      },
+      {
+        "word": "reed pipe",
+        "relation": "common collocation",
+        "meaning": "a common phrase using reed",
+        "meaning_cn": "常见搭配：reed pipe"
+      },
+      {
+        "word": "reeds",
+        "relation": "plural form",
+        "meaning": "more than one reed",
+        "meaning_cn": "reed 的复数形式"
+      },
+      {
+        "word": "Reeds grew by the river.",
+        "relation": "example usage",
+        "meaning": "sentence showing reed in context",
+        "meaning_cn": "芦苇长在河边。"
+      }
+    ],
     "common_collocations": [
       "reed pipe"
     ],
@@ -7875,7 +9881,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "forum",
+        "relation": "headword / core form",
+        "meaning": "a place or meeting for public discussion",
+        "meaning_cn": "论坛；公共讨论场所"
+      },
+      {
+        "word": "online forum",
+        "relation": "common collocation",
+        "meaning": "a common phrase using forum",
+        "meaning_cn": "常见搭配：online forum"
+      },
+      {
+        "word": "forums",
+        "relation": "plural form",
+        "meaning": "more than one forum",
+        "meaning_cn": "forum 的复数形式"
+      },
+      {
+        "word": "They discussed the issue in an online forum.",
+        "relation": "example usage",
+        "meaning": "sentence showing forum in context",
+        "meaning_cn": "他们在网上论坛讨论了这个问题。"
+      }
+    ],
     "common_collocations": [
       "online forum"
     ],
@@ -7978,7 +10009,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "box",
+        "relation": "headword / core form",
+        "meaning": "a container; to put in a box; to fight with fists",
+        "meaning_cn": "盒子；箱；拳击；装箱"
+      },
+      {
+        "word": "cardboard box",
+        "relation": "common collocation",
+        "meaning": "a common phrase using box",
+        "meaning_cn": "常见搭配：cardboard box"
+      },
+      {
+        "word": "boxing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of box",
+        "meaning_cn": "box 的现在分词/动名词形式"
+      },
+      {
+        "word": "boxed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of box",
+        "meaning_cn": "box 的过去式或过去分词形式"
+      },
+      {
+        "word": "boxes",
+        "relation": "plural form",
+        "meaning": "more than one box",
+        "meaning_cn": "box 的复数形式"
+      },
+      {
+        "word": "Put the books in the box.",
+        "relation": "example usage",
+        "meaning": "sentence showing box in context",
+        "meaning_cn": "把书放进盒子里。"
+      }
+    ],
     "common_collocations": [
       "cardboard box"
     ],
@@ -8085,7 +10153,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "hug",
+        "relation": "headword / core form",
+        "meaning": "to hold someone closely with arms",
+        "meaning_cn": "拥抱；紧抱"
+      },
+      {
+        "word": "give a hug",
+        "relation": "common collocation",
+        "meaning": "a common phrase using hug",
+        "meaning_cn": "常见搭配：give a hug"
+      },
+      {
+        "word": "huging",
+        "relation": "-ing form",
+        "meaning": "ongoing action of hug",
+        "meaning_cn": "hug 的现在分词/动名词形式"
+      },
+      {
+        "word": "huged",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of hug",
+        "meaning_cn": "hug 的过去式或过去分词形式"
+      },
+      {
+        "word": "hugs",
+        "relation": "plural form",
+        "meaning": "more than one hug",
+        "meaning_cn": "hug 的复数形式"
+      },
+      {
+        "word": "She gave her friend a hug.",
+        "relation": "example usage",
+        "meaning": "sentence showing hug in context",
+        "meaning_cn": "她给了朋友一个拥抱。"
+      }
+    ],
     "common_collocations": [
       "give a hug"
     ],
@@ -8246,7 +10351,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "leakage",
+        "relation": "headword / core form",
+        "meaning": "the act or amount of liquid, gas, or information escaping",
+        "meaning_cn": "泄漏；漏出量"
+      },
+      {
+        "word": "leak",
+        "relation": "root / base form",
+        "meaning": "core form connected with leakage",
+        "meaning_cn": "和 leakage 有关的核心词根/基础形式"
+      },
+      {
+        "word": "water leakage",
+        "relation": "common collocation",
+        "meaning": "a common phrase using leakage",
+        "meaning_cn": "常见搭配：water leakage"
+      },
+      {
+        "word": "leakages",
+        "relation": "plural form",
+        "meaning": "more than one leakage",
+        "meaning_cn": "leakage 的复数形式"
+      },
+      {
+        "word": "The pipe has serious leakage.",
+        "relation": "example usage",
+        "meaning": "sentence showing leakage in context",
+        "meaning_cn": "管道有严重泄漏。"
+      }
+    ],
     "common_collocations": [
       "water leakage"
     ],

@@ -24,7 +24,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "panel",
+        "relation": "headword / core form",
+        "meaning": "a flat board or surface; a group discussing or judging something",
+        "meaning_cn": "面板；小组；嵌板"
+      },
+      {
+        "word": "control panel",
+        "relation": "common collocation",
+        "meaning": "a common phrase using panel",
+        "meaning_cn": "常见搭配：control panel"
+      },
+      {
+        "word": "panels",
+        "relation": "plural form",
+        "meaning": "more than one panel",
+        "meaning_cn": "panel 的复数形式"
+      },
+      {
+        "word": "The control panel shows the system status.",
+        "relation": "example usage",
+        "meaning": "sentence showing panel in context",
+        "meaning_cn": "控制面板显示系统状态。"
+      }
+    ],
     "common_collocations": [
       "control panel"
     ],
@@ -179,7 +204,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "peak",
+        "relation": "headword / core form",
+        "meaning": "the highest point; to reach the highest point",
+        "meaning_cn": "山峰；顶点；达到顶峰"
+      },
+      {
+        "word": "mountain peak",
+        "relation": "common collocation",
+        "meaning": "a common phrase using peak",
+        "meaning_cn": "常见搭配：mountain peak"
+      },
+      {
+        "word": "peaking",
+        "relation": "-ing form",
+        "meaning": "ongoing action of peak",
+        "meaning_cn": "peak 的现在分词/动名词形式"
+      },
+      {
+        "word": "peaked",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of peak",
+        "meaning_cn": "peak 的过去式或过去分词形式"
+      },
+      {
+        "word": "peaks",
+        "relation": "plural form",
+        "meaning": "more than one peak",
+        "meaning_cn": "peak 的复数形式"
+      },
+      {
+        "word": "peakly",
+        "relation": "adverb form",
+        "meaning": "in a peak way",
+        "meaning_cn": "以 peak 的方式"
+      }
+    ],
     "common_collocations": [
       "mountain peak"
     ],
@@ -331,7 +393,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "epoch",
+        "relation": "headword / core form",
+        "meaning": "a period of time marked by important events or features",
+        "meaning_cn": "时代；纪元"
+      },
+      {
+        "word": "new epoch",
+        "relation": "common collocation",
+        "meaning": "a common phrase using epoch",
+        "meaning_cn": "常见搭配：new epoch"
+      },
+      {
+        "word": "epoches",
+        "relation": "plural form",
+        "meaning": "more than one epoch",
+        "meaning_cn": "epoch 的复数形式"
+      },
+      {
+        "word": "The invention marked a new epoch.",
+        "relation": "example usage",
+        "meaning": "sentence showing epoch in context",
+        "meaning_cn": "这项发明标志着一个新纪元。"
+      }
+    ],
     "common_collocations": [
       "new epoch"
     ],
@@ -425,7 +512,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "drain",
+        "relation": "headword / core form",
+        "meaning": "to remove liquid; to use up energy or resources",
+        "meaning_cn": "排水；消耗；下水道"
+      },
+      {
+        "word": "drain water",
+        "relation": "common collocation",
+        "meaning": "a common phrase using drain",
+        "meaning_cn": "常见搭配：drain water"
+      },
+      {
+        "word": "draining",
+        "relation": "-ing form",
+        "meaning": "ongoing action of drain",
+        "meaning_cn": "drain 的现在分词/动名词形式"
+      },
+      {
+        "word": "drained",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of drain",
+        "meaning_cn": "drain 的过去式或过去分词形式"
+      },
+      {
+        "word": "drains",
+        "relation": "plural form",
+        "meaning": "more than one drain",
+        "meaning_cn": "drain 的复数形式"
+      },
+      {
+        "word": "The pipe drains water from the roof.",
+        "relation": "example usage",
+        "meaning": "sentence showing drain in context",
+        "meaning_cn": "管道把水从屋顶排走。"
+      }
+    ],
     "common_collocations": [
       "drain water"
     ],
@@ -518,7 +642,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "cane",
+        "relation": "headword / core form",
+        "meaning": "a walking stick; a long plant stem",
+        "meaning_cn": "手杖；藤条；甘蔗"
+      },
+      {
+        "word": "walking cane",
+        "relation": "common collocation",
+        "meaning": "a common phrase using cane",
+        "meaning_cn": "常见搭配：walking cane"
+      },
+      {
+        "word": "canes",
+        "relation": "plural form",
+        "meaning": "more than one cane",
+        "meaning_cn": "cane 的复数形式"
+      },
+      {
+        "word": "He walked with a cane.",
+        "relation": "example usage",
+        "meaning": "sentence showing cane in context",
+        "meaning_cn": "他拄着手杖走路。"
+      }
+    ],
     "common_collocations": [
       "walking cane"
     ],
@@ -642,7 +791,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "switch",
+        "relation": "headword / core form",
+        "meaning": "a device for turning something on/off; to change",
+        "meaning_cn": "开关；转换"
+      },
+      {
+        "word": "light switch",
+        "relation": "common collocation",
+        "meaning": "a common phrase using switch",
+        "meaning_cn": "常见搭配：light switch"
+      },
+      {
+        "word": "switching",
+        "relation": "-ing form",
+        "meaning": "ongoing action of switch",
+        "meaning_cn": "switch 的现在分词/动名词形式"
+      },
+      {
+        "word": "switched",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of switch",
+        "meaning_cn": "switch 的过去式或过去分词形式"
+      },
+      {
+        "word": "switches",
+        "relation": "plural form",
+        "meaning": "more than one switch",
+        "meaning_cn": "switch 的复数形式"
+      },
+      {
+        "word": "Turn off the switch.",
+        "relation": "example usage",
+        "meaning": "sentence showing switch in context",
+        "meaning_cn": "关掉开关。"
+      }
+    ],
     "common_collocations": [
       "light switch"
     ],
@@ -795,7 +981,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "immigrate",
+        "relation": "headword / core form",
+        "meaning": "to come to live permanently in another country",
+        "meaning_cn": "移民；迁入"
+      },
+      {
+        "word": "migr",
+        "relation": "root / base form",
+        "meaning": "core form connected with immigrate",
+        "meaning_cn": "和 immigrate 有关的核心词根/基础形式"
+      },
+      {
+        "word": "immigrate to",
+        "relation": "common collocation",
+        "meaning": "a common phrase using immigrate",
+        "meaning_cn": "常见搭配：immigrate to"
+      },
+      {
+        "word": "immigrating",
+        "relation": "-ing form",
+        "meaning": "ongoing action of immigrate",
+        "meaning_cn": "immigrate 的现在分词/动名词形式"
+      },
+      {
+        "word": "immigrated",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of immigrate",
+        "meaning_cn": "immigrate 的过去式或过去分词形式"
+      },
+      {
+        "word": "His family immigrated to Canada.",
+        "relation": "example usage",
+        "meaning": "sentence showing immigrate in context",
+        "meaning_cn": "他的家人移民到了加拿大。"
+      }
+    ],
     "common_collocations": [
       "immigrate to"
     ],
@@ -887,7 +1110,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "expenditure",
+        "relation": "headword / core form",
+        "meaning": "money spent; the act of spending",
+        "meaning_cn": "支出；花费"
+      },
+      {
+        "word": "expend",
+        "relation": "root / base form",
+        "meaning": "core form connected with expenditure",
+        "meaning_cn": "和 expenditure 有关的核心词根/基础形式"
+      },
+      {
+        "word": "public expenditure",
+        "relation": "common collocation",
+        "meaning": "a common phrase using expenditure",
+        "meaning_cn": "常见搭配：public expenditure"
+      },
+      {
+        "word": "expenditures",
+        "relation": "plural form",
+        "meaning": "more than one expenditure",
+        "meaning_cn": "expenditure 的复数形式"
+      },
+      {
+        "word": "Public expenditure increased this year.",
+        "relation": "example usage",
+        "meaning": "sentence showing expenditure in context",
+        "meaning_cn": "今年公共支出增加了。"
+      }
+    ],
     "common_collocations": [
       "public expenditure"
     ],
@@ -981,7 +1235,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "board",
+        "relation": "headword / core form",
+        "meaning": "a flat piece of wood; a group; to get on a vehicle",
+        "meaning_cn": "木板；委员会；登上"
+      },
+      {
+        "word": "boarding pass",
+        "relation": "common collocation",
+        "meaning": "a common phrase using board",
+        "meaning_cn": "常见搭配：boarding pass"
+      },
+      {
+        "word": "boarding",
+        "relation": "-ing form",
+        "meaning": "ongoing action of board",
+        "meaning_cn": "board 的现在分词/动名词形式"
+      },
+      {
+        "word": "boarded",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of board",
+        "meaning_cn": "board 的过去式或过去分词形式"
+      },
+      {
+        "word": "boards",
+        "relation": "plural form",
+        "meaning": "more than one board",
+        "meaning_cn": "board 的复数形式"
+      },
+      {
+        "word": "Passengers boarded the train.",
+        "relation": "example usage",
+        "meaning": "sentence showing board in context",
+        "meaning_cn": "乘客登上了火车。"
+      }
+    ],
     "common_collocations": [
       "boarding pass"
     ],
@@ -1136,7 +1427,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "lump",
+        "relation": "headword / core form",
+        "meaning": "a piece of something solid; to group together",
+        "meaning_cn": "块；肿块；归并"
+      },
+      {
+        "word": "lump of coal",
+        "relation": "common collocation",
+        "meaning": "a common phrase using lump",
+        "meaning_cn": "常见搭配：lump of coal"
+      },
+      {
+        "word": "lumping",
+        "relation": "-ing form",
+        "meaning": "ongoing action of lump",
+        "meaning_cn": "lump 的现在分词/动名词形式"
+      },
+      {
+        "word": "lumped",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of lump",
+        "meaning_cn": "lump 的过去式或过去分词形式"
+      },
+      {
+        "word": "lumps",
+        "relation": "plural form",
+        "meaning": "more than one lump",
+        "meaning_cn": "lump 的复数形式"
+      },
+      {
+        "word": "He found a lump of clay.",
+        "relation": "example usage",
+        "meaning": "sentence showing lump in context",
+        "meaning_cn": "他发现了一块黏土。"
+      }
+    ],
     "common_collocations": [
       "lump of coal"
     ],
@@ -1259,7 +1587,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "disperse",
+        "relation": "headword / core form",
+        "meaning": "to spread over a wide area or make people separate",
+        "meaning_cn": "分散；驱散"
+      },
+      {
+        "word": "disperse crowds",
+        "relation": "common collocation",
+        "meaning": "a common phrase using disperse",
+        "meaning_cn": "常见搭配：disperse crowds"
+      },
+      {
+        "word": "dispersing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of disperse",
+        "meaning_cn": "disperse 的现在分词/动名词形式"
+      },
+      {
+        "word": "dispersed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of disperse",
+        "meaning_cn": "disperse 的过去式或过去分词形式"
+      },
+      {
+        "word": "The crowd dispersed after the show.",
+        "relation": "example usage",
+        "meaning": "sentence showing disperse in context",
+        "meaning_cn": "演出后人群散开了。"
+      }
+    ],
     "common_collocations": [
       "disperse crowds"
     ],
@@ -1351,7 +1710,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "elapse",
+        "relation": "headword / core form",
+        "meaning": "for time to pass",
+        "meaning_cn": "流逝；过去"
+      },
+      {
+        "word": "time elapsed",
+        "relation": "common collocation",
+        "meaning": "a common phrase using elapse",
+        "meaning_cn": "常见搭配：time elapsed"
+      },
+      {
+        "word": "elapsing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of elapse",
+        "meaning_cn": "elapse 的现在分词/动名词形式"
+      },
+      {
+        "word": "elapsed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of elapse",
+        "meaning_cn": "elapse 的过去式或过去分词形式"
+      },
+      {
+        "word": "Two hours elapsed before help arrived.",
+        "relation": "example usage",
+        "meaning": "sentence showing elapse in context",
+        "meaning_cn": "两个小时过去后救援才到达。"
+      }
+    ],
     "common_collocations": [
       "time elapsed"
     ],
@@ -1443,7 +1833,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "deviate",
+        "relation": "headword / core form",
+        "meaning": "to move away from a path or standard",
+        "meaning_cn": "偏离；违背"
+      },
+      {
+        "word": "deviate from",
+        "relation": "common collocation",
+        "meaning": "a common phrase using deviate",
+        "meaning_cn": "常见搭配：deviate from"
+      },
+      {
+        "word": "deviating",
+        "relation": "-ing form",
+        "meaning": "ongoing action of deviate",
+        "meaning_cn": "deviate 的现在分词/动名词形式"
+      },
+      {
+        "word": "deviated",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of deviate",
+        "meaning_cn": "deviate 的过去式或过去分词形式"
+      },
+      {
+        "word": "Do not deviate from the plan.",
+        "relation": "example usage",
+        "meaning": "sentence showing deviate in context",
+        "meaning_cn": "不要偏离计划。"
+      }
+    ],
     "common_collocations": [
       "deviate from"
     ],
@@ -1534,7 +1955,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "hoarse",
+        "relation": "headword / core form",
+        "meaning": "rough and low in voice, often from illness or shouting",
+        "meaning_cn": "嘶哑的"
+      },
+      {
+        "word": "hoarse voice",
+        "relation": "common collocation",
+        "meaning": "a common phrase using hoarse",
+        "meaning_cn": "常见搭配：hoarse voice"
+      },
+      {
+        "word": "hoarsely",
+        "relation": "adverb form",
+        "meaning": "in a hoarse way",
+        "meaning_cn": "以 hoarse 的方式"
+      },
+      {
+        "word": "His voice became hoarse.",
+        "relation": "example usage",
+        "meaning": "sentence showing hoarse in context",
+        "meaning_cn": "他的声音变得嘶哑。"
+      }
+    ],
     "common_collocations": [
       "hoarse voice"
     ],
@@ -1627,7 +2073,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "clearing",
+        "relation": "headword / core form",
+        "meaning": "an open space in a forest; the act of removing",
+        "meaning_cn": "空地；清除；结算"
+      },
+      {
+        "word": "clear",
+        "relation": "root / base form",
+        "meaning": "core form connected with clearing",
+        "meaning_cn": "和 clearing 有关的核心词根/基础形式"
+      },
+      {
+        "word": "forest clearing",
+        "relation": "common collocation",
+        "meaning": "a common phrase using clearing",
+        "meaning_cn": "常见搭配：forest clearing"
+      },
+      {
+        "word": "clearings",
+        "relation": "plural form",
+        "meaning": "more than one clearing",
+        "meaning_cn": "clearing 的复数形式"
+      },
+      {
+        "word": "They found a clearing in the forest.",
+        "relation": "example usage",
+        "meaning": "sentence showing clearing in context",
+        "meaning_cn": "他们在森林中发现一片空地。"
+      }
+    ],
     "common_collocations": [
       "forest clearing"
     ],
@@ -1783,7 +2260,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "pose",
+        "relation": "headword / core form",
+        "meaning": "to position oneself; to ask or create a problem",
+        "meaning_cn": "摆姿势；提出；造成；姿势"
+      },
+      {
+        "word": "pose a question",
+        "relation": "common collocation",
+        "meaning": "a common phrase using pose",
+        "meaning_cn": "常见搭配：pose a question"
+      },
+      {
+        "word": "posing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of pose",
+        "meaning_cn": "pose 的现在分词/动名词形式"
+      },
+      {
+        "word": "posed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of pose",
+        "meaning_cn": "pose 的过去式或过去分词形式"
+      },
+      {
+        "word": "poses",
+        "relation": "plural form",
+        "meaning": "more than one pose",
+        "meaning_cn": "pose 的复数形式"
+      },
+      {
+        "word": "The issue poses a challenge.",
+        "relation": "example usage",
+        "meaning": "sentence showing pose in context",
+        "meaning_cn": "这个问题构成挑战。"
+      }
+    ],
     "common_collocations": [
       "pose a question"
     ],
@@ -1938,7 +2452,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "eclipse",
+        "relation": "headword / core form",
+        "meaning": "when one body blocks light from another; to overshadow",
+        "meaning_cn": "日食；月食；使黯然失色"
+      },
+      {
+        "word": "solar eclipse",
+        "relation": "common collocation",
+        "meaning": "a common phrase using eclipse",
+        "meaning_cn": "常见搭配：solar eclipse"
+      },
+      {
+        "word": "eclipsing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of eclipse",
+        "meaning_cn": "eclipse 的现在分词/动名词形式"
+      },
+      {
+        "word": "eclipsed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of eclipse",
+        "meaning_cn": "eclipse 的过去式或过去分词形式"
+      },
+      {
+        "word": "eclipses",
+        "relation": "plural form",
+        "meaning": "more than one eclipse",
+        "meaning_cn": "eclipse 的复数形式"
+      },
+      {
+        "word": "People watched the solar eclipse.",
+        "relation": "example usage",
+        "meaning": "sentence showing eclipse in context",
+        "meaning_cn": "人们观看了日食。"
+      }
+    ],
     "common_collocations": [
       "solar eclipse"
     ],
@@ -2090,7 +2641,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "quiver",
+        "relation": "headword / core form",
+        "meaning": "to shake slightly; a case for arrows",
+        "meaning_cn": "颤抖；箭袋"
+      },
+      {
+        "word": "quiver with fear",
+        "relation": "common collocation",
+        "meaning": "a common phrase using quiver",
+        "meaning_cn": "常见搭配：quiver with fear"
+      },
+      {
+        "word": "quivering",
+        "relation": "-ing form",
+        "meaning": "ongoing action of quiver",
+        "meaning_cn": "quiver 的现在分词/动名词形式"
+      },
+      {
+        "word": "quivered",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of quiver",
+        "meaning_cn": "quiver 的过去式或过去分词形式"
+      },
+      {
+        "word": "quivers",
+        "relation": "plural form",
+        "meaning": "more than one quiver",
+        "meaning_cn": "quiver 的复数形式"
+      },
+      {
+        "word": "Her hands began to quiver.",
+        "relation": "example usage",
+        "meaning": "sentence showing quiver in context",
+        "meaning_cn": "她的手开始颤抖。"
+      }
+    ],
     "common_collocations": [
       "quiver with fear"
     ],
@@ -2184,7 +2772,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "shade",
+        "relation": "headword / core form",
+        "meaning": "darkness from blocked light; to protect from light",
+        "meaning_cn": "阴凉处；色度；遮蔽"
+      },
+      {
+        "word": "in the shade",
+        "relation": "common collocation",
+        "meaning": "a common phrase using shade",
+        "meaning_cn": "常见搭配：in the shade"
+      },
+      {
+        "word": "shading",
+        "relation": "-ing form",
+        "meaning": "ongoing action of shade",
+        "meaning_cn": "shade 的现在分词/动名词形式"
+      },
+      {
+        "word": "shaded",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of shade",
+        "meaning_cn": "shade 的过去式或过去分词形式"
+      },
+      {
+        "word": "shades",
+        "relation": "plural form",
+        "meaning": "more than one shade",
+        "meaning_cn": "shade 的复数形式"
+      },
+      {
+        "word": "They rested in the shade.",
+        "relation": "example usage",
+        "meaning": "sentence showing shade in context",
+        "meaning_cn": "他们在阴凉处休息。"
+      }
+    ],
     "common_collocations": [
       "in the shade"
     ],
@@ -2306,7 +2931,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "unanimous",
+        "relation": "headword / core form",
+        "meaning": "fully agreed by everyone",
+        "meaning_cn": "一致同意的"
+      },
+      {
+        "word": "anim",
+        "relation": "root / base form",
+        "meaning": "core form connected with unanimous",
+        "meaning_cn": "和 unanimous 有关的核心词根/基础形式"
+      },
+      {
+        "word": "unanimous decision",
+        "relation": "common collocation",
+        "meaning": "a common phrase using unanimous",
+        "meaning_cn": "常见搭配：unanimous decision"
+      },
+      {
+        "word": "unanimously",
+        "relation": "adverb form",
+        "meaning": "in an unanimous way",
+        "meaning_cn": "以 unanimous 的方式"
+      },
+      {
+        "word": "The decision was unanimous.",
+        "relation": "example usage",
+        "meaning": "sentence showing unanimous in context",
+        "meaning_cn": "这个决定是一致通过的。"
+      }
+    ],
     "common_collocations": [
       "unanimous decision"
     ],
@@ -2399,7 +3055,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "constitution",
+        "relation": "headword / core form",
+        "meaning": "a country's basic law; the way something is formed",
+        "meaning_cn": "宪法；组成；体质"
+      },
+      {
+        "word": "constitute",
+        "relation": "root / base form",
+        "meaning": "core form connected with constitution",
+        "meaning_cn": "和 constitution 有关的核心词根/基础形式"
+      },
+      {
+        "word": "national constitution",
+        "relation": "common collocation",
+        "meaning": "a common phrase using constitution",
+        "meaning_cn": "常见搭配：national constitution"
+      },
+      {
+        "word": "constitutions",
+        "relation": "plural form",
+        "meaning": "more than one constitution",
+        "meaning_cn": "constitution 的复数形式"
+      },
+      {
+        "word": "The constitution protects basic rights.",
+        "relation": "example usage",
+        "meaning": "sentence showing constitution in context",
+        "meaning_cn": "宪法保护基本权利。"
+      }
+    ],
     "common_collocations": [
       "national constitution"
     ],
@@ -2491,7 +3178,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "pier",
+        "relation": "headword / core form",
+        "meaning": "a structure built out into water for boats or walking",
+        "meaning_cn": "码头；栈桥"
+      },
+      {
+        "word": "wooden pier",
+        "relation": "common collocation",
+        "meaning": "a common phrase using pier",
+        "meaning_cn": "常见搭配：wooden pier"
+      },
+      {
+        "word": "piers",
+        "relation": "plural form",
+        "meaning": "more than one pier",
+        "meaning_cn": "pier 的复数形式"
+      },
+      {
+        "word": "They walked along the pier.",
+        "relation": "example usage",
+        "meaning": "sentence showing pier in context",
+        "meaning_cn": "他们沿着码头走。"
+      }
+    ],
     "common_collocations": [
       "wooden pier"
     ],
@@ -2584,7 +3296,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "spill",
+        "relation": "headword / core form",
+        "meaning": "to let liquid fall out accidentally",
+        "meaning_cn": "洒出；溢出"
+      },
+      {
+        "word": "spill water",
+        "relation": "common collocation",
+        "meaning": "a common phrase using spill",
+        "meaning_cn": "常见搭配：spill water"
+      },
+      {
+        "word": "spilling",
+        "relation": "-ing form",
+        "meaning": "ongoing action of spill",
+        "meaning_cn": "spill 的现在分词/动名词形式"
+      },
+      {
+        "word": "spilled",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of spill",
+        "meaning_cn": "spill 的过去式或过去分词形式"
+      },
+      {
+        "word": "spills",
+        "relation": "plural form",
+        "meaning": "more than one spill",
+        "meaning_cn": "spill 的复数形式"
+      },
+      {
+        "word": "Do not spill the milk.",
+        "relation": "example usage",
+        "meaning": "sentence showing spill in context",
+        "meaning_cn": "不要把牛奶洒了。"
+      }
+    ],
     "common_collocations": [
       "spill water"
     ],
@@ -2739,7 +3488,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "span",
+        "relation": "headword / core form",
+        "meaning": "the full length from end to end; to stretch across",
+        "meaning_cn": "跨度；一段时间；横跨"
+      },
+      {
+        "word": "life span",
+        "relation": "common collocation",
+        "meaning": "a common phrase using span",
+        "meaning_cn": "常见搭配：life span"
+      },
+      {
+        "word": "spaning",
+        "relation": "-ing form",
+        "meaning": "ongoing action of span",
+        "meaning_cn": "span 的现在分词/动名词形式"
+      },
+      {
+        "word": "spaned",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of span",
+        "meaning_cn": "span 的过去式或过去分词形式"
+      },
+      {
+        "word": "spans",
+        "relation": "plural form",
+        "meaning": "more than one span",
+        "meaning_cn": "span 的复数形式"
+      },
+      {
+        "word": "The bridge spans the river.",
+        "relation": "example usage",
+        "meaning": "sentence showing span in context",
+        "meaning_cn": "这座桥横跨河流。"
+      }
+    ],
     "common_collocations": [
       "life span"
     ],
@@ -2833,7 +3619,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "perch",
+        "relation": "headword / core form",
+        "meaning": "a place where a bird rests; to sit on a high place",
+        "meaning_cn": "栖木；高处；栖息"
+      },
+      {
+        "word": "perch on",
+        "relation": "common collocation",
+        "meaning": "a common phrase using perch",
+        "meaning_cn": "常见搭配：perch on"
+      },
+      {
+        "word": "perching",
+        "relation": "-ing form",
+        "meaning": "ongoing action of perch",
+        "meaning_cn": "perch 的现在分词/动名词形式"
+      },
+      {
+        "word": "perched",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of perch",
+        "meaning_cn": "perch 的过去式或过去分词形式"
+      },
+      {
+        "word": "perches",
+        "relation": "plural form",
+        "meaning": "more than one perch",
+        "meaning_cn": "perch 的复数形式"
+      },
+      {
+        "word": "The bird perched on a branch.",
+        "relation": "example usage",
+        "meaning": "sentence showing perch in context",
+        "meaning_cn": "鸟栖息在树枝上。"
+      }
+    ],
     "common_collocations": [
       "perch on"
     ],
@@ -2957,7 +3780,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "flutter",
+        "relation": "headword / core form",
+        "meaning": "to move lightly and quickly",
+        "meaning_cn": "拍动；飘动；颤动"
+      },
+      {
+        "word": "flutter in the wind",
+        "relation": "common collocation",
+        "meaning": "a common phrase using flutter",
+        "meaning_cn": "常见搭配：flutter in the wind"
+      },
+      {
+        "word": "fluttering",
+        "relation": "-ing form",
+        "meaning": "ongoing action of flutter",
+        "meaning_cn": "flutter 的现在分词/动名词形式"
+      },
+      {
+        "word": "fluttered",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of flutter",
+        "meaning_cn": "flutter 的过去式或过去分词形式"
+      },
+      {
+        "word": "flutters",
+        "relation": "plural form",
+        "meaning": "more than one flutter",
+        "meaning_cn": "flutter 的复数形式"
+      },
+      {
+        "word": "The flag fluttered in the wind.",
+        "relation": "example usage",
+        "meaning": "sentence showing flutter in context",
+        "meaning_cn": "旗帜在风中飘动。"
+      }
+    ],
     "common_collocations": [
       "flutter in the wind"
     ],
@@ -3049,7 +3909,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "frock",
+        "relation": "headword / core form",
+        "meaning": "a dress, especially for women or children",
+        "meaning_cn": "连衣裙；女装"
+      },
+      {
+        "word": "summer frock",
+        "relation": "common collocation",
+        "meaning": "a common phrase using frock",
+        "meaning_cn": "常见搭配：summer frock"
+      },
+      {
+        "word": "frocks",
+        "relation": "plural form",
+        "meaning": "more than one frock",
+        "meaning_cn": "frock 的复数形式"
+      },
+      {
+        "word": "She wore a blue frock.",
+        "relation": "example usage",
+        "meaning": "sentence showing frock in context",
+        "meaning_cn": "她穿了一条蓝色连衣裙。"
+      }
+    ],
     "common_collocations": [
       "summer frock"
     ],
@@ -3142,7 +4027,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "clown",
+        "relation": "headword / core form",
+        "meaning": "a comic performer with makeup and costume",
+        "meaning_cn": "小丑；扮小丑"
+      },
+      {
+        "word": "circus clown",
+        "relation": "common collocation",
+        "meaning": "a common phrase using clown",
+        "meaning_cn": "常见搭配：circus clown"
+      },
+      {
+        "word": "clowning",
+        "relation": "-ing form",
+        "meaning": "ongoing action of clown",
+        "meaning_cn": "clown 的现在分词/动名词形式"
+      },
+      {
+        "word": "clowned",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of clown",
+        "meaning_cn": "clown 的过去式或过去分词形式"
+      },
+      {
+        "word": "clowns",
+        "relation": "plural form",
+        "meaning": "more than one clown",
+        "meaning_cn": "clown 的复数形式"
+      },
+      {
+        "word": "The clown made the children laugh.",
+        "relation": "example usage",
+        "meaning": "sentence showing clown in context",
+        "meaning_cn": "小丑逗孩子们笑。"
+      }
+    ],
     "common_collocations": [
       "circus clown"
     ],
@@ -3296,7 +4218,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "resume",
+        "relation": "headword / core form",
+        "meaning": "to start again after stopping; a brief work history",
+        "meaning_cn": "恢复；重新开始；简历"
+      },
+      {
+        "word": "resume work",
+        "relation": "common collocation",
+        "meaning": "a common phrase using resume",
+        "meaning_cn": "常见搭配：resume work"
+      },
+      {
+        "word": "resuming",
+        "relation": "-ing form",
+        "meaning": "ongoing action of resume",
+        "meaning_cn": "resume 的现在分词/动名词形式"
+      },
+      {
+        "word": "resumed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of resume",
+        "meaning_cn": "resume 的过去式或过去分词形式"
+      },
+      {
+        "word": "resumes",
+        "relation": "plural form",
+        "meaning": "more than one resume",
+        "meaning_cn": "resume 的复数形式"
+      },
+      {
+        "word": "They resumed work after lunch.",
+        "relation": "example usage",
+        "meaning": "sentence showing resume in context",
+        "meaning_cn": "午饭后他们恢复工作。"
+      }
+    ],
     "common_collocations": [
       "resume work"
     ],
@@ -3449,7 +4408,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "pace",
+        "relation": "headword / core form",
+        "meaning": "speed of movement; to walk back and forth",
+        "meaning_cn": "步伐；速度；踱步"
+      },
+      {
+        "word": "slow pace",
+        "relation": "common collocation",
+        "meaning": "a common phrase using pace",
+        "meaning_cn": "常见搭配：slow pace"
+      },
+      {
+        "word": "pacing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of pace",
+        "meaning_cn": "pace 的现在分词/动名词形式"
+      },
+      {
+        "word": "paced",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of pace",
+        "meaning_cn": "pace 的过去式或过去分词形式"
+      },
+      {
+        "word": "paces",
+        "relation": "plural form",
+        "meaning": "more than one pace",
+        "meaning_cn": "pace 的复数形式"
+      },
+      {
+        "word": "He walked at a steady pace.",
+        "relation": "example usage",
+        "meaning": "sentence showing pace in context",
+        "meaning_cn": "他以稳定步伐走路。"
+      }
+    ],
     "common_collocations": [
       "slow pace"
     ],
@@ -3601,7 +4597,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "pope",
+        "relation": "headword / core form",
+        "meaning": "the head of the Roman Catholic Church",
+        "meaning_cn": "教皇"
+      },
+      {
+        "word": "the Pope",
+        "relation": "common collocation",
+        "meaning": "a common phrase using pope",
+        "meaning_cn": "常见搭配：the Pope"
+      },
+      {
+        "word": "popes",
+        "relation": "plural form",
+        "meaning": "more than one pope",
+        "meaning_cn": "pope 的复数形式"
+      },
+      {
+        "word": "The Pope addressed the crowd.",
+        "relation": "example usage",
+        "meaning": "sentence showing pope in context",
+        "meaning_cn": "教皇向人群讲话。"
+      }
+    ],
     "common_collocations": [
       "the Pope"
     ],
@@ -3692,7 +4713,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "axle",
+        "relation": "headword / core form",
+        "meaning": "a rod around which wheels turn",
+        "meaning_cn": "车轴"
+      },
+      {
+        "word": "rear axle",
+        "relation": "common collocation",
+        "meaning": "a common phrase using axle",
+        "meaning_cn": "常见搭配：rear axle"
+      },
+      {
+        "word": "axles",
+        "relation": "plural form",
+        "meaning": "more than one axle",
+        "meaning_cn": "axle 的复数形式"
+      },
+      {
+        "word": "The axle broke on the cart.",
+        "relation": "example usage",
+        "meaning": "sentence showing axle in context",
+        "meaning_cn": "车的车轴断了。"
+      }
+    ],
     "common_collocations": [
       "rear axle"
     ],
@@ -3785,7 +4831,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "lounge",
+        "relation": "headword / core form",
+        "meaning": "a comfortable room or to sit relaxed",
+        "meaning_cn": "休息室；懒散地坐"
+      },
+      {
+        "word": "airport lounge",
+        "relation": "common collocation",
+        "meaning": "a common phrase using lounge",
+        "meaning_cn": "常见搭配：airport lounge"
+      },
+      {
+        "word": "lounging",
+        "relation": "-ing form",
+        "meaning": "ongoing action of lounge",
+        "meaning_cn": "lounge 的现在分词/动名词形式"
+      },
+      {
+        "word": "lounged",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of lounge",
+        "meaning_cn": "lounge 的过去式或过去分词形式"
+      },
+      {
+        "word": "lounges",
+        "relation": "plural form",
+        "meaning": "more than one lounge",
+        "meaning_cn": "lounge 的复数形式"
+      },
+      {
+        "word": "They waited in the lounge.",
+        "relation": "example usage",
+        "meaning": "sentence showing lounge in context",
+        "meaning_cn": "他们在休息室等待。"
+      }
+    ],
     "common_collocations": [
       "airport lounge"
     ],
@@ -3938,7 +5021,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "chord",
+        "relation": "headword / core form",
+        "meaning": "a group of musical notes; a line segment joining two points on a curve",
+        "meaning_cn": "和弦；弦"
+      },
+      {
+        "word": "guitar chord",
+        "relation": "common collocation",
+        "meaning": "a common phrase using chord",
+        "meaning_cn": "常见搭配：guitar chord"
+      },
+      {
+        "word": "chords",
+        "relation": "plural form",
+        "meaning": "more than one chord",
+        "meaning_cn": "chord 的复数形式"
+      },
+      {
+        "word": "He played a simple chord.",
+        "relation": "example usage",
+        "meaning": "sentence showing chord in context",
+        "meaning_cn": "他弹了一个简单和弦。"
+      }
+    ],
     "common_collocations": [
       "guitar chord"
     ],
@@ -4060,7 +5168,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "realization",
+        "relation": "headword / core form",
+        "meaning": "the act of becoming aware or making something real",
+        "meaning_cn": "认识；实现"
+      },
+      {
+        "word": "realize",
+        "relation": "root / base form",
+        "meaning": "core form connected with realization",
+        "meaning_cn": "和 realization 有关的核心词根/基础形式"
+      },
+      {
+        "word": "sudden realization",
+        "relation": "common collocation",
+        "meaning": "a common phrase using realization",
+        "meaning_cn": "常见搭配：sudden realization"
+      },
+      {
+        "word": "realizations",
+        "relation": "plural form",
+        "meaning": "more than one realization",
+        "meaning_cn": "realization 的复数形式"
+      },
+      {
+        "word": "She came to a sudden realization.",
+        "relation": "example usage",
+        "meaning": "sentence showing realization in context",
+        "meaning_cn": "她突然意识到了。"
+      }
+    ],
     "common_collocations": [
       "sudden realization"
     ],
@@ -4151,7 +5290,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "pyjamas",
+        "relation": "headword / core form",
+        "meaning": "loose clothes worn for sleeping",
+        "meaning_cn": "睡衣"
+      },
+      {
+        "word": "wear pyjamas",
+        "relation": "common collocation",
+        "meaning": "a common phrase using pyjamas",
+        "meaning_cn": "常见搭配：wear pyjamas"
+      },
+      {
+        "word": "pyjamases",
+        "relation": "plural form",
+        "meaning": "more than one pyjamas",
+        "meaning_cn": "pyjamas 的复数形式"
+      },
+      {
+        "word": "The child wore striped pyjamas.",
+        "relation": "example usage",
+        "meaning": "sentence showing pyjamas in context",
+        "meaning_cn": "孩子穿着条纹睡衣。"
+      }
+    ],
     "common_collocations": [
       "wear pyjamas"
     ],
@@ -4302,7 +5466,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "measurement",
+        "relation": "headword / core form",
+        "meaning": "the act or result of measuring",
+        "meaning_cn": "测量；尺寸"
+      },
+      {
+        "word": "measure",
+        "relation": "root / base form",
+        "meaning": "core form connected with measurement",
+        "meaning_cn": "和 measurement 有关的核心词根/基础形式"
+      },
+      {
+        "word": "accurate measurement",
+        "relation": "common collocation",
+        "meaning": "a common phrase using measurement",
+        "meaning_cn": "常见搭配：accurate measurement"
+      },
+      {
+        "word": "measurements",
+        "relation": "plural form",
+        "meaning": "more than one measurement",
+        "meaning_cn": "measurement 的复数形式"
+      },
+      {
+        "word": "The measurement was accurate.",
+        "relation": "example usage",
+        "meaning": "sentence showing measurement in context",
+        "meaning_cn": "测量很准确。"
+      }
+    ],
     "common_collocations": [
       "accurate measurement"
     ],
@@ -4394,7 +5589,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "elegant",
+        "relation": "headword / core form",
+        "meaning": "graceful, stylish, and simple",
+        "meaning_cn": "优雅的；精美的"
+      },
+      {
+        "word": "elegant design",
+        "relation": "common collocation",
+        "meaning": "a common phrase using elegant",
+        "meaning_cn": "常见搭配：elegant design"
+      },
+      {
+        "word": "elegantly",
+        "relation": "adverb form",
+        "meaning": "in an elegant way",
+        "meaning_cn": "以 elegant 的方式"
+      },
+      {
+        "word": "The dress is elegant.",
+        "relation": "example usage",
+        "meaning": "sentence showing elegant in context",
+        "meaning_cn": "这条裙子很优雅。"
+      }
+    ],
     "common_collocations": [
       "elegant design"
     ],
@@ -4546,7 +5766,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "refreshment",
+        "relation": "headword / core form",
+        "meaning": "a light drink or snack; renewed energy",
+        "meaning_cn": "点心；茶点；恢复精神"
+      },
+      {
+        "word": "refresh",
+        "relation": "root / base form",
+        "meaning": "core form connected with refreshment",
+        "meaning_cn": "和 refreshment 有关的核心词根/基础形式"
+      },
+      {
+        "word": "light refreshment",
+        "relation": "common collocation",
+        "meaning": "a common phrase using refreshment",
+        "meaning_cn": "常见搭配：light refreshment"
+      },
+      {
+        "word": "refreshments",
+        "relation": "plural form",
+        "meaning": "more than one refreshment",
+        "meaning_cn": "refreshment 的复数形式"
+      },
+      {
+        "word": "Refreshments were served after the meeting.",
+        "relation": "example usage",
+        "meaning": "sentence showing refreshment in context",
+        "meaning_cn": "会后提供了茶点。"
+      }
+    ],
     "common_collocations": [
       "light refreshment"
     ],
@@ -4638,7 +5889,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "bishop",
+        "relation": "headword / core form",
+        "meaning": "a senior church official; a chess piece",
+        "meaning_cn": "主教；象"
+      },
+      {
+        "word": "Catholic bishop",
+        "relation": "common collocation",
+        "meaning": "a common phrase using bishop",
+        "meaning_cn": "常见搭配：Catholic bishop"
+      },
+      {
+        "word": "bishops",
+        "relation": "plural form",
+        "meaning": "more than one bishop",
+        "meaning_cn": "bishop 的复数形式"
+      },
+      {
+        "word": "The bishop spoke at the ceremony.",
+        "relation": "example usage",
+        "meaning": "sentence showing bishop in context",
+        "meaning_cn": "主教在仪式上讲话。"
+      }
+    ],
     "common_collocations": [
       "Catholic bishop"
     ],
@@ -4776,7 +6052,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "ticket",
+        "relation": "headword / core form",
+        "meaning": "a pass for entry or travel; a written notice of penalty",
+        "meaning_cn": "票；罚单；给票"
+      },
+      {
+        "word": "train ticket",
+        "relation": "common collocation",
+        "meaning": "a common phrase using ticket",
+        "meaning_cn": "常见搭配：train ticket"
+      },
+      {
+        "word": "ticketing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of ticket",
+        "meaning_cn": "ticket 的现在分词/动名词形式"
+      },
+      {
+        "word": "ticketed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of ticket",
+        "meaning_cn": "ticket 的过去式或过去分词形式"
+      },
+      {
+        "word": "tickets",
+        "relation": "plural form",
+        "meaning": "more than one ticket",
+        "meaning_cn": "ticket 的复数形式"
+      },
+      {
+        "word": "I bought a train ticket.",
+        "relation": "example usage",
+        "meaning": "sentence showing ticket in context",
+        "meaning_cn": "我买了一张火车票。"
+      }
+    ],
     "common_collocations": [
       "train ticket"
     ],
@@ -4927,7 +6240,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "software",
+        "relation": "headword / core form",
+        "meaning": "programs used by a computer",
+        "meaning_cn": "软件"
+      },
+      {
+        "word": "soft + ware",
+        "relation": "compound root",
+        "meaning": "parts that build the meaning of software",
+        "meaning_cn": "构成 software 词义的组合部分"
+      },
+      {
+        "word": "software update",
+        "relation": "common collocation",
+        "meaning": "a common phrase using software",
+        "meaning_cn": "常见搭配：software update"
+      },
+      {
+        "word": "softwares",
+        "relation": "plural form",
+        "meaning": "more than one software",
+        "meaning_cn": "software 的复数形式"
+      },
+      {
+        "word": "The software needs an update.",
+        "relation": "example usage",
+        "meaning": "sentence showing software in context",
+        "meaning_cn": "这个软件需要更新。"
+      }
+    ],
     "common_collocations": [
       "software update"
     ],
@@ -5021,7 +6365,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "hard",
+        "relation": "headword / core form",
+        "meaning": "solid, difficult, or with great effort",
+        "meaning_cn": "硬的；困难的；努力地"
+      },
+      {
+        "word": "hard work",
+        "relation": "common collocation",
+        "meaning": "a common phrase using hard",
+        "meaning_cn": "常见搭配：hard work"
+      },
+      {
+        "word": "hardly",
+        "relation": "adverb form",
+        "meaning": "in a hard way",
+        "meaning_cn": "以 hard 的方式"
+      },
+      {
+        "word": "This is a hard problem.",
+        "relation": "example usage",
+        "meaning": "sentence showing hard in context",
+        "meaning_cn": "这是个难题。"
+      }
+    ],
     "common_collocations": [
       "hard work"
     ],
@@ -5174,7 +6543,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "kernel",
+        "relation": "headword / core form",
+        "meaning": "the inner part of a seed or the core of a system",
+        "meaning_cn": "核心；仁；内核"
+      },
+      {
+        "word": "operating system kernel",
+        "relation": "common collocation",
+        "meaning": "a common phrase using kernel",
+        "meaning_cn": "常见搭配：operating system kernel"
+      },
+      {
+        "word": "kernels",
+        "relation": "plural form",
+        "meaning": "more than one kernel",
+        "meaning_cn": "kernel 的复数形式"
+      },
+      {
+        "word": "The kernel controls the system.",
+        "relation": "example usage",
+        "meaning": "sentence showing kernel in context",
+        "meaning_cn": "内核控制系统。"
+      }
+    ],
     "common_collocations": [
       "operating system kernel"
     ],
@@ -5267,7 +6661,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "gesture",
+        "relation": "headword / core form",
+        "meaning": "a movement expressing meaning; to make such a movement",
+        "meaning_cn": "手势；姿态"
+      },
+      {
+        "word": "gest",
+        "relation": "root / base form",
+        "meaning": "core form connected with gesture",
+        "meaning_cn": "和 gesture 有关的核心词根/基础形式"
+      },
+      {
+        "word": "hand gesture",
+        "relation": "common collocation",
+        "meaning": "a common phrase using gesture",
+        "meaning_cn": "常见搭配：hand gesture"
+      },
+      {
+        "word": "gesturing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of gesture",
+        "meaning_cn": "gesture 的现在分词/动名词形式"
+      },
+      {
+        "word": "gestured",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of gesture",
+        "meaning_cn": "gesture 的过去式或过去分词形式"
+      },
+      {
+        "word": "gestures",
+        "relation": "plural form",
+        "meaning": "more than one gesture",
+        "meaning_cn": "gesture 的复数形式"
+      }
+    ],
     "common_collocations": [
       "hand gesture"
     ],
@@ -5419,7 +6850,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "insert",
+        "relation": "headword / core form",
+        "meaning": "to put something into something else",
+        "meaning_cn": "插入；插入物"
+      },
+      {
+        "word": "sert",
+        "relation": "root / base form",
+        "meaning": "core form connected with insert",
+        "meaning_cn": "和 insert 有关的核心词根/基础形式"
+      },
+      {
+        "word": "insert a key",
+        "relation": "common collocation",
+        "meaning": "a common phrase using insert",
+        "meaning_cn": "常见搭配：insert a key"
+      },
+      {
+        "word": "inserting",
+        "relation": "-ing form",
+        "meaning": "ongoing action of insert",
+        "meaning_cn": "insert 的现在分词/动名词形式"
+      },
+      {
+        "word": "inserted",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of insert",
+        "meaning_cn": "insert 的过去式或过去分词形式"
+      },
+      {
+        "word": "inserts",
+        "relation": "plural form",
+        "meaning": "more than one insert",
+        "meaning_cn": "insert 的复数形式"
+      }
+    ],
     "common_collocations": [
       "insert a key"
     ],
@@ -5572,7 +7040,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "situation",
+        "relation": "headword / core form",
+        "meaning": "the set of conditions at a particular time",
+        "meaning_cn": "情况；处境"
+      },
+      {
+        "word": "situ",
+        "relation": "root / base form",
+        "meaning": "core form connected with situation",
+        "meaning_cn": "和 situation 有关的核心词根/基础形式"
+      },
+      {
+        "word": "difficult situation",
+        "relation": "common collocation",
+        "meaning": "a common phrase using situation",
+        "meaning_cn": "常见搭配：difficult situation"
+      },
+      {
+        "word": "situations",
+        "relation": "plural form",
+        "meaning": "more than one situation",
+        "meaning_cn": "situation 的复数形式"
+      },
+      {
+        "word": "The situation improved slowly.",
+        "relation": "example usage",
+        "meaning": "sentence showing situation in context",
+        "meaning_cn": "情况慢慢好转。"
+      }
+    ],
     "common_collocations": [
       "difficult situation"
     ],
@@ -5724,7 +7223,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "wisdom",
+        "relation": "headword / core form",
+        "meaning": "good judgment based on knowledge and experience",
+        "meaning_cn": "智慧；明智"
+      },
+      {
+        "word": "wise",
+        "relation": "root / base form",
+        "meaning": "core form connected with wisdom",
+        "meaning_cn": "和 wisdom 有关的核心词根/基础形式"
+      },
+      {
+        "word": "ancient wisdom",
+        "relation": "common collocation",
+        "meaning": "a common phrase using wisdom",
+        "meaning_cn": "常见搭配：ancient wisdom"
+      },
+      {
+        "word": "wisdoms",
+        "relation": "plural form",
+        "meaning": "more than one wisdom",
+        "meaning_cn": "wisdom 的复数形式"
+      },
+      {
+        "word": "Wisdom comes from experience.",
+        "relation": "example usage",
+        "meaning": "sentence showing wisdom in context",
+        "meaning_cn": "智慧来自经验。"
+      }
+    ],
     "common_collocations": [
       "ancient wisdom"
     ],
@@ -5876,7 +7406,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "growl",
+        "relation": "headword / core form",
+        "meaning": "to make a low rough sound, especially an animal",
+        "meaning_cn": "低吼；咆哮"
+      },
+      {
+        "word": "dog growl",
+        "relation": "common collocation",
+        "meaning": "a common phrase using growl",
+        "meaning_cn": "常见搭配：dog growl"
+      },
+      {
+        "word": "growling",
+        "relation": "-ing form",
+        "meaning": "ongoing action of growl",
+        "meaning_cn": "growl 的现在分词/动名词形式"
+      },
+      {
+        "word": "growled",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of growl",
+        "meaning_cn": "growl 的过去式或过去分词形式"
+      },
+      {
+        "word": "growls",
+        "relation": "plural form",
+        "meaning": "more than one growl",
+        "meaning_cn": "growl 的复数形式"
+      },
+      {
+        "word": "The dog began to growl.",
+        "relation": "example usage",
+        "meaning": "sentence showing growl in context",
+        "meaning_cn": "狗开始低吼。"
+      }
+    ],
     "common_collocations": [
       "dog growl"
     ],
@@ -6029,7 +7596,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "buzz",
+        "relation": "headword / core form",
+        "meaning": "to make a humming sound; a feeling of excitement",
+        "meaning_cn": "嗡嗡声；热议"
+      },
+      {
+        "word": "buzz with excitement",
+        "relation": "common collocation",
+        "meaning": "a common phrase using buzz",
+        "meaning_cn": "常见搭配：buzz with excitement"
+      },
+      {
+        "word": "buzzing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of buzz",
+        "meaning_cn": "buzz 的现在分词/动名词形式"
+      },
+      {
+        "word": "buzzed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of buzz",
+        "meaning_cn": "buzz 的过去式或过去分词形式"
+      },
+      {
+        "word": "buzzes",
+        "relation": "plural form",
+        "meaning": "more than one buzz",
+        "meaning_cn": "buzz 的复数形式"
+      },
+      {
+        "word": "The room buzzed with excitement.",
+        "relation": "example usage",
+        "meaning": "sentence showing buzz in context",
+        "meaning_cn": "房间里充满兴奋的嗡嗡声。"
+      }
+    ],
     "common_collocations": [
       "buzz with excitement"
     ],
@@ -6184,7 +7788,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "shaft",
+        "relation": "headword / core form",
+        "meaning": "a long narrow part or passage; a beam of light",
+        "meaning_cn": "轴；杆；竖井；光束"
+      },
+      {
+        "word": "shaft of light",
+        "relation": "common collocation",
+        "meaning": "a common phrase using shaft",
+        "meaning_cn": "常见搭配：shaft of light"
+      },
+      {
+        "word": "shafts",
+        "relation": "plural form",
+        "meaning": "more than one shaft",
+        "meaning_cn": "shaft 的复数形式"
+      },
+      {
+        "word": "A shaft of light entered the cave.",
+        "relation": "example usage",
+        "meaning": "sentence showing shaft in context",
+        "meaning_cn": "一束光进入洞穴。"
+      }
+    ],
     "common_collocations": [
       "shaft of light"
     ],
@@ -6336,7 +7965,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "breed",
+        "relation": "headword / core form",
+        "meaning": "to produce young; a type of animal",
+        "meaning_cn": "繁殖；品种"
+      },
+      {
+        "word": "breed horses",
+        "relation": "common collocation",
+        "meaning": "a common phrase using breed",
+        "meaning_cn": "常见搭配：breed horses"
+      },
+      {
+        "word": "breeding",
+        "relation": "-ing form",
+        "meaning": "ongoing action of breed",
+        "meaning_cn": "breed 的现在分词/动名词形式"
+      },
+      {
+        "word": "breeded",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of breed",
+        "meaning_cn": "breed 的过去式或过去分词形式"
+      },
+      {
+        "word": "breeds",
+        "relation": "plural form",
+        "meaning": "more than one breed",
+        "meaning_cn": "breed 的复数形式"
+      },
+      {
+        "word": "They breed dogs on the farm.",
+        "relation": "example usage",
+        "meaning": "sentence showing breed in context",
+        "meaning_cn": "他们在农场养狗繁殖。"
+      }
+    ],
     "common_collocations": [
       "breed horses"
     ],
@@ -6428,7 +8094,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "ear",
+        "relation": "headword / core form",
+        "meaning": "the organ for hearing; the seed-bearing part of grain",
+        "meaning_cn": "耳朵；穗"
+      },
+      {
+        "word": "human ear",
+        "relation": "common collocation",
+        "meaning": "a common phrase using ear",
+        "meaning_cn": "常见搭配：human ear"
+      },
+      {
+        "word": "ears",
+        "relation": "plural form",
+        "meaning": "more than one ear",
+        "meaning_cn": "ear 的复数形式"
+      },
+      {
+        "word": "The sound hurt my ear.",
+        "relation": "example usage",
+        "meaning": "sentence showing ear in context",
+        "meaning_cn": "这个声音刺痛了我的耳朵。"
+      }
+    ],
     "common_collocations": [
       "human ear"
     ],
@@ -6579,7 +8270,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "dean",
+        "relation": "headword / core form",
+        "meaning": "a senior official in a university or church",
+        "meaning_cn": "院长；主任牧师"
+      },
+      {
+        "word": "college dean",
+        "relation": "common collocation",
+        "meaning": "a common phrase using dean",
+        "meaning_cn": "常见搭配：college dean"
+      },
+      {
+        "word": "deans",
+        "relation": "plural form",
+        "meaning": "more than one dean",
+        "meaning_cn": "dean 的复数形式"
+      },
+      {
+        "word": "The dean welcomed new students.",
+        "relation": "example usage",
+        "meaning": "sentence showing dean in context",
+        "meaning_cn": "院长欢迎新生。"
+      }
+    ],
     "common_collocations": [
       "college dean"
     ],
@@ -6672,7 +8388,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "sink",
+        "relation": "headword / core form",
+        "meaning": "to go down below a surface; a basin for washing",
+        "meaning_cn": "下沉；水槽"
+      },
+      {
+        "word": "sink into water",
+        "relation": "common collocation",
+        "meaning": "a common phrase using sink",
+        "meaning_cn": "常见搭配：sink into water"
+      },
+      {
+        "word": "sinking",
+        "relation": "-ing form",
+        "meaning": "ongoing action of sink",
+        "meaning_cn": "sink 的现在分词/动名词形式"
+      },
+      {
+        "word": "sinked",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of sink",
+        "meaning_cn": "sink 的过去式或过去分词形式"
+      },
+      {
+        "word": "sinks",
+        "relation": "plural form",
+        "meaning": "more than one sink",
+        "meaning_cn": "sink 的复数形式"
+      },
+      {
+        "word": "The stone sank in the water.",
+        "relation": "example usage",
+        "meaning": "sentence showing sink in context",
+        "meaning_cn": "石头沉入水中。"
+      }
+    ],
     "common_collocations": [
       "sink into water"
     ],
@@ -6825,7 +8578,38 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "fertile",
+        "relation": "headword / core form",
+        "meaning": "able to produce plants, offspring, or ideas",
+        "meaning_cn": "肥沃的；能生育的；富有创造力的"
+      },
+      {
+        "word": "fert",
+        "relation": "root / base form",
+        "meaning": "core form connected with fertile",
+        "meaning_cn": "和 fertile 有关的核心词根/基础形式"
+      },
+      {
+        "word": "fertile soil",
+        "relation": "common collocation",
+        "meaning": "a common phrase using fertile",
+        "meaning_cn": "常见搭配：fertile soil"
+      },
+      {
+        "word": "fertily",
+        "relation": "adverb form",
+        "meaning": "in a fertile way",
+        "meaning_cn": "以 fertile 的方式"
+      },
+      {
+        "word": "The soil is fertile.",
+        "relation": "example usage",
+        "meaning": "sentence showing fertile in context",
+        "meaning_cn": "土壤很肥沃。"
+      }
+    ],
     "common_collocations": [
       "fertile soil"
     ],
@@ -6948,7 +8732,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "ranch",
+        "relation": "headword / core form",
+        "meaning": "a large farm for raising animals",
+        "meaning_cn": "牧场；经营牧场"
+      },
+      {
+        "word": "cattle ranch",
+        "relation": "common collocation",
+        "meaning": "a common phrase using ranch",
+        "meaning_cn": "常见搭配：cattle ranch"
+      },
+      {
+        "word": "ranching",
+        "relation": "-ing form",
+        "meaning": "ongoing action of ranch",
+        "meaning_cn": "ranch 的现在分词/动名词形式"
+      },
+      {
+        "word": "ranched",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of ranch",
+        "meaning_cn": "ranch 的过去式或过去分词形式"
+      },
+      {
+        "word": "ranches",
+        "relation": "plural form",
+        "meaning": "more than one ranch",
+        "meaning_cn": "ranch 的复数形式"
+      },
+      {
+        "word": "They live on a cattle ranch.",
+        "relation": "example usage",
+        "meaning": "sentence showing ranch in context",
+        "meaning_cn": "他们住在养牛牧场。"
+      }
+    ],
     "common_collocations": [
       "cattle ranch"
     ],
@@ -7100,7 +8921,26 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "versus",
+        "relation": "headword / core form",
+        "meaning": "against or compared with",
+        "meaning_cn": "对抗；与……相对"
+      },
+      {
+        "word": "team A versus team B",
+        "relation": "common collocation",
+        "meaning": "a common phrase using versus",
+        "meaning_cn": "常见搭配：team A versus team B"
+      },
+      {
+        "word": "It is tradition versus innovation.",
+        "relation": "example usage",
+        "meaning": "sentence showing versus in context",
+        "meaning_cn": "这是传统对创新。"
+      }
+    ],
     "common_collocations": [
       "team A versus team B"
     ],
@@ -7252,7 +9092,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "grope",
+        "relation": "headword / core form",
+        "meaning": "to feel around blindly; to search uncertainly",
+        "meaning_cn": "摸索；探寻"
+      },
+      {
+        "word": "grope in the dark",
+        "relation": "common collocation",
+        "meaning": "a common phrase using grope",
+        "meaning_cn": "常见搭配：grope in the dark"
+      },
+      {
+        "word": "groping",
+        "relation": "-ing form",
+        "meaning": "ongoing action of grope",
+        "meaning_cn": "grope 的现在分词/动名词形式"
+      },
+      {
+        "word": "groped",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of grope",
+        "meaning_cn": "grope 的过去式或过去分词形式"
+      },
+      {
+        "word": "gropes",
+        "relation": "plural form",
+        "meaning": "more than one grope",
+        "meaning_cn": "grope 的复数形式"
+      },
+      {
+        "word": "He groped for the light switch.",
+        "relation": "example usage",
+        "meaning": "sentence showing grope in context",
+        "meaning_cn": "他摸索着找灯开关。"
+      }
+    ],
     "common_collocations": [
       "grope in the dark"
     ],
@@ -7344,7 +9221,32 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "pedlar",
+        "relation": "headword / core form",
+        "meaning": "a person who travels selling small goods",
+        "meaning_cn": "小贩；货郎"
+      },
+      {
+        "word": "street pedlar",
+        "relation": "common collocation",
+        "meaning": "a common phrase using pedlar",
+        "meaning_cn": "常见搭配：street pedlar"
+      },
+      {
+        "word": "pedlars",
+        "relation": "plural form",
+        "meaning": "more than one pedlar",
+        "meaning_cn": "pedlar 的复数形式"
+      },
+      {
+        "word": "A pedlar sold toys in the market.",
+        "relation": "example usage",
+        "meaning": "sentence showing pedlar in context",
+        "meaning_cn": "一个小贩在市场卖玩具。"
+      }
+    ],
     "common_collocations": [
       "street pedlar"
     ],
@@ -7439,7 +9341,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "squat",
+        "relation": "headword / core form",
+        "meaning": "to sit with knees bent; short and broad",
+        "meaning_cn": "蹲下；矮胖的；蹲姿"
+      },
+      {
+        "word": "squat down",
+        "relation": "common collocation",
+        "meaning": "a common phrase using squat",
+        "meaning_cn": "常见搭配：squat down"
+      },
+      {
+        "word": "squating",
+        "relation": "-ing form",
+        "meaning": "ongoing action of squat",
+        "meaning_cn": "squat 的现在分词/动名词形式"
+      },
+      {
+        "word": "squated",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of squat",
+        "meaning_cn": "squat 的过去式或过去分词形式"
+      },
+      {
+        "word": "squats",
+        "relation": "plural form",
+        "meaning": "more than one squat",
+        "meaning_cn": "squat 的复数形式"
+      },
+      {
+        "word": "squatly",
+        "relation": "adverb form",
+        "meaning": "in a squat way",
+        "meaning_cn": "以 squat 的方式"
+      }
+    ],
     "common_collocations": [
       "squat down"
     ],
@@ -7591,7 +9530,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "scrub",
+        "relation": "headword / core form",
+        "meaning": "to clean by rubbing hard; low vegetation",
+        "meaning_cn": "擦洗；灌木丛"
+      },
+      {
+        "word": "scrub the floor",
+        "relation": "common collocation",
+        "meaning": "a common phrase using scrub",
+        "meaning_cn": "常见搭配：scrub the floor"
+      },
+      {
+        "word": "scrubing",
+        "relation": "-ing form",
+        "meaning": "ongoing action of scrub",
+        "meaning_cn": "scrub 的现在分词/动名词形式"
+      },
+      {
+        "word": "scrubed",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of scrub",
+        "meaning_cn": "scrub 的过去式或过去分词形式"
+      },
+      {
+        "word": "scrubs",
+        "relation": "plural form",
+        "meaning": "more than one scrub",
+        "meaning_cn": "scrub 的复数形式"
+      },
+      {
+        "word": "She scrubbed the floor clean.",
+        "relation": "example usage",
+        "meaning": "sentence showing scrub in context",
+        "meaning_cn": "她把地板擦干净。"
+      }
+    ],
     "common_collocations": [
       "scrub the floor"
     ],
@@ -7745,7 +9721,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "rally",
+        "relation": "headword / core form",
+        "meaning": "to gather for support; to recover",
+        "meaning_cn": "集会；恢复；团结"
+      },
+      {
+        "word": "rally support",
+        "relation": "common collocation",
+        "meaning": "a common phrase using rally",
+        "meaning_cn": "常见搭配：rally support"
+      },
+      {
+        "word": "rallying",
+        "relation": "-ing form",
+        "meaning": "ongoing action of rally",
+        "meaning_cn": "rally 的现在分词/动名词形式"
+      },
+      {
+        "word": "rallied",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of rally",
+        "meaning_cn": "rally 的过去式或过去分词形式"
+      },
+      {
+        "word": "rallies",
+        "relation": "plural form",
+        "meaning": "more than one rally",
+        "meaning_cn": "rally 的复数形式"
+      },
+      {
+        "word": "The team rallied after the setback.",
+        "relation": "example usage",
+        "meaning": "sentence showing rally in context",
+        "meaning_cn": "团队在挫折后重新振作。"
+      }
+    ],
     "common_collocations": [
       "rally support"
     ],
@@ -7900,7 +9913,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "tread",
+        "relation": "headword / core form",
+        "meaning": "to step or walk on something",
+        "meaning_cn": "踩；踏；步态"
+      },
+      {
+        "word": "tread carefully",
+        "relation": "common collocation",
+        "meaning": "a common phrase using tread",
+        "meaning_cn": "常见搭配：tread carefully"
+      },
+      {
+        "word": "treading",
+        "relation": "-ing form",
+        "meaning": "ongoing action of tread",
+        "meaning_cn": "tread 的现在分词/动名词形式"
+      },
+      {
+        "word": "treaded",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of tread",
+        "meaning_cn": "tread 的过去式或过去分词形式"
+      },
+      {
+        "word": "treads",
+        "relation": "plural form",
+        "meaning": "more than one tread",
+        "meaning_cn": "tread 的复数形式"
+      },
+      {
+        "word": "Tread carefully on the ice.",
+        "relation": "example usage",
+        "meaning": "sentence showing tread in context",
+        "meaning_cn": "在冰上小心走。"
+      }
+    ],
     "common_collocations": [
       "tread carefully"
     ],
@@ -8054,7 +10104,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "fling",
+        "relation": "headword / core form",
+        "meaning": "to throw forcefully or suddenly",
+        "meaning_cn": "猛扔；投掷"
+      },
+      {
+        "word": "fling open",
+        "relation": "common collocation",
+        "meaning": "a common phrase using fling",
+        "meaning_cn": "常见搭配：fling open"
+      },
+      {
+        "word": "flinging",
+        "relation": "-ing form",
+        "meaning": "ongoing action of fling",
+        "meaning_cn": "fling 的现在分词/动名词形式"
+      },
+      {
+        "word": "flinged",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of fling",
+        "meaning_cn": "fling 的过去式或过去分词形式"
+      },
+      {
+        "word": "flings",
+        "relation": "plural form",
+        "meaning": "more than one fling",
+        "meaning_cn": "fling 的复数形式"
+      },
+      {
+        "word": "He flung the door open.",
+        "relation": "example usage",
+        "meaning": "sentence showing fling in context",
+        "meaning_cn": "他猛地推开门。"
+      }
+    ],
     "common_collocations": [
       "fling open"
     ],
@@ -8179,7 +10266,44 @@
       "suffix": null,
       "confidence": "medium"
     },
-    "word_family": [],
+    "word_family": [
+      {
+        "word": "crack",
+        "relation": "headword / core form",
+        "meaning": "a narrow break; to split or solve by force",
+        "meaning_cn": "裂缝；破裂；破解"
+      },
+      {
+        "word": "crack in the wall",
+        "relation": "common collocation",
+        "meaning": "a common phrase using crack",
+        "meaning_cn": "常见搭配：crack in the wall"
+      },
+      {
+        "word": "cracking",
+        "relation": "-ing form",
+        "meaning": "ongoing action of crack",
+        "meaning_cn": "crack 的现在分词/动名词形式"
+      },
+      {
+        "word": "cracked",
+        "relation": "past / participle form",
+        "meaning": "completed or passive form of crack",
+        "meaning_cn": "crack 的过去式或过去分词形式"
+      },
+      {
+        "word": "cracks",
+        "relation": "plural form",
+        "meaning": "more than one crack",
+        "meaning_cn": "crack 的复数形式"
+      },
+      {
+        "word": "A crack appeared in the wall.",
+        "relation": "example usage",
+        "meaning": "sentence showing crack in context",
+        "meaning_cn": "墙上出现了一道裂缝。"
+      }
+    ],
     "common_collocations": [
       "crack in the wall"
     ],
